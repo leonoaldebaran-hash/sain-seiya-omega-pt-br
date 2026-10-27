@@ -50,19 +50,24 @@ for (const c of [...CHARS, 'RANDOM']) {
   ];
   for (const key of variants) if (has(key)) goldName(key, c);
 }
-// story select: big names, "???" and the word "Saga"
-for (const c of ['EDE', 'HAT', 'KOG', 'RYO', 'SEY', 'SOM', 'YUN', 'R']) goldName(`scene/storyselect/storyselectdata.pac#MENU_NAME_${c}_00.GIM`, c);
-jobs.push({ out: out('scene/storyselect/storyselectdata.pac#MENU_NAME_STORY.GIM'), w: 64, h: 64, texts: [{ t: 'Saga', x: 2, y: 8, w: 60, h: 48, size: 26, ...GOLDN }] });
+// story select: big names, "???" and the word "Saga". In game the "Saga" image is drawn right
+// after the name image and overlaps its right side, so the name keeps clear of the last 34 px.
+for (const c of ['EDE', 'HAT', 'KOG', 'RYO', 'SEY', 'SOM', 'YUN', 'R']) {
+  const key = `scene/storyselect/storyselectdata.pac#MENU_NAME_${c}_00.GIM`;
+  const [w, h] = size(key);
+  jobs.push({ out: out(key), w, h, texts: [{ t: NAME[c], x: 2, y: 2, w: w - 36, h: h - 4, size: h * 0.55, align: 'right', ...GOLDN }] });
+}
+jobs.push({ out: out('scene/storyselect/storyselectdata.pac#MENU_NAME_STORY.GIM'), w: 64, h: 64, texts: [{ t: 'Saga', x: 6, y: 14, w: 56, h: 40, size: 22, align: 'left', ...GOLDN }] });
 
 // --- story select buttons: gray (left) and blue (right) halves, "<Name>" replaces "<Name>編"
 for (const c of ['EDE', 'HAT', 'KOG', 'RYO', 'SEY', 'SOM', 'YUN']) {
   const key = `scene/storyselect/storyselectdata.pac#STORY_BTTN_${c}.GIM`;
   const lerp = [], texts = [];
-  for (const [x0, x1, fill] of [[62, 122, ['#d8d8d8', '#9a9a9a']], [190, 250, ['#ffffff', '#e8f0ff']]]) {
-    const b = inkbox(base(key), [x0, 4, x1, 27], 450);
-    if (!b) continue;
-    lerp.push([b[0] - 1, b[1] - 1, b[2] + 1, b[3] + 1]);
-    texts.push({ t: 'Saga ' + NAME[c], x: b[0] - 6, y: b[1] - 2, w: b[2] - b[0] + 10, h: b[3] - b[1] + 4, size: 11, align: 'right', font: 'Arial', bold: true, fill, outline: '#101018', ow: 1 });
+  // fixed boxes around the original "<name>編" text of each half (the gray text is too dim to detect)
+  for (const [b, fill] of [[[63, 7, 108, 24], ['#d8d8d8', '#9a9a9a']], [[190, 7, 236, 24], ['#ffffff', '#e8f0ff']]]) {
+    lerp.push(b);
+    // only the name, left aligned: on the selected button a wing ornament covers the right end
+    texts.push({ t: NAME[c], x: b[0] - 2, y: b[1] - 2, w: b[2] - b[0] + 4, h: b[3] - b[1] + 4, size: 12, align: 'left', font: 'Arial', bold: true, fill, outline: '#101018', ow: 1 });
   }
   jobs.push({ out: out(key), w: 256, h: 32, base: base(key), lerp, texts });
 }

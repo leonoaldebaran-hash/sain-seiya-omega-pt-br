@@ -7,6 +7,7 @@ O que está traduzido:
 
 - **Todo o texto do jogo** (≈ 2.900 frases): história completa dos 7 personagens + Seiya,
   menus, mensagens do sistema, tutorial, listas de golpes e combos, galeria e perfis.
+- **Acentos e letras normais** no texto do jogo, graças à fonte reconstruída.
 - **≈ 300 texturas com texto**: botões e títulos dos menus, barras de ajuda dos botões,
   nomes dos personagens (seleção, história, HUD da luta), nomes das fases, telas de aviso etc.
 
@@ -15,12 +16,16 @@ Não traduzido: vozes, vídeos (abertura/créditos) e o logotipo do jogo.
 > **Este repositório não contém nenhum arquivo do jogo.** Aqui estão só as ferramentas e as
 > traduções em português. Para gerar a ISO traduzida você precisa da sua própria cópia do jogo.
 
-## Sobre a fonte (sem acentos)
+## Sobre a fonte (com acentos)
 
-A fonte do jogo só tem os caracteres usados no roteiro japonês original. Ela inclui o alfabeto
-latino "largo" (Ａｂｃ…), mas não tem letras acentuadas nem o espaço comum. Por isso o build
-converte o texto automaticamente: tira os acentos e usa letras largas. Nas **imagens** os acentos
-aparecem normalmente.
+A fonte original do jogo (`FONT.FNT`, dentro de `common/globalobject.pac`) só tem os caracteres
+usados no roteiro japonês: não tem letras minúsculas comuns, espaço nem acentos. O projeto
+**reconstrói essa fonte**: troca 90 kanji que a tradução não usa mais por letras normais,
+números, pontuação e todos os acentos do português (á à â ã é ê í ó ô õ ú ü ç…). O texto é quebrado
+em linhas pela largura real de cada letra.
+
+Sem a fonte nova (pasta `fonte/` ausente), o build volta ao modo antigo: letras "largas"
+(Ａｂｃ…) e sem acentos.
 
 ## Requisitos
 
@@ -46,7 +51,12 @@ node tools/gim.js dump gims
 GIMS=gims node tools/imagens.js
 powershell -File tools/render.ps1 tools/jobs.json
 
-# 4. gerar a ISO
+# 4. fonte com acentos (desenha os glifos com a fonte Arial do Windows)
+node tools/fonte.js glyphs
+powershell -File tools/glifos.ps1 fonte/novos.txt fonte/glifos.json Arial 17
+node tools/fonte.js build
+
+# 5. gerar a ISO
 ISO_IN="Saint Seiya Omega - Ultimate Cosmo (Japan).iso" ISO_OUT="Saint Seiya Omega (PT-BR).iso" node tools/build.js
 ```
 
@@ -79,6 +89,7 @@ tamanho de cada caixa.
 | `tools/encode.js` | converte o português para o que a fonte do jogo consegue desenhar |
 | `tools/gim.js`, `tools/png.js` | decodificam e codificam as texturas GIM do PSP (com swizzle e paleta) |
 | `tools/render.ps1` + `tools/imagens*.js` | desenham os textos das texturas em português |
+| `tools/fonte.js`, `tools/glifos.ps1`, `tools/fnt.js` | reconstroem a fonte do jogo com letras acentuadas |
 | `tools/iso.js` | substitui arquivos dentro da ISO |
 | `tools/build.js` | junta tudo e gera a ISO traduzida |
 | `tools/verify.js` | confere textos e imagens dentro de uma ISO gerada |

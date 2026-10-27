@@ -83,6 +83,10 @@ fs.writeFileSync(path.join(BUILD, 'problemas.txt'), problems.join('\n'));
 if (problems.length) console.log(`ATENÇÃO: ${problems.length} textos com problema (build/problemas.txt)`);
 if (process.argv.includes('--check')) process.exit(0);
 
+// --- font with Latin letters and accents (tools/fonte.js)
+const FONT = path.join(ROOT, 'fonte', 'FONT.FNT');
+if (fs.existsSync(FONT)) { put('common/globalobject.pac', 'FONT.FNT', fs.readFileSync(FONT)); console.log('fonte nova: sim'); }
+
 // --- images
 const gim = require('./gim');
 let images = 0;

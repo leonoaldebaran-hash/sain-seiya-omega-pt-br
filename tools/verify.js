@@ -7,7 +7,7 @@ const path = require('path');
 const png = require('./png');
 const { decode } = require('./gim');
 const { parsePac, parseBtx } = require('./btx');
-const { encode } = require('./encode');
+const { encode, latin } = require('./encode');
 const ROOT = path.join(__dirname, '..');
 const X = process.argv[2];
 const read = (file, inner) => {
@@ -43,9 +43,9 @@ for (const f of fs.readdirSync(path.join(ROOT, 'traducao')).filter((x) => x.ends
     for (const e of entries) {
       if (!e.pt) continue;
       const t = got.get(e.id) || '';
-      // the packed text must be full-width (no plain ASCII letters outside tags/button letters)
+      // with the original font the packed text must be full-width (no plain ASCII letters)
       const plain = t.replace(/<[^>]*>/g, '').replace(/[PKSL]/g, '');
-      if (!t || t === e.jp || /[a-zA-Z]/.test(plain)) { txtBad++; if (txtBad < 10) console.log('texto suspeito', f, key, e.id, t.slice(0, 40)); } else txtOk++;
+      if (!t || t === e.jp || (!latin && /[a-zA-Z]/.test(plain))) { txtBad++; if (txtBad < 10) console.log('texto suspeito', f, key, e.id, t.slice(0, 40)); } else txtOk++;
     }
   }
 }
