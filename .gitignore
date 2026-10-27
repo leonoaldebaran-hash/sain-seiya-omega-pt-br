@@ -1,0 +1,11 @@
+# Arquivos do jogo e gerados a partir dele: nunca publicar
+*.iso
+*.cso
+*.cpk
+iso/
+original/
+build/
+gims/
+imagens/
+tools/jobs*.json
+traducao/patches/

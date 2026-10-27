@@ -1,0 +1,858 @@
+{
+ "event/script/54_01.pac#54_01_JP.BTX": [
+  {
+   "id": 500010,
+   "pt": "Esta é a Ilha Thalassa. A ilha do Imperador dos Mares, Poseidon..."
+  },
+  {
+   "id": 500020,
+   "pt": "...Irmã!"
+  },
+  {
+   "id": 500030,
+   "pt": "Éden?! O que faz aqui?"
+  },
+  {
+   "id": 500040,
+   "pt": "Soube que haveria uma luta contra Poseidon."
+  },
+  {
+   "id": 500050,
+   "pt": "Sim. Poseidon é só um obstáculo para a ambição do nosso pai."
+  },
+  {
+   "id": 500060,
+   "pt": "Soube que ele está prestes a reviver. Temos que eliminá-lo."
+  },
+  {
+   "id": 500070,
+   "pt": "Eu sei. Vim correndo para ajudar nisso."
+  },
+  {
+   "id": 500080,
+   "pt": "Isso não."
+  },
+  {
+   "id": 500090,
+   "pt": "Irmã...!"
+  },
+  {
+   "id": 500100,
+   "pt": "O inimigo é Poseidon. Um adversário perigoso. Não posso te pôr em risco."
+  },
+  {
+   "id": 500110,
+   "pt": "Por isso mesmo quero lutar. Não posso deixar a luta só com você!"
+  },
+  {
+   "id": 500120,
+   "pt": "Eu disse que não. Não suje as suas mãos. Nosso pai e sua mãe também querem isso."
+  },
+  {
+   "id": 500130,
+   "pt": "Mas...!"
+  },
+  {
+   "id": 500140,
+   "pt": "Se quer tanto lutar, então lute comigo."
+  },
+  {
+   "id": 500150,
+   "pt": "Se perder para mim, aqui não há lugar para você."
+  },
+  {
+   "id": 500151,
+   "pt": "Volte obediente para o Santuário. Entendeu?"
+  },
+  {
+   "id": 500160,
+   "pt": "...Entendi. Se é assim, eu aceito...!"
+  }
+ ],
+ "event/script/54_02.pac#54_02_JP.BTX": [
+  {
+   "id": 500260,
+   "pt": "...Vim até aqui atraído por um leve Cosmo de água..."
+  },
+  {
+   "id": 500270,
+   "pt": "O tridente. Esta é uma estátua de Poseidon...? ...Hã? Aquilo é...!"
+  },
+  {
+   "id": 500280,
+   "pt": "...Uma joia azul! Então esta é uma Gota d'Água..."
+  },
+  {
+   "id": 500290,
+   "pt": "Espere!"
+  },
+  {
+   "id": 500300,
+   "pt": "...! Quem está aí!"
+  },
+  {
+   "id": 500310,
+   "pt": "Éden! Você também veio para esta ilha!"
+  },
+  {
+   "id": 500320,
+   "pt": "Águia."
+  },
+  {
+   "id": 500330,
+   "pt": "Precisamos juntar essas joias. Poderia nos entregar?"
+  },
+  {
+   "id": 500340,
+   "pt": "...Hum. Você conhece esta joia."
+  },
+  {
+   "id": 500350,
+   "pt": "..."
+  },
+  {
+   "id": 500360,
+   "pt": "Parece que conhece. Você também tem uma Gota d'Água?"
+  },
+  {
+   "id": 500370,
+   "pt": "Tenho."
+  },
+  {
+   "id": 500380,
+   "pt": "Entregue-a para mim. Parece que ela é necessária para chegar a Poseidon."
+  },
+  {
+   "id": 500390,
+   "pt": "...Não sei o que está tramando, mas não posso entregar a você."
+  },
+  {
+   "id": 500391,
+   "pt": "Se Poseidon se aliar a Marte, será um desastre."
+  },
+  {
+   "id": 500400,
+   "pt": "Não precisa se preocupar. Poseidon também é nosso inimigo. Prometo derrotá-lo."
+  },
+  {
+   "id": 500410,
+   "pt": "Não confio em você."
+  },
+  {
+   "id": 500420,
+   "pt": "...Não tem jeito. Não queria uma luta inútil..."
+  },
+  {
+   "id": 500430,
+   "pt": "Vou tomá-la à força."
+  }
+ ],
+ "event/script/54_03.pac#54_03_JP.BTX": [
+  {
+   "id": 500500,
+   "pt": "O sol já está se pondo. Não é tão fácil encontrar..."
+  },
+  {
+   "id": 500510,
+   "pt": "Príncipe Éden."
+  },
+  {
+   "id": 500520,
+   "pt": "Mycenae de Leão! Você também veio para cá."
+  },
+  {
+   "id": 500530,
+   "pt": "Soube que Poseidon quer reviver e vim derrotá-lo. Éden, será que você também...?"
+  },
+  {
+   "id": 500540,
+   "pt": "Sim. Para o ideal do meu pai, Poseidon é um obstáculo a vencer."
+  },
+  {
+   "id": 500550,
+   "pt": "...Não deve. Você será o príncipe do novo Santuário."
+  },
+  {
+   "id": 500551,
+   "pt": "Se algo lhe acontecer, não haverá volta."
+  },
+  {
+   "id": 500560,
+   "pt": "...Mycenae. Acha que um covarde que nem luta pode governar um novo mundo?"
+  },
+  {
+   "id": 500570,
+   "pt": "Isso é..."
+  },
+  {
+   "id": 500580,
+   "pt": "Não treinei desde criança para fugir. Quero abrir meu destino com minhas forças."
+  },
+  {
+   "id": 500590,
+   "pt": "...Se tem essa determinação, não direi mais nada."
+  },
+  {
+   "id": 500600,
+   "pt": "Mycenae, tenho um pedido."
+  },
+  {
+   "id": 500610,
+   "pt": "Qual...?"
+  },
+  {
+   "id": 500601,
+   "pt": "Como da outra vez, quero lutar com você."
+  },
+  {
+   "id": 500602,
+   "pt": "Continuei evoluindo desde então. Quero testar o meu poder."
+  },
+  {
+   "id": 500620,
+   "pt": "Hmph... Um Cavaleiro de Bronze querendo se testar contra um Cavaleiro de Ouro..."
+  },
+  {
+   "id": 500621,
+   "pt": "Não é à toa que aguentou o meu treinamento."
+  },
+  {
+   "id": 500630,
+   "pt": "Não vou pegar leve, Príncipe Éden! Venha!"
+  }
+ ],
+ "event/script/54_04.pac#54_04_JP.BTX": [
+  {
+   "id": 500720,
+   "pt": "Já anoiteceu. Vou descansar por aqui hoje... ...Hã? Esta presença..."
+  },
+  {
+   "id": 500730,
+   "pt": "Tem alguém aí?! Apareça!"
+  },
+  {
+   "id": 500740,
+   "pt": "Oh... Achei que tinha escondido a minha presença..."
+  },
+  {
+   "id": 500750,
+   "pt": "Há quanto tempo, Éden."
+  },
+  {
+   "id": 500760,
+   "pt": "...Ah, um dos amigos dos traidores. O que faz aqui?"
+  },
+  {
+   "id": 500770,
+   "pt": "Estou juntando as Gotas d'Água."
+  },
+  {
+   "id": 500780,
+   "pt": "Oh..."
+  },
+  {
+   "id": 500790,
+   "pt": "Você também tem uma, não tem, Éden?"
+  },
+  {
+   "id": 500800,
+   "pt": "Tenho, sim. E daí?"
+  },
+  {
+   "id": 500810,
+   "pt": "Me entregue."
+  },
+  {
+   "id": 500820,
+   "pt": "Eu é que digo."
+  },
+  {
+   "id": 500830,
+   "pt": "Pelo visto, não vai entregar."
+  },
+  {
+   "id": 500840,
+   "pt": "...Desde a Palestra, eu queria lutar com você."
+  },
+  {
+   "id": 500850,
+   "pt": "Não tenho medo de lutar. Com esse poder, você não me vence!"
+  }
+ ],
+ "event/script/54_05.pac#54_05_JP.BTX": [
+  {
+   "id": 500920,
+   "pt": "Espere, Éden."
+  },
+  {
+   "id": 500930,
+   "pt": "O quê...?"
+  },
+  {
+   "id": 500940,
+   "pt": "Você é Kiki de Áries. Que encontro inesperado..."
+  },
+  {
+   "id": 500950,
+   "pt": "Soube que você quer derrotar Poseidon."
+  },
+  {
+   "id": 500960,
+   "pt": "Éden, você não conhece a força de Poseidon. Assim, vai morrer à toa."
+  },
+  {
+   "id": 500970,
+   "pt": "Obrigado, mas não precisa se preocupar. Eu derroto Poseidon. Treinei para isso."
+  },
+  {
+   "id": 500980,
+   "pt": "Tão confiante no seu poder, Éden... Então vou corrigir essa arrogância."
+  },
+  {
+   "id": 500990,
+   "pt": "...O quê?"
+  },
+  {
+   "id": 501000,
+   "pt": "Quem não vence nem a mim não tem como vencer Poseidon."
+  },
+  {
+   "id": 501001,
+   "pt": "Se perder para mim, volte obediente para o Santuário."
+  },
+  {
+   "id": 501010,
+   "pt": "...Depois disso, não posso recusar."
+  },
+  {
+   "id": 501020,
+   "pt": "Kiki de Áries! Cavaleiro de Ouro do renascimento e da técnica! Vamos lutar!"
+  }
+ ],
+ "event/script/54_06.pac#54_06_JP.BTX": [
+  {
+   "id": 501130,
+   "pt": "...Hã? Que Cosmo solene é este... Vem de lá?"
+  },
+  {
+   "id": 501140,
+   "pt": "...Estranho. Senti um Cosmo bem fraco vindo daqui..."
+  },
+  {
+   "id": 501150,
+   "pt": "Não tem ninguém... Deve ter sido impressão..."
+  },
+  {
+   "id": 501160,
+   "pt": "Não foi impressão."
+  },
+  {
+   "id": 501170,
+   "pt": "...!"
+  },
+  {
+   "id": 501180,
+   "pt": "...Quem é você? Nunca encontrei alguém com um Cosmo como o seu..."
+  },
+  {
+   "id": 501190,
+   "pt": "Sou Shun. Um Cavaleiro de Atena, como você."
+  },
+  {
+   "id": 501200,
+   "pt": "Shun...? Shun de Andrômeda?! Mas ouvi dizer que tinha se afastado das lutas..."
+  },
+  {
+   "id": 501210,
+   "pt": "Mas ouvi dizer que tinha se afastado das lutas..."
+  },
+  {
+   "id": 501220,
+   "pt": "Sim... por causa da ferida de Marte..."
+  },
+  {
+   "id": 501230,
+   "pt": "..."
+  },
+  {
+   "id": 501240,
+   "pt": "Você veio selar Poseidon, não é?"
+  },
+  {
+   "id": 501250,
+   "pt": "Tenho uma Gota d'Água. Quero confiá-la a quem vá enfrentar Poseidon."
+  },
+  {
+   "id": 501260,
+   "pt": "O lendário Cavaleiro que lutou contra Marte... ...Shun de Andrômeda, lute comigo."
+  },
+  {
+   "id": 501270,
+   "pt": "Não quero ferir ninguém. Nem mesmo entre Cavaleiros, para crescermos juntos."
+  },
+  {
+   "id": 501280,
+   "pt": "Entendo... Mas eu tenho motivo para lutar com você."
+  },
+  {
+   "id": 501290,
+   "pt": "Lá vou eu, Shun de Andrômeda! Vou pôr um ponto final na sua lenda!"
+  },
+  {
+   "id": 501291,
+   "pt": "O-o quê...?"
+  }
+ ],
+ "event/script/54_07.pac#54_07_JP.BTX": [
+  {
+   "id": 102010,
+   "pt": "O templo do norte... Este é o templo de Poseidon."
+  },
+  {
+   "id": 102020,
+   "pt": "Se Sorento falou a verdade, deve haver uma barreira lá dentro..."
+  },
+  {
+   "id": 102030,
+   "pt": ".........? Este Cosmo é..."
+  },
+  {
+   "id": 102040,
+   "pt": "...Quem diria que seria você a chegar até aqui."
+  },
+  {
+   "id": 102050,
+   "pt": "Há quanto tempo, Pégaso."
+  },
+  {
+   "id": 102060,
+   "pt": "Éden... Então era você!"
+  },
+  {
+   "id": 102070,
+   "pt": "Se chegou até aqui, também tem uma Gota d'Água?"
+  },
+  {
+   "id": 102080,
+   "pt": "...Tenho."
+  },
+  {
+   "id": 102090,
+   "pt": "Então me entregue. Também quero derrotar Poseidon. Se me der, eu luto por você."
+  },
+  {
+   "id": 102100,
+   "pt": "Então me entregue. Também quero derrotar Poseidon. Se me der, eu luto por você."
+  },
+  {
+   "id": 102110,
+   "pt": "...Foi mal, mas não dá."
+  },
+  {
+   "id": 102120,
+   "pt": "Esta Gota d'Água... Ryuho, Souma, Shaina e até Mycenae me confiaram tudo isso."
+  },
+  {
+   "id": 102130,
+   "pt": "Todos vieram a esta ilha para derrotar Poseidon. Mas confiaram em mim."
+  },
+  {
+   "id": 102140,
+   "pt": "...Por isso não posso te dar. Poseidon, quem vai derrotar sou eu!"
+  },
+  {
+   "id": 102150,
+   "pt": "...Hmph. Confiança, esperança... só palavras não salvam a Terra."
+  },
+  {
+   "id": 102160,
+   "pt": "Para vencer Poseidon é preciso um poder absoluto, como o meu."
+  },
+  {
+   "id": 102170,
+   "pt": "Não! Arder o Cosmo por alguém e confiar nos amigos: isso é ser Cavaleiro!"
+  },
+  {
+   "id": 102180,
+   "pt": "Ingênuo. Pensando assim, você nunca vai derrotar Poseidon."
+  },
+  {
+   "id": 102190,
+   "pt": "Errado! Poseidon nos reuniu aqui para que os Cavaleiros lutassem entre si."
+  },
+  {
+   "id": 501770,
+   "pt": "Lutei muitas vezes contra Cavaleiros."
+  },
+  {
+   "id": 102210,
+   "pt": "Mas todos nós temos a mesma missão: proteger a Terra de Poseidon!"
+  },
+  {
+   "id": 102220,
+   "pt": "Foi por confiarmos uns nos outros que me deram esta Gota d'Água!"
+  },
+  {
+   "id": 102230,
+   "pt": "Quem não entende isso nunca vai derrotar Poseidon!"
+  },
+  {
+   "id": 102240,
+   "pt": "...Hmph. Parece que eu e você nunca vamos nos entender."
+  },
+  {
+   "id": 102250,
+   "pt": "Venha, Pégaso! Chega de palavras. Meus punhos vão provar que você está errado!"
+  }
+ ],
+ "event/script/54_08.pac#54_08_JP.BTX": [
+  {
+   "id": 501500,
+   "pt": "Esta é a morada de Poseidon... Quem diria que havia um espaço assim sob a ilha..."
+  },
+  {
+   "id": 501510,
+   "pt": "...Então é você que veio, Cavaleiro de Atena."
+  },
+  {
+   "id": 501520,
+   "pt": "...!"
+  },
+  {
+   "id": 501530,
+   "pt": "...Marte, senhor do Santuário, rouba o Cosmo da Terra. É essa a vontade de Atena?"
+  },
+  {
+   "id": 501550,
+   "pt": "É para criar o mundo ideal."
+  },
+  {
+   "id": 501560,
+   "pt": "A Terra está em caos e ódio. Os humanos esqueceram como se ajudar e só se ferem."
+  },
+  {
+   "id": 501570,
+   "pt": "...Por isso meu pai diz que, para criar a paz, é preciso destruir tudo antes."
+  },
+  {
+   "id": 501590,
+   "pt": "Você deve pensar o mesmo, Poseidon."
+  },
+  {
+   "id": 501600,
+   "pt": "Hmph... Você é mesmo filho de Marte. Parece que teremos que lutar."
+  },
+  {
+   "id": 501610,
+   "pt": "Sempre foi minha intenção. Vou selá-lo e provar um poder acima dos deuses!"
+  },
+  {
+   "id": 501620,
+   "pt": "Desafiar um deus é inútil. Os humanos repetem isso e nunca aprendem."
+  },
+  {
+   "id": 501690,
+   "pt": "Poseidon! A Terra não precisa de dois deuses."
+  },
+  {
+   "id": 501700,
+   "pt": "Quem merece criar o novo mundo, você ou meu pai? Vamos decidir agora!"
+  },
+  {
+   "id": 501710,
+   "pt": "Então venha. Vou esmagá-lo!"
+  }
+ ],
+ "event/script/54_11.pac#54_11_JP.BTX": [
+  {
+   "id": 500170,
+   "pt": "...! Você ficou forte, Éden!"
+  },
+  {
+   "id": 500180,
+   "pt": "Treinei todos os dias para ajudar você e nosso pai."
+  },
+  {
+   "id": 500190,
+   "pt": "...Mesmo de mães diferentes, você é meu irmão. Será o príncipe do novo mundo."
+  },
+  {
+   "id": 500200,
+   "pt": "Não pode deixar a luta comigo e voltar ao Santuário?"
+  },
+  {
+   "id": 500210,
+   "pt": "...Entendo você e o pai. Mas quero dar tudo pelo mundo que ele vai criar!"
+  },
+  {
+   "id": 500211,
+   "pt": "Mas quero dar tudo de mim pelo mundo que nosso pai vai criar!"
+  },
+  {
+   "id": 500220,
+   "pt": "...Entendi. Se insiste tanto, faça como quiser."
+  },
+  {
+   "id": 500230,
+   "pt": "Irmã..."
+  },
+  {
+   "id": 500240,
+   "pt": "...Em algum lugar desta ilha há sete joias azuis chamadas Gotas d'Água."
+  },
+  {
+   "id": 500241,
+   "pt": "Para chegar até Poseidon, é preciso reuni-las."
+  },
+  {
+   "id": 500250,
+   "pt": "Gotas d'Água... ...Entendi. Eu, Éden, vou derrotar Poseidon com certeza."
+  }
+ ],
+ "event/script/54_12.pac#54_12_JP.BTX": [
+  {
+   "id": 500450,
+   "pt": "Que surpresa, Águia. Está muito mais forte que da última vez."
+  },
+  {
+   "id": 500460,
+   "pt": "...!"
+  },
+  {
+   "id": 500470,
+   "pt": "Mas assim ainda não me vence. Vou levar a Gota d'Água."
+  },
+  {
+   "id": 500480,
+   "pt": "Ugh...!"
+  },
+  {
+   "id": 500490,
+   "pt": "Então, adeus."
+  }
+ ],
+ "event/script/54_13.pac#54_13_JP.BTX": [
+  {
+   "id": 500640,
+   "pt": "Magnífico, Príncipe Éden."
+  },
+  {
+   "id": 500650,
+   "pt": "Mycenae, obrigado pela luta."
+  },
+  {
+   "id": 500660,
+   "pt": "...Então, tome isto. A prova de que me venceu."
+  },
+  {
+   "id": 500670,
+   "pt": "...! Isto é..."
+  },
+  {
+   "id": 500680,
+   "pt": "Encontrei nesta ilha. É você quem a merece..."
+  },
+  {
+   "id": 500690,
+   "pt": "Entendo... Aceito com gratidão."
+  },
+  {
+   "id": 500700,
+   "pt": "Poseidon é um inimigo forte. Não baixe a guarda..."
+  },
+  {
+   "id": 500710,
+   "pt": "Eu sei. Adeus. Até a próxima, Mycenae."
+  }
+ ],
+ "event/script/54_14.pac#54_14_JP.BTX": [
+  {
+   "id": 500860,
+   "pt": "Afinal, é só isso. Você não é páreo para mim."
+  },
+  {
+   "id": 500870,
+   "pt": "Ugh... Mesmo que eu caia, eles vão te derrotar."
+  },
+  {
+   "id": 500880,
+   "pt": "Eles? Seus amigos traidores?"
+  },
+  {
+   "id": 500890,
+   "pt": "Infelizmente, tanto faz quem venha. Vocês não são páreo para mim."
+  },
+  {
+   "id": 500900,
+   "pt": "..."
+  },
+  {
+   "id": 500910,
+   "pt": "Adeus, Lobo. Se o destino quiser, nos veremos de novo."
+  }
+ ],
+ "event/script/54_15.pac#54_15_JP.BTX": [
+  {
+   "id": 501030,
+   "pt": "Que força...! Nem parece um Cavaleiro de Bronze..."
+  },
+  {
+   "id": 501040,
+   "pt": "...Isso o convence? De que posso lutar contra Poseidon?"
+  },
+  {
+   "id": 501050,
+   "pt": "Ugh..."
+  },
+  {
+   "id": 501060,
+   "pt": "...Já vi Poseidon numa guerra do passado."
+  },
+  {
+   "id": 501080,
+   "pt": "Desista de lutar contra Poseidon e volte ao Santuário."
+  },
+  {
+   "id": 501090,
+   "pt": "...Entendo. Você era próximo de Seiya... e da antiga Atena."
+  },
+  {
+   "id": 501100,
+   "pt": "..."
+  },
+  {
+   "id": 501110,
+   "pt": "Agradeço o conselho. Mas vou derrotar Poseidon com o meu poder."
+  },
+  {
+   "id": 501120,
+   "pt": "Adeus, Kiki de Áries."
+  }
+ ],
+ "event/script/54_16.pac#54_16_JP.BTX": [
+  {
+   "id": 501300,
+   "pt": "..."
+  },
+  {
+   "id": 501310,
+   "pt": "...Digno de Shun de Andrômeda. Mesmo ferido por Marte, ainda é tão forte..."
+  },
+  {
+   "id": 501320,
+   "pt": "...Seu Cosmo é terrivelmente agressivo..."
+  },
+  {
+   "id": 501330,
+   "pt": "Vou derrotar Poseidon. Quero que me dê a Gota d'Água."
+  },
+  {
+   "id": 501340,
+   "pt": "Eu entrego a Gota d'Água."
+  },
+  {
+   "id": 501341,
+   "pt": "Mas quero que lembre de uma coisa."
+  },
+  {
+   "id": 501342,
+   "pt": "Seu Cosmo verdadeiro é bem mais gentil. Você reprime quem é. É o que sinto."
+  },
+  {
+   "id": 501350,
+   "pt": "Shun de Andrômeda, o lendário Cavaleiro. Nunca conheci ninguém como você."
+  },
+  {
+   "id": 501360,
+   "pt": "Mas deixe-me dizer: eu, Éden, não tenho nenhuma dúvida!"
+  },
+  {
+   "id": 501370,
+   "pt": "Ugh... Consegui a Gota d'Água, mas que sensação é esta..."
+  },
+  {
+   "id": 501371,
+   "pt": "Shun de Andrômeda... Ele não é alguém comum..."
+  }
+ ],
+ "event/script/54_17.pac#54_17_JP.BTX": [
+  {
+   "id": 501380,
+   "pt": "Ugh... Ainda não... Ainda não posso perder..."
+  },
+  {
+   "id": 501390,
+   "pt": "Não, a luta acabou. Você ainda não me vence."
+  },
+  {
+   "id": 501400,
+   "pt": "Não posso aceitar isso! Para proteger a paz da Terra, não posso perder aqui..."
+  },
+  {
+   "id": 501410,
+   "pt": "Proteger a paz... Belas palavras, mas sem poder não têm sentido."
+  },
+  {
+   "id": 501430,
+   "pt": "...!"
+  },
+  {
+   "id": 501440,
+   "pt": "Agora preciso derrotar Poseidon. Pégaso, vou levar a sua Gota d'Água."
+  },
+  {
+   "id": 501450,
+   "pt": "Assim, todas as Gotas d'Água estão reunidas..."
+  },
+  {
+   "id": 501460,
+   "pt": "...!"
+  },
+  {
+   "id": 501470,
+   "pt": "Esta é a Escama de Tritão... Com ela, poderei romper a barreira..."
+  },
+  {
+   "id": 501480,
+   "pt": "Ugh... Éden...!"
+  },
+  {
+   "id": 501490,
+   "pt": "Não se preocupe, Pégaso. Eu derroto Poseidon. Até lá, descanse."
+  }
+ ],
+ "event/script/54_18.pac#54_18_JP.BTX": [
+  {
+   "id": 501720,
+   "pt": "Quem diria que eu ficaria para trás de um simples humano..."
+  },
+  {
+   "id": 501730,
+   "pt": "...Parece que está decidido, Poseidon."
+  },
+  {
+   "id": 501740,
+   "pt": "Quem vai criar o mundo ideal somos meu pai e eu."
+  },
+  {
+   "id": 501750,
+   "pt": "Hmph... Será? Você ainda não entende nada. Nem do mundo, nem de si mesmo...!"
+  },
+  {
+   "id": 501741,
+   "pt": "Poseidon...?!"
+  },
+  {
+   "id": 501742,
+   "pt": "O que é isso...?"
+  },
+  {
+   "id": 501743,
+   "pt": "...O Cosmo sumiu. Então Poseidon voltou a dormir..."
+  },
+  {
+   "id": 501760,
+   "pt": "...Adeus, Poseidon. Eu com certeza vou criar o mundo ideal."
+  }
+ ]
+}

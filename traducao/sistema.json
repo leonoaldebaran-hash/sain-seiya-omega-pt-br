@@ -1,0 +1,1040 @@
+{
+ "btx/system/systemmessage_jp.btx": [
+  {
+   "id": 0,
+   "pt": "Sim"
+  },
+  {
+   "id": 1,
+   "pt": "Não"
+  },
+  {
+   "id": 2,
+   "pt": "OK"
+  },
+  {
+   "id": 3,
+   "pt": "Confirmar"
+  },
+  {
+   "id": 4,
+   "pt": "Voltar à batalha"
+  },
+  {
+   "id": 5,
+   "pt": "Lista de combos"
+  },
+  {
+   "id": 6,
+   "pt": "Configurar botões"
+  },
+  {
+   "id": 7,
+   "pt": "Seleção de personagem"
+  },
+  {
+   "id": 8,
+   "pt": "Voltar ao menu principal"
+  },
+  {
+   "id": 9,
+   "pt": "Revanche"
+  },
+  {
+   "id": 10,
+   "pt": "Seleção de personagem"
+  },
+  {
+   "id": 11,
+   "pt": "Voltar ao lobby"
+  },
+  {
+   "id": 12,
+   "pt": "Revanche"
+  },
+  {
+   "id": 13,
+   "pt": "Seleção de personagem"
+  },
+  {
+   "id": 14,
+   "pt": "Voltar ao menu principal"
+  },
+  {
+   "id": 15,
+   "pt": "Voltar à batalha"
+  },
+  {
+   "id": 16,
+   "pt": "Lista de combos"
+  },
+  {
+   "id": 17,
+   "pt": "Opções de treino"
+  },
+  {
+   "id": 18,
+   "pt": "Seleção de personagem"
+  },
+  {
+   "id": 19,
+   "pt": "Voltar ao menu principal"
+  },
+  {
+   "id": 20,
+   "pt": "Voltar ao lobby?"
+  },
+  {
+   "id": 21,
+   "pt": "Voltar ao menu principal?"
+  },
+  {
+   "id": 22,
+   "pt": "Voltar à seleção | de personagem?"
+  },
+  {
+   "id": 23,
+   "pt": "Jogador:"
+  },
+  {
+   "id": 24,
+   "pt": "Tempo total de jogo:"
+  },
+  {
+   "id": 25,
+   "pt": "Tempo total de batalha:"
+  },
+  {
+   "id": 26,
+   "pt": "Maior pontuação:"
+  },
+  {
+   "id": 27,
+   "pt": "Vitórias contra CPU:"
+  },
+  {
+   "id": 28,
+   "pt": "Lutas contra CPU:"
+  },
+  {
+   "id": 29,
+   "pt": "Vitórias contra jogadores:"
+  },
+  {
+   "id": 30,
+   "pt": "Lutas contra jogadores:"
+  },
+  {
+   "id": 31,
+   "pt": "Seleção de personagem"
+  },
+  {
+   "id": 32,
+   "pt": "Voltar ao título"
+  },
+  {
+   "id": 33,
+   "pt": "Exemplo 41"
+  },
+  {
+   "id": 34,
+   "pt": "Força da CPU"
+  },
+  {
+   "id": 35,
+   "pt": "Tempo de luta"
+  },
+  {
+   "id": 36,
+   "pt": "Rounds"
+  },
+  {
+   "id": 37,
+   "pt": "Novato"
+  },
+  {
+   "id": 38,
+   "pt": "Bronze"
+  },
+  {
+   "id": 39,
+   "pt": "Prata"
+  },
+  {
+   "id": 40,
+   "pt": "Ouro"
+  },
+  {
+   "id": 41,
+   "pt": "Deus"
+  },
+  {
+   "id": 42,
+   "pt": "30"
+  },
+  {
+   "id": 43,
+   "pt": "60"
+  },
+  {
+   "id": 44,
+   "pt": "99"
+  },
+  {
+   "id": 45,
+   "pt": "∞"
+  },
+  {
+   "id": 46,
+   "pt": "1"
+  },
+  {
+   "id": 47,
+   "pt": "3"
+  },
+  {
+   "id": 48,
+   "pt": "5"
+  },
+  {
+   "id": 49,
+   "pt": "Voltar à tela de título?"
+  },
+  {
+   "id": 50,
+   "pt": "Voltar à seleção de personagem?"
+  },
+  {
+   "id": 51,
+   "pt": "Voltar ao tutorial"
+  },
+  {
+   "id": 52,
+   "pt": "Encerrar o tutorial e voltar | ao menu principal?"
+  },
+  {
+   "id": 53,
+   "pt": "Cancelar"
+  },
+  {
+   "id": 54,
+   "pt": "Combo 1"
+  },
+  {
+   "id": 55,
+   "pt": "Combo 2"
+  },
+  {
+   "id": 56,
+   "pt": "Combo 3"
+  },
+  {
+   "id": 57,
+   "pt": "Combo 4"
+  },
+  {
+   "id": 58,
+   "pt": "Combo 5"
+  },
+  {
+   "id": 59,
+   "pt": "Combo 6"
+  },
+  {
+   "id": 60,
+   "pt": "Combo 7"
+  },
+  {
+   "id": 61,
+   "pt": "Combo 8"
+  },
+  {
+   "id": 62,
+   "pt": "Combo 9"
+  },
+  {
+   "id": 63,
+   "pt": "Combo 10"
+  },
+  {
+   "id": 110,
+   "pt": "Dados do sistema não encontrados. | São necessários <SET0> KB livres. | Criar novos dados?"
+  },
+  {
+   "id": 111,
+   "pt": "Os dados do sistema estão | corrompidos e não carregaram. | Criar novos dados do sistema?"
+  },
+  {
+   "id": 112,
+   "pt": "Mídia de gravação não encontrada. | Falha ao carregar os dados. | Tentar novamente?"
+  },
+  {
+   "id": 113,
+   "pt": "A mídia de gravação foi removida. | Falha ao carregar os dados. | Tentar novamente?"
+  },
+  {
+   "id": 114,
+   "pt": "Mídia de gravação não encontrada. | Falha ao salvar os dados. | Tentar novamente?"
+  },
+  {
+   "id": 115,
+   "pt": "A mídia de gravação foi removida. | Falha ao salvar os dados. | Tentar novamente?"
+  },
+  {
+   "id": 116,
+   "pt": "A mídia de gravação está | protegida. Falha ao salvar. | Tentar novamente?"
+  },
+  {
+   "id": 117,
+   "pt": "Há dados de uma partida | interrompida. Continuar? | (Esses dados serão apagados | no próximo salvamento.)"
+  },
+  {
+   "id": 118,
+   "pt": "O sistema entrou em modo | de espera e falhou ao salvar. | Tentar novamente?"
+  },
+  {
+   "id": 119,
+   "pt": "Mídia de gravação não encontrada. | Falha ao verificar os dados. | Tentar novamente?"
+  },
+  {
+   "id": 120,
+   "pt": "A mídia de gravação foi removida. | Falha ao verificar os dados. | Tentar novamente?"
+  },
+  {
+   "id": 121,
+   "pt": "Estes dados são diferentes dos | verificados antes. Sobrescrever?"
+  },
+  {
+   "id": 122,
+   "pt": "O sistema entrou em modo | de espera e falhou ao carregar. | Tentar novamente?"
+  },
+  {
+   "id": 123,
+   "pt": "Dados do sistema não encontrados. | Começar um novo jogo?"
+  },
+  {
+   "id": 124,
+   "pt": "Para criar os dados do sistema | são necessários <SET0> KB livres. | Criar novos dados?"
+  },
+  {
+   "id": 125,
+   "pt": "Carregar os dados do sistema | novamente?"
+  },
+  {
+   "id": 126,
+   "pt": "Salvar os dados do sistema | novamente?"
+  },
+  {
+   "id": 127,
+   "pt": "Os dados do sistema estão | corrompidos. Sobrescrever?"
+  },
+  {
+   "id": 130,
+   "pt": "Os dados de instalação já | existem. Sobrescrever?"
+  },
+  {
+   "id": 131,
+   "pt": "Para instalar os dados são | necessários 74MB livres. | Instalar os dados agora?"
+  },
+  {
+   "id": 132,
+   "pt": "A instalação leva alguns minutos. | Carregue a bateria ou use | o carregador na tomada."
+  },
+  {
+   "id": 133,
+   "pt": "Instalação concluída. | Você pode ligar ou desligar | em \"Configurações\"."
+  },
+  {
+   "id": 134,
+   "pt": "O disco do jogo foi removido. | A instalação de dados | foi interrompida."
+  },
+  {
+   "id": 135,
+   "pt": "Ocorreu um erro durante a | instalação. A instalação | será encerrada."
+  },
+  {
+   "id": 136,
+   "pt": "Interromper a instalação?"
+  },
+  {
+   "id": 137,
+   "pt": "A instalação foi interrompida."
+  },
+  {
+   "id": 138,
+   "pt": "O sistema entrou em modo de | espera. Falha na instalação."
+  },
+  {
+   "id": 139,
+   "pt": "Bateria fraca. | Falha na instalação."
+  },
+  {
+   "id": 140,
+   "pt": "Não há 74MB livres na mídia | de gravação. | Falha na instalação."
+  },
+  {
+   "id": 141,
+   "pt": "Não foi possível acessar a | mídia de gravação. | Falha na instalação."
+  },
+  {
+   "id": 142,
+   "pt": "Os dados instalados não podem | ser usados. A instalação | foi desligada."
+  },
+  {
+   "id": 143,
+   "pt": "Apagar outros dados salvos | para liberar espaço? | São necessários 74MB livres."
+  },
+  {
+   "id": 144,
+   "pt": "Instalar os dados deixa o | jogo mais rápido e fluido. | (A versão digital não muda.)"
+  },
+  {
+   "id": 150,
+   "pt": "Opções da CPU"
+  },
+  {
+   "id": 151,
+   "pt": "Recuperar HP"
+  },
+  {
+   "id": 152,
+   "pt": "Opções de Cosmo"
+  },
+  {
+   "id": 153,
+   "pt": "Estado da Armadura"
+  },
+  {
+   "id": 154,
+   "pt": "Sim"
+  },
+  {
+   "id": 155,
+   "pt": "Não"
+  },
+  {
+   "id": 160,
+   "pt": "Em pé"
+  },
+  {
+   "id": 161,
+   "pt": "Pulando"
+  },
+  {
+   "id": 162,
+   "pt": "Andando"
+  },
+  {
+   "id": 163,
+   "pt": "Defendendo"
+  },
+  {
+   "id": 164,
+   "pt": "Ataque A"
+  },
+  {
+   "id": 165,
+   "pt": "Ataque B"
+  },
+  {
+   "id": 166,
+   "pt": "Normal"
+  },
+  {
+   "id": 170,
+   "pt": "Normal"
+  },
+  {
+   "id": 171,
+   "pt": "Cosmo no máximo"
+  },
+  {
+   "id": 172,
+   "pt": "Explosão de Cosmo sempre"
+  },
+  {
+   "id": 175,
+   "pt": "Normal"
+  },
+  {
+   "id": 176,
+   "pt": "Indestrutível"
+  },
+  {
+   "id": 177,
+   "pt": "Destruída"
+  },
+  {
+   "id": 180,
+   "pt": "Salvar replay"
+  },
+  {
+   "id": 181,
+   "pt": "Salvar esta batalha | como replay?"
+  },
+  {
+   "id": 182,
+   "pt": "Parar o replay?"
+  },
+  {
+   "id": 183,
+   "pt": "Limite de replays atingido. | Não é possível salvar."
+  },
+  {
+   "id": 190,
+   "pt": "Tentar de novo"
+  },
+  {
+   "id": 191,
+   "pt": "Desistir"
+  },
+  {
+   "id": 192,
+   "pt": "Desistir e voltar ao | menu principal?"
+  },
+  {
+   "id": 201,
+   "pt": "Kouga"
+  },
+  {
+   "id": 202,
+   "pt": "Registre um nome de usuário."
+  },
+  {
+   "id": 203,
+   "pt": "\"<SET0>\" | Confirmar este nome?"
+  },
+  {
+   "id": 204,
+   "pt": "O registro do nome foi | cancelado. Tentar de novo?"
+  },
+  {
+   "id": 205,
+   "pt": "CPU"
+  },
+  {
+   "id": 206,
+   "pt": "Nenhum nome foi digitado. | Registre o nome novamente."
+  },
+  {
+   "id": 210,
+   "pt": "Aguardando o adversário."
+  },
+  {
+   "id": 211,
+   "pt": "Aguardando o adversário.."
+  },
+  {
+   "id": 212,
+   "pt": "Aguardando o adversário..."
+  },
+  {
+   "id": 400,
+   "pt": "Há botões repetidos. | Reconfigure os itens | marcados em vermelho."
+  },
+  {
+   "id": 401,
+   "pt": "Houve alterações. | Aplicar as mudanças no jogo?"
+  },
+  {
+   "id": 420,
+   "pt": "Personagem | \"<c#ff1f75ff><SET0><c>\" | foi liberado!"
+  },
+  {
+   "id": 421,
+   "pt": "Modo História | Saga de \"<c#ff1f75ff><SET0><c>\" | foi liberada!"
+  },
+  {
+   "id": 422,
+   "pt": "Kouga"
+  },
+  {
+   "id": 423,
+   "pt": "Yuna"
+  },
+  {
+   "id": 424,
+   "pt": "Ryuho"
+  },
+  {
+   "id": 425,
+   "pt": "Souma"
+  },
+  {
+   "id": 426,
+   "pt": "Éden"
+  },
+  {
+   "id": 427,
+   "pt": "Haruto"
+  },
+  {
+   "id": 428,
+   "pt": "Seiya"
+  },
+  {
+   "id": 429,
+   "pt": "Shaina"
+  },
+  {
+   "id": 430,
+   "pt": "Ionia"
+  },
+  {
+   "id": 431,
+   "pt": "Sonia"
+  },
+  {
+   "id": 432,
+   "pt": "Mycenae"
+  },
+  {
+   "id": 433,
+   "pt": "Genbu"
+  },
+  {
+   "id": 434,
+   "pt": "Kiki"
+  },
+  {
+   "id": 435,
+   "pt": "Ichi"
+  },
+  {
+   "id": 436,
+   "pt": "Poseidon"
+  },
+  {
+   "id": 437,
+   "pt": "Sorento"
+  },
+  {
+   "id": 438,
+   "pt": "Shun"
+  },
+  {
+   "id": 439,
+   "pt": "Pavlin"
+  },
+  {
+   "id": 440,
+   "pt": "Kouga (Tritão)"
+  },
+  {
+   "id": 441,
+   "pt": "Yuna (Tritão)"
+  },
+  {
+   "id": 442,
+   "pt": "Ryuho (Tritão)"
+  },
+  {
+   "id": 443,
+   "pt": "Souma (Tritão)"
+  },
+  {
+   "id": 444,
+   "pt": "Éden (Tritão)"
+  },
+  {
+   "id": 445,
+   "pt": "Haruto (Tritão)"
+  },
+  {
+   "id": 500,
+   "pt": "Verificando a mídia de gravação. | Não remova a mídia nem | desligue o aparelho."
+  },
+  {
+   "id": 501,
+   "pt": "Para criar os dados do sistema | são necessários <SET0> KB livres. | Criar novos dados do sistema?"
+  },
+  {
+   "id": 502,
+   "pt": "Criando os dados do sistema. | Não remova a mídia nem | desligue o aparelho."
+  },
+  {
+   "id": 503,
+   "pt": "Espaço livre insuficiente. | Apagar outros dados salvos? | São necessários <SET0> KB livres."
+  },
+  {
+   "id": 504,
+   "pt": "Mídia de gravação não encontrada."
+  },
+  {
+   "id": 505,
+   "pt": "Dados do sistema não encontrados."
+  },
+  {
+   "id": 506,
+   "pt": "Os dados do sistema estão | corrompidos. Falha ao carregar."
+  },
+  {
+   "id": 507,
+   "pt": "Sem dados do sistema, o | progresso não será salvo. | Continuar mesmo assim?"
+  },
+  {
+   "id": 508,
+   "pt": "Para criar os dados do sistema | são necessários <SET0> KB livres. | Apagar os dados existentes?"
+  },
+  {
+   "id": 509,
+   "pt": "Salvando os dados do sistema. | Não remova a mídia nem | desligue o aparelho."
+  },
+  {
+   "id": 510,
+   "pt": "Apagar os dados do sistema | existentes para liberar | espaço para os novos?"
+  },
+  {
+   "id": 511,
+   "pt": "Continuar a partida interrompida? | Ao continuar, esses dados | serão apagados."
+  },
+  {
+   "id": 512,
+   "pt": "Falha ao salvar."
+  },
+  {
+   "id": 513,
+   "pt": "Os dados instalados estão | corrompidos. A instalação | foi desligada."
+  },
+  {
+   "id": 514,
+   "pt": "Mídia de gravação não encontrada. | A instalação foi desligada."
+  },
+  {
+   "id": 515,
+   "pt": "Não foi possível carregar os | dados instalados. A instalação | foi desligada. Os dados serão | lidos apenas do UMD<b1>."
+  },
+  {
+   "id": 516,
+   "pt": "Continuar o jogo sem | salvar o progresso?"
+  },
+  {
+   "id": 517,
+   "pt": "A mídia de gravação está | protegida. Não é possível salvar."
+  },
+  {
+   "id": 518,
+   "pt": "Falha ao acessar a mídia."
+  },
+  {
+   "id": 519,
+   "pt": "Para criar os dados do sistema | são necessários <SET0> KB livres. | Apagar os dados existentes?"
+  },
+  {
+   "id": 520,
+   "pt": "A mídia de gravação foi | removida. A operação falhou."
+  },
+  {
+   "id": 521,
+   "pt": "Dados do sistema salvos."
+  },
+  {
+   "id": 522,
+   "pt": "Dados do sistema carregados."
+  },
+  {
+   "id": 523,
+   "pt": "O sistema entrou em modo de | espera. A verificação da | mídia foi interrompida."
+  },
+  {
+   "id": 524,
+   "pt": "Falha ao carregar."
+  },
+  {
+   "id": 525,
+   "pt": "Continuar o jogo sem | carregar os dados?"
+  },
+  {
+   "id": 527,
+   "pt": "A mídia de gravação está | protegida. Não é possível apagar."
+  },
+  {
+   "id": 528,
+   "pt": "Atenção: trocar a mídia de | gravação durante o jogo fará | os dados serem sobrescritos."
+  },
+  {
+   "id": 800,
+   "pt": "Esta sala está cheia."
+  },
+  {
+   "id": 801,
+   "pt": "Esta sala está em uso."
+  },
+  {
+   "id": 802,
+   "pt": "Aguardando o adversário."
+  },
+  {
+   "id": 803,
+   "pt": "A versão do jogo do | adversário é diferente."
+  },
+  {
+   "id": 804,
+   "pt": "Tempo esgotado."
+  },
+  {
+   "id": 900,
+   "pt": "A conexão foi perdida."
+  },
+  {
+   "id": 901,
+   "pt": "A chave WLAN foi desligada. | A conexão foi perdida."
+  },
+  {
+   "id": 902,
+   "pt": "O sistema entrou em modo de | espera. A conexão foi perdida."
+  },
+  {
+   "id": 903,
+   "pt": "Tempo esgotado. | A conexão foi perdida."
+  },
+  {
+   "id": 904,
+   "pt": "Não foi possível ler a mídia. | A conexão foi perdida."
+  },
+  {
+   "id": 1100,
+   "pt": "Escolha uma sala para jogar."
+  },
+  {
+   "id": 1101,
+   "pt": "Cancelar"
+  },
+  {
+   "id": 2000,
+   "pt": "<c#ff1f75ff>[Ataques básicos]<c>"
+  },
+  {
+   "id": 2001,
+   "pt": "Os ataques são soco, chute | e técnicas de Cosmo. | * Botões da configuração padrão."
+  },
+  {
+   "id": 2002,
+   "pt": "P (botão Quadrado) Soco | K (botão Triângulo) Chute | S (botão Círculo) Cosmo"
+  },
+  {
+   "id": 2003,
+   "pt": "<c#ff1f75ff>[Faça combos]<c>"
+  },
+  {
+   "id": 2004,
+   "pt": "Apertar botões em sequência | gera combos. Aperte START | para ver a lista de combos."
+  },
+  {
+   "id": 2005,
+   "pt": "Combo 1 {P}・{P}・{P}・{P}・{P} | Combo 2 {P}・{K}・{S}"
+  },
+  {
+   "id": 2006,
+   "pt": "{w=48,l=1}\"Faça combos\" P(□) K(△) S(○)  Combos: START"
+  },
+  {
+   "id": 2007,
+   "pt": "Os combos mudam para cada | Cavaleiro. Na dúvida, veja a | lista de combos no menu START."
+  },
+  {
+   "id": 2020,
+   "pt": "<c#ff1f75ff>[Ataque Meteoro]<c>"
+  },
+  {
+   "id": 2021,
+   "pt": "Gastando Cosmo você pode usar | o Ataque Meteoro. Acertá-lo | causa grande dano à Armadura | do adversário."
+  },
+  {
+   "id": 2022,
+   "pt": "<c#ff1f75ff>[Acerte 2 Ataques Meteoro]<c>"
+  },
+  {
+   "id": 2023,
+   "pt": "Ataque Meteoro (com Cosmo): | Direcional para a direita + | Círculo (segurar). | * Virado para a direita."
+  },
+  {
+   "id": 2024,
+   "pt": "{w=48,l=1}\"Acerte o Ataque Meteoro\" <c#ff1f75ff>faltam 2<c> →+○ (segurar)"
+  },
+  {
+   "id": 2025,
+   "pt": "É um ataque arriscado que | gasta Cosmo, mas bem usado | dá vantagem na luta."
+  },
+  {
+   "id": 2026,
+   "pt": "{w=48,l=1}\"Acerte o Ataque Meteoro\" <c#ff1f75ff>falta 1<c> →+○ (segurar)"
+  },
+  {
+   "id": 2027,
+   "pt": "{w=48,l=1}\"Acerte o Meteoro\" <c#ff1f75ff>faltam 2<c> Carregar Cosmo: L"
+  },
+  {
+   "id": 2040,
+   "pt": "<c#ff1f75ff>[Efeito da Armadura destruída]<c>"
+  },
+  {
+   "id": 2041,
+   "pt": "Com a Armadura do adversário | destruída, seus golpes causam | muito mais dano. Ataque e veja!"
+  },
+  {
+   "id": 2042,
+   "pt": "{w=48,l=1}\"Faça combos\" P(□) K(△) S(○)  Combos: START"
+  },
+  {
+   "id": 2043,
+   "pt": "Varia de Cavaleiro para | Cavaleiro, mas o dano muda | muito com a Armadura destruída."
+  },
+  {
+   "id": 2060,
+   "pt": "<c#ff1f75ff>[Carregar Cosmo]<c>"
+  },
+  {
+   "id": 2061,
+   "pt": "Segure o botão L para encher | a \"Barra de Cosmo\" na tela."
+  },
+  {
+   "id": 2062,
+   "pt": "<c#ff1f75ff>[Encha a Barra de Cosmo]<c>"
+  },
+  {
+   "id": 2063,
+   "pt": "Carregar Cosmo: botão L"
+  },
+  {
+   "id": 2064,
+   "pt": "{w=48,l=1}\"Encha a Barra de Cosmo\"  Carregar Cosmo: L"
+  },
+  {
+   "id": 2065,
+   "pt": "A Barra de Cosmo é gasta nas | técnicas de Cosmo e golpes | especiais. Ela também enche | ao atacar e ao sofrer dano."
+  },
+  {
+   "id": 2080,
+   "pt": "<c#ff1f75ff>[Golpes especiais]<c>"
+  },
+  {
+   "id": 2081,
+   "pt": "Gastando 1 Barra de Cosmo | você usa um golpe especial."
+  },
+  {
+   "id": 2082,
+   "pt": "<c#ff1f75ff>[Use 2 golpes especiais]<c>"
+  },
+  {
+   "id": 2083,
+   "pt": "Especial 1: L + Quadrado | Especial 2: L + Triângulo"
+  },
+  {
+   "id": 2084,
+   "pt": "{w=48,l=1}\"Use o especial\" <c#ff1f75ff>faltam 2<c> Esp.1: L+□ Esp.2: L+△"
+  },
+  {
+   "id": 2085,
+   "pt": "Os especiais são fortes, e | também cancelam socos e | chutes para entrar em combos."
+  },
+  {
+   "id": 2086,
+   "pt": "{w=48,l=1}\"Use o especial\" <c#ff1f75ff>falta 1<c> Esp.1: L+□ Esp.2: L+△"
+  },
+  {
+   "id": 2100,
+   "pt": "<c#ff1f75ff>[Ataque Big Bang]<c>"
+  },
+  {
+   "id": 2101,
+   "pt": "Com a Barra de Cosmo cheia, | você entra no estado CB | (Explosão de Cosmo). Em CB | pode usar o poderoso | Ataque Big Bang."
+  },
+  {
+   "id": 2102,
+   "pt": "<c#ff1f75ff>[Use o Ataque Big Bang]<c>"
+  },
+  {
+   "id": 2103,
+   "pt": "Explosão de Cosmo: L + Círculo | ~ Durante a Explosão ~ | Ataque Big Bang: L + Círculo"
+  },
+  {
+   "id": 2104,
+   "pt": "{w=48,l=1}\"Use o Ataque Big Bang\"  Explosão de Cosmo: L+○"
+  },
+  {
+   "id": 2105,
+   "pt": "{w=48,l=1}\"Use o Ataque Big Bang\"  Ataque Big Bang: L+○"
+  },
+  {
+   "id": 2106,
+   "pt": "O Ataque Big Bang gasta todo | o Cosmo, mas é fortíssimo. | Use quando estiver encurralado | para virar a luta!"
+  },
+  {
+   "id": 2120,
+   "pt": "<c#ff1f75ff>[Prática final]<c>"
+  },
+  {
+   "id": 2121,
+   "pt": "O treino básico terminou. | Agora use tudo o que aprendeu | e derrote o Cavaleiro rival!"
+  },
+  {
+   "id": 2122,
+   "pt": "Derrote o Cavaleiro adversário."
+  },
+  {
+   "id": 2123,
+   "pt": "O tutorial terminou. | Isto é só uma parte do que | é ser um Cavaleiro. A essência | do Cosmo, que decide as lutas, | você vai descobrir jogando."
+  },
+  {
+   "id": 2140,
+   "pt": "Bem-vindo ao tutorial! | Vamos treinar a luta | dos Cavaleiros."
+  },
+  {
+   "id": 2141,
+   "pt": "<c#ff1f75ff>[Movimentação]<c>"
+  },
+  {
+   "id": 2142,
+   "pt": "Use o direcional para mover. | Esquerda/direita: distância. | Cima/baixo: circular o rival."
+  },
+  {
+   "id": 2143,
+   "pt": "<c#ff1f75ff>[Movimente-se]<c>"
+  },
+  {
+   "id": 2144,
+   "pt": "* Se tiver dúvidas, pare de | apertar botões e a ajuda aparece."
+  },
+  {
+   "id": 2145,
+   "pt": "Mover: direcional | Avanço rápido: tocar 2 vezes | Passo lateral: toque curto"
+  },
+  {
+   "id": 2146,
+   "pt": "Com avanços e passos laterais | você desvia dos ataques. | Dominando a movimentação, | dá para atacar sem parar."
+  },
+  {
+   "id": 2147,
+   "pt": "{w=48,l=1}Mover: direcional  Avanço: 2 toques  Lado: toque"
+  },
+  {
+   "id": 2160,
+   "pt": "<c#ff1f75ff>[Agarrar e arremessar]<c>"
+  },
+  {
+   "id": 2161,
+   "pt": "Com o botão R você agarra | o adversário. Se conseguir, | pode arremessá-lo."
+  },
+  {
+   "id": 2162,
+   "pt": "<c#ff1f75ff>[Agarrar e arremessar]<c>"
+  },
+  {
+   "id": 2163,
+   "pt": "Chegue perto e arremesse o rival."
+  },
+  {
+   "id": 2164,
+   "pt": "Arremesso: botão R"
+  },
+  {
+   "id": 2165,
+   "pt": "{w=48,l=1}\"Arremesse o adversário\"  Arremesso: R"
+  },
+  {
+   "id": 2166,
+   "pt": "Arremessos não podem ser | defendidos. Se o rival só | defende, use arremessos!"
+  }
+ ]
+}

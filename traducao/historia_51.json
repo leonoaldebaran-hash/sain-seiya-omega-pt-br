@@ -1,0 +1,1044 @@
+{
+ "event/script/51_01.pac#51_01_JP.BTX": [
+  {
+   "id": 700000,
+   "pt": "Para passar pela barreira de Poseidon, preciso das Gotas d'Água..."
+  },
+  {
+   "id": 700010,
+   "pt": "Hum, por onde começo a procurar? Não faço a menor ideia..."
+  },
+  {
+   "id": 700020,
+   "pt": "Você é um Cavaleiro. O que faz aqui?"
+  },
+  {
+   "id": 700030,
+   "pt": "Sou Shaina. Shaina de Ofiúco."
+  },
+  {
+   "id": 700040,
+   "pt": "Você é... a mestra do Kouga...!"
+  },
+  {
+   "id": 700050,
+   "pt": "E você... é amiga do Kouga."
+  },
+  {
+   "id": 700060,
+   "pt": "Sim. Sou Yuna de Águia."
+  },
+  {
+   "id": 700070,
+   "pt": "Há quanto tempo. O que faz aqui?"
+  },
+  {
+   "id": 700080,
+   "pt": "Soube que Poseidon reviveu e vim selá-lo."
+  },
+  {
+   "id": 700090,
+   "pt": "Temos o mesmo objetivo. ...Mas Poseidon é um deus. Acha que você basta?"
+  },
+  {
+   "id": 700100,
+   "pt": "...Talvez eu ainda seja fraca. Mas como Cavaleiro de Atena, não posso ignorar."
+  },
+  {
+   "id": 700110,
+   "pt": "Hmph, outra pergunta. Por que não usa máscara? Conhece a regra das amazonas."
+  },
+  {
+   "id": 700120,
+   "pt": "A amazona cujo rosto é visto deve matar ou amar quem o viu... Essa é a regra."
+  },
+  {
+   "id": 700130,
+   "pt": "...!"
+  },
+  {
+   "id": 700140,
+   "pt": "...Não pretendo me prender a essa regra. Sigo apenas a lei do meu coração."
+  },
+  {
+   "id": 700150,
+   "pt": "Oh... Então diga: qual é a lei do seu coração?"
+  },
+  {
+   "id": 700160,
+   "pt": "Ser livre como o vento! Não vou deixar outros decidirem como eu vivo."
+  },
+  {
+   "id": 700170,
+   "pt": "Luto pela paz da Terra como Cavaleiro não por regra, mas porque eu escolhi!"
+  },
+  {
+   "id": 700180,
+   "pt": "Mas Cavaleiros precisam de disciplina. Sem regras, não há ordem. Obedeça, Águia."
+  },
+  {
+   "id": 700190,
+   "pt": "Shaina, isso eu não aceito. Sigo a lei do meu coração."
+  },
+  {
+   "id": 700200,
+   "pt": "Então vou te derrotar aqui. Viver contra as regras é isso, Yuna."
+  },
+  {
+   "id": 700210,
+   "pt": "...Aceito o desafio. Vou mostrar a força da minha vontade!"
+  },
+  {
+   "id": 700220,
+   "pt": "Vamos ver até onde vai essa determinação!"
+  }
+ ],
+ "event/script/51_02.pac#51_02_JP.BTX": [
+  {
+   "id": 700300,
+   "pt": "Cavaleiros inimigos... Será que há Cavaleiros de Ouro na ilha? Seria um problema..."
+  },
+  {
+   "id": 700310,
+   "pt": "...Hã? Aquele é..."
+  },
+  {
+   "id": 700320,
+   "pt": "Ah, droga!"
+  },
+  {
+   "id": 700330,
+   "pt": "Perder até para o Kouga... Vou perder para todos?! Eu, o grande Ichi de Hidra..."
+  },
+  {
+   "id": 700340,
+   "pt": "Ichi!"
+  },
+  {
+   "id": 700350,
+   "pt": "Eita, Yuna?!"
+  },
+  {
+   "id": 700360,
+   "pt": "O que faz aqui? Disse que perdeu para o Kouga, o que houve?"
+  },
+  {
+   "id": 700370,
+   "pt": "Cala a boca! Agora vou te derrotar e pegar a Gota d'Água de uma vez, zansu!"
+  },
+  {
+   "id": 700380,
+   "pt": "Hã?! Espera aí! Ichi?!"
+  }
+ ],
+ "event/script/51_03.pac#51_03_JP.BTX": [
+  {
+   "id": 700650,
+   "pt": "Afinal, onde estão essas Gotas d'Água?"
+  },
+  {
+   "id": 700660,
+   "pt": "Não tem sinal delas em lugar nenhum. Será que estamos procurando errado?"
+  },
+  {
+   "id": 700670,
+   "pt": "Mal começamos a procurar! Não é tão fácil achar."
+  },
+  {
+   "id": 700680,
+   "pt": "Enquanto isso o sol já está se pondo, zansu. Melhor montar acampamento."
+  },
+  {
+   "id": 700690,
+   "pt": "...Espere."
+  },
+  {
+   "id": 700700,
+   "pt": "Hã?"
+  },
+  {
+   "id": 700710,
+   "pt": "Este Cosmo..."
+  },
+  {
+   "id": 700720,
+   "pt": "Estava te esperando, Yuna."
+  },
+  {
+   "id": 700730,
+   "pt": "Pavlin!"
+  },
+  {
+   "id": 700740,
+   "pt": "Yuna, você conhece ela?"
+  },
+  {
+   "id": 700750,
+   "pt": "É a minha mestra."
+  },
+  {
+   "id": 700760,
+   "pt": "Uma pessoa muito importante, que me salvou..."
+  },
+  {
+   "id": 700770,
+   "pt": "...Há quanto tempo. Se está na ilha, também veio derrotar Poseidon?"
+  },
+  {
+   "id": 700780,
+   "pt": "Sim. ...Você também soube da volta de Poseidon?"
+  },
+  {
+   "id": 700790,
+   "pt": "Sim. Os Marcianos e Cavaleiros de Marte estão agitados."
+  },
+  {
+   "id": 700800,
+   "pt": "Para eles, Poseidon também é um inimigo a ser vencido."
+  },
+  {
+   "id": 700810,
+   "pt": "Os servos de Marte..."
+  },
+  {
+   "id": 700820,
+   "pt": "Sim. Os Cavaleiros de Ouro também devem vir. Tome cuidado."
+  },
+  {
+   "id": 700830,
+   "pt": "Cavaleiros de Ouro?! Com meu poder atual, não sei se consigo vencê-los..."
+  },
+  {
+   "id": 700840,
+   "pt": "Está insegura, então. ...Nesse caso, precisa ficar mais forte."
+  },
+  {
+   "id": 700850,
+   "pt": "Hã...?"
+  },
+  {
+   "id": 700860,
+   "pt": "Você tem uma missão. Para proteger a Terra, não pode perder para ninguém."
+  },
+  {
+   "id": 700870,
+   "pt": "Sim..."
+  },
+  {
+   "id": 700880,
+   "pt": "Por isso, precisa ficar ainda mais forte."
+  },
+  {
+   "id": 700890,
+   "pt": "...Venha, Yuna. Vou te treinar como nos velhos tempos."
+  },
+  {
+   "id": 700900,
+   "pt": "Pavlin...!"
+  },
+  {
+   "id": 700910,
+   "pt": "Mostre-me o quanto você cresceu!"
+  },
+  {
+   "id": 700920,
+   "pt": "...Sim!"
+  }
+ ],
+ "event/script/51_04.pac#51_04_JP.BTX": [
+  {
+   "id": 701060,
+   "pt": "Uaah... Ei, Yuna. Não acordou cedo demais?"
+  },
+  {
+   "id": 701070,
+   "pt": "...Ainda não achamos nenhuma Gota d'Água."
+  },
+  {
+   "id": 701080,
+   "pt": "Só temos a que estava comigo desde o início. Não dá para relaxar."
+  },
+  {
+   "id": 701090,
+   "pt": "Hum... É verdade. Bem que podia aparecer um inimigo com uma Gota, zansu..."
+  },
+  {
+   "id": 701100,
+   "pt": "...Alto!"
+  },
+  {
+   "id": 701110,
+   "pt": "Opa, falando no diabo?"
+  },
+  {
+   "id": 701120,
+   "pt": "Há quanto tempo, Águia. Traidora da vontade do senhor Marte."
+  },
+  {
+   "id": 701130,
+   "pt": "S-Senhora Sonia!"
+  },
+  {
+   "id": 701140,
+   "pt": "Hã? Você é..."
+  },
+  {
+   "id": 701150,
+   "pt": "...O Cavaleiro de Prata daquela vez. Veio a calhar. Capture-a!"
+  },
+  {
+   "id": 701160,
+   "pt": "..."
+  },
+  {
+   "id": 701170,
+   "pt": "O que foi? Você jurou lealdade ao senhor Marte. Então trabalhe para ele."
+  },
+  {
+   "id": 701180,
+   "pt": "...Isso eu não faço."
+  },
+  {
+   "id": 701190,
+   "pt": "O que disse...?"
+  },
+  {
+   "id": 701200,
+   "pt": "Percebi que trair uma caloura querida é muito feio."
+  },
+  {
+   "id": 701210,
+   "pt": "Ichi...!"
+  },
+  {
+   "id": 701220,
+   "pt": "Sabia? Numa luta, o mais estiloso sempre vence. Por isso não fico do seu lado."
+  },
+  {
+   "id": 701230,
+   "pt": "Inútil. Não tem jeito, eu mesma cuido disso. Prepare-se, Águia!"
+  },
+  {
+   "id": 701240,
+   "pt": "Prepare-se você! Vou te derrotar!"
+  }
+ ],
+ "event/script/51_05.pac#51_05_JP.BTX": [
+  {
+   "id": 701290,
+   "pt": "...Aqui também não. Parece que a perdi de vista... E me separei do Ichi..."
+  },
+  {
+   "id": 701300,
+   "pt": "Aliás, que lugar é este... Uma arena antiga?"
+  },
+  {
+   "id": 701310,
+   "pt": "O que faz aqui?!"
+  },
+  {
+   "id": 701320,
+   "pt": "...! Quem é?!"
+  },
+  {
+   "id": 701330,
+   "pt": "Diretor Ionia...!"
+  },
+  {
+   "id": 701340,
+   "pt": "Você é... Yuna de Águia. Entendo... Vocês também estão juntando as Gotas d'Água."
+  },
+  {
+   "id": 701350,
+   "pt": "Sim. Viemos impedir a volta de Poseidon. O senhor também, não?"
+  },
+  {
+   "id": 701360,
+   "pt": "Sim. Poseidon é nosso inimigo. Pelo ideal de Marte, não posso ignorá-lo."
+  },
+  {
+   "id": 701370,
+   "pt": "Não perdoo o que fez com a Palestra... Mas contra Poseidon, podemos cooperar."
+  },
+  {
+   "id": 701380,
+   "pt": "Hmph... que ideia absurda. Por que eu me aliaria a uma traidora?"
+  },
+  {
+   "id": 701390,
+   "pt": "Não preciso de vocês. Selar Poseidon não é problema algum!"
+  },
+  {
+   "id": 701400,
+   "pt": "Veio a calhar. Vou te derrotar e pegar sua Gota d'Água."
+  },
+  {
+   "id": 701410,
+   "pt": "...Você não entende mesmo. Diretor... não, Ionia. Não vou cair para você!!"
+  },
+  {
+   "id": 701420,
+   "pt": "Muito bem! Eu, Ionia de Capricórnio, vou mostrar a essência do Cosmo!"
+  }
+ ],
+ "event/script/51_06.pac#51_06_JP.BTX": [
+  {
+   "id": 201370,
+   "pt": "Ufa... Graças ao Souma. Obrigada."
+  },
+  {
+   "id": 201380,
+   "pt": "...Agradeça ao Ichi também."
+  },
+  {
+   "id": 201390,
+   "pt": "Hã?"
+  },
+  {
+   "id": 201400,
+   "pt": "Hã?"
+  },
+  {
+   "id": 201410,
+   "pt": "Sem o Ichi, eu não saberia que você estava em apuros. Ele ajudou muito."
+  },
+  {
+   "id": 201420,
+   "pt": "Obrigada, Ichi."
+  },
+  {
+   "id": 201430,
+   "pt": "N-Não foi nada! Por vocês eu faço qualquer coisa, zansu!"
+  },
+  {
+   "id": 201440,
+   "pt": "Vamos lá, pessoal! Agora é derrotar Poseidon, zansu! Nada de vacilar, zansu!"
+  },
+  {
+   "id": 201450,
+   "pt": "Haha, que animação..."
+  },
+  {
+   "id": 201460,
+   "pt": "Hã? Disse alguma coisa, Souma?"
+  },
+  {
+   "id": 701570,
+   "pt": "Nada, não. Mas antes de enfrentar Poseidon, ainda temos coisas a fazer."
+  },
+  {
+   "id": 701580,
+   "pt": "Yuna. Juntou as Gotas d'Água?"
+  },
+  {
+   "id": 701590,
+   "pt": "Mais ou menos. Com a que peguei do Ionia, são três."
+  },
+  {
+   "id": 701600,
+   "pt": "Eu também tenho três. E aí? Prometemos competir valendo as Gotas, não foi?"
+  },
+  {
+   "id": 701610,
+   "pt": "Sim."
+  },
+  {
+   "id": 701620,
+   "pt": "Por mim estou pronto. Faz tempo que a gente não treina junto."
+  },
+  {
+   "id": 701630,
+   "pt": "Não seria ruim ver quem é o mais forte."
+  },
+  {
+   "id": 701640,
+   "pt": "Hehe. Tudo bem. Se é assim, eu aceito. Ganhe quem ganhar, sem ressentimentos!"
+  },
+  {
+   "id": 701650,
+   "pt": "Claro que não! Lá vou eu, Yuna!"
+  }
+ ],
+ "event/script/51_07.pac#51_07_JP.BTX": [
+  {
+   "id": 701720,
+   "pt": "Este é o templo de Poseidon... A barreira deve estar lá dentro..."
+  },
+  {
+   "id": 701730,
+   "pt": "A batalha final está chegando, hein? ...Aliás, Yuna, percebeu?"
+  },
+  {
+   "id": 201530,
+   "pt": "Sim... Eu me lembro deste Cosmo imenso."
+  },
+  {
+   "id": 201540,
+   "pt": "Que lugar e companhia estranhos para um encontro."
+  },
+  {
+   "id": 701740,
+   "pt": "Eu sabia... Mycenae de Leão!"
+  },
+  {
+   "id": 701750,
+   "pt": "O que vieram fazer aqui, traidores?"
+  },
+  {
+   "id": 701760,
+   "pt": "...Viemos selar Poseidon. Você deve saber que ele reviveu."
+  },
+  {
+   "id": 701770,
+   "pt": "Vocês, contra Poseidon? Não são páreo nem para mim e acham que vencem um deus?"
+  },
+  {
+   "id": 701780,
+   "pt": "...Naquele dia, eu só pude fugir de você."
+  },
+  {
+   "id": 701790,
+   "pt": "...Mas agora é diferente. Não vou mais fugir."
+  },
+  {
+   "id": 701800,
+   "pt": "...Oh, que ousadia."
+  },
+  {
+   "id": 701810,
+   "pt": "Você tem uma Gota d'Água? Aqui temos seis. Falta uma para vencer Poseidon."
+  },
+  {
+   "id": 701820,
+   "pt": "Tenho. Então eu tenho uma e vocês seis. As sete estão reunidas aqui."
+  },
+  {
+   "id": 701830,
+   "pt": "Parece que sim. Vou conseguir a última aqui mesmo!"
+  },
+  {
+   "id": 701840,
+   "pt": "Derrotar traidores e ganhar uma Gota d'Água. Dois coelhos. Vamos!"
+  }
+ ],
+ "event/script/51_08.pac#51_08_JP.BTX": [
+  {
+   "id": 702020,
+   "pt": "Um espaço tão grande debaixo da ilha... Este é o castelo de Poseidon..."
+  },
+  {
+   "id": 102370,
+   "pt": "...Eu estava à sua espera, Cavaleiro de Atena."
+  },
+  {
+   "id": 702030,
+   "pt": "Que Cosmo imenso... Você é Poseidon!"
+  },
+  {
+   "id": 102390,
+   "pt": "Desde a Era Mitológica vocês enfrentaram os deuses inúmeras vezes."
+  },
+  {
+   "id": 102400,
+   "pt": "E com o poder de Atena, venceram essas batalhas."
+  },
+  {
+   "id": 102410,
+   "pt": "...Mas agora Atena não está aqui."
+  },
+  {
+   "id": 102420,
+   "pt": "Por mais tolos que sejam, não esperam me vencer sem a proteção de Atena."
+  },
+  {
+   "id": 102430,
+   "pt": "Por que lutar uma batalha perdida? Por que jogar a vida fora em vão?"
+  },
+  {
+   "id": 702040,
+   "pt": "Porque vocês querem destruir a paz da Terra."
+  },
+  {
+   "id": 702050,
+   "pt": "..."
+  },
+  {
+   "id": 702060,
+   "pt": "Se sua guerra contra a Terra começar, muitas vidas serão perdidas e haverá órfãos."
+  },
+  {
+   "id": 702070,
+   "pt": "Eu luto para que não haja crianças infelizes. Essa é a lei do meu coração."
+  },
+  {
+   "id": 702080,
+   "pt": "Por isso eu luto, mesmo contra um deus. Mesmo que eu perca a vida!"
+  },
+  {
+   "id": 702090,
+   "pt": "...Que tolice. Vocês humanos sujam o mundo e nunca se arrependem."
+  },
+  {
+   "id": 702100,
+   "pt": "Pais ou filhos, não importa. Purificar a Terra dos humanos é a justiça."
+  },
+  {
+   "id": 702110,
+   "pt": "...Parece que nunca vamos nos entender, Poseidon."
+  },
+  {
+   "id": 702120,
+   "pt": "Vou te derrotar e seguir a lei do meu coração!"
+  },
+  {
+   "id": 702130,
+   "pt": "Tola! Vou te ensinar aqui que o poder humano jamais vence um deus!"
+  }
+ ],
+ "event/script/51_11.pac#51_11_JP.BTX": [
+  {
+   "id": 700230,
+   "pt": "Parece que não era só conversa, Cavaleiro de Águia."
+  },
+  {
+   "id": 700240,
+   "pt": "Então aceita que eu não use a máscara?"
+  },
+  {
+   "id": 700250,
+   "pt": "Não aceito. ...Mas não consegui te impedir."
+  },
+  {
+   "id": 700260,
+   "pt": "..."
+  },
+  {
+   "id": 700270,
+   "pt": "Mais uma coisa. Muitos Cavaleiros estão reunidos nesta ilha agora."
+  },
+  {
+   "id": 700280,
+   "pt": "Alguns devem ser seus inimigos. Poseidon não é o único. Tenha cuidado."
+  },
+  {
+   "id": 700290,
+   "pt": "...Sim..."
+  }
+ ],
+ "event/script/51_12.pac#51_12_JP.BTX": [
+  {
+   "id": 700390,
+   "pt": "Ugh... Perdi até para a Yuna, zansu..."
+  },
+  {
+   "id": 700400,
+   "pt": "Ichi! Por que me atacou do nada?! O que está pensando?!"
+  },
+  {
+   "id": 700410,
+   "pt": "Não vai me dizer que nos traiu de novo, como daquela vez!"
+  },
+  {
+   "id": 700420,
+   "pt": "Pra mim já era..."
+  },
+  {
+   "id": 700430,
+   "pt": "Ai, ai... Me explique, vai."
+  },
+  {
+   "id": 700440,
+   "pt": "...Vocês vieram até aqui para derrotar Poseidon?"
+  },
+  {
+   "id": 700450,
+   "pt": "Sim, isso mesmo."
+  },
+  {
+   "id": 700460,
+   "pt": "Também vim vencer Poseidon, zansu. Mas parece que precisa das Gotas."
+  },
+  {
+   "id": 700470,
+   "pt": "Você sabe bastante. E daí?"
+  },
+  {
+   "id": 700480,
+   "pt": "Daí eu ia pegar as Gotas de vocês e virar o herói, zansu..."
+  },
+  {
+   "id": 700490,
+   "pt": "Ah, então é isso... E no fim, perdeu."
+  },
+  {
+   "id": 700500,
+   "pt": "Cala a boca! Eu também queria brilhar, zansu! E aí perdi para você..."
+  },
+  {
+   "id": 700510,
+   "pt": "Assim nem sei para que vim até esta ilha..."
+  },
+  {
+   "id": 700520,
+   "pt": "Não tem jeito... Bom, pelo menos sei que não foi por maldade."
+  },
+  {
+   "id": 700530,
+   "pt": "Que mal tem não ser o protagonista?"
+  },
+  {
+   "id": 700540,
+   "pt": "Vamos nos ajudar e vencer Poseidon. O importante é proteger a Terra."
+  },
+  {
+   "id": 700550,
+   "pt": "..."
+  },
+  {
+   "id": 700560,
+   "pt": "É... Você tem razão, zansu."
+  },
+  {
+   "id": 700570,
+   "pt": "Isso! Vamos todos juntos derrotar Poseidon!"
+  },
+  {
+   "id": 700580,
+   "pt": "É. Às vezes apoiar os amigos dos bastidores também não é ruim, zansu."
+  },
+  {
+   "id": 700590,
+   "pt": "Hã?"
+  },
+  {
+   "id": 700600,
+   "pt": "Certo, Yuna! Desta vez não vou ser o protagonista, vou ser o apoio estiloso, zansu!"
+  },
+  {
+   "id": 700610,
+   "pt": "Vamos derrotar Poseidon, zansu!"
+  },
+  {
+   "id": 700620,
+   "pt": "Hã, o quê? Você vai vir junto?"
+  },
+  {
+   "id": 700630,
+   "pt": "Claro! Afinal, somos Cavaleiros de Atena, zansu!"
+  },
+  {
+   "id": 700640,
+   "pt": "Bem, isso é verdade... Ai, ai..."
+  }
+ ],
+ "event/script/51_13.pac#51_13_JP.BTX": [
+  {
+   "id": 700930,
+   "pt": "Ufa... ufa..."
+  },
+  {
+   "id": 700940,
+   "pt": "Muito bem, Yuna."
+  },
+  {
+   "id": 700950,
+   "pt": "Não... Ainda não chego aos seus pés. Se lutasse a sério, agora..."
+  },
+  {
+   "id": 700960,
+   "pt": "Não, Yuna. Você está mais forte do que imagina."
+  },
+  {
+   "id": 700970,
+   "pt": "Faça arder o seu Cosmo. Assim um dia ficará muito mais forte do que eu."
+  },
+  {
+   "id": 700980,
+   "pt": "Pavlin..."
+  },
+  {
+   "id": 700990,
+   "pt": "E mais..."
+  },
+  {
+   "id": 701000,
+   "pt": "Ei, já acabaram? Temos que acampar antes de anoitecer, zansu!"
+  },
+  {
+   "id": 701010,
+   "pt": "..."
+  },
+  {
+   "id": 701020,
+   "pt": "...E mais uma coisa. Seu gosto para homens é péssimo."
+  },
+  {
+   "id": 701030,
+   "pt": "...! Não é nada disso!"
+  },
+  {
+   "id": 701040,
+   "pt": "Hihi, estou brincando. Bem, já vou. Boa sorte, Yuna."
+  },
+  {
+   "id": 701050,
+   "pt": "...Sim. Obrigada, Pavlin."
+  }
+ ],
+ "event/script/51_14.pac#51_14_JP.BTX": [
+  {
+   "id": 701250,
+   "pt": "Ugh, fiquei para trás!"
+  },
+  {
+   "id": 701260,
+   "pt": "Vai fugir?!"
+  },
+  {
+   "id": 701270,
+   "pt": "Não vou deixar você escapar! Ichi, vamos atrás dela!"
+  },
+  {
+   "id": 701280,
+   "pt": "Certo!"
+  }
+ ],
+ "event/script/51_15.pac#50_15_JP.BTX": [
+  {
+   "id": 0,
+   "pt": "Saga do Kouga, Fase 5, parte 2"
+  },
+  {
+   "id": 1,
+   "pt": "Venceu o Sorento!"
+  }
+ ],
+ "event/script/51_15.pac#51_15_JP.BTX": [
+  {
+   "id": 201290,
+   "pt": "Ugh... Ser encurralado assim por uma Cavaleira de Bronze tão jovem..."
+  },
+  {
+   "id": 701430,
+   "pt": "Cavaleiros lutam por Atena. Isso eu aprendi na Palestra."
+  },
+  {
+   "id": 701440,
+   "pt": "Quem esqueceu isso e seguiu Marte por ambição não tem como vencer!"
+  },
+  {
+   "id": 701450,
+   "pt": "...Yuna, você está bem?!"
+  },
+  {
+   "id": 201260,
+   "pt": "Souma?! O que faz aqui..."
+  },
+  {
+   "id": 701460,
+   "pt": "O Ichi me contou que você estava lutando e pediu para eu te ajudar."
+  },
+  {
+   "id": 701470,
+   "pt": "O Ichi..."
+  },
+  {
+   "id": 701480,
+   "pt": "Hehe, parece que está tudo bem. Ainda bem que chegamos a tempo, zansu!"
+  },
+  {
+   "id": 701490,
+   "pt": "Enfrentar um Cavaleiro de Ouro de igual para igual... Te subestimei, Yuna."
+  },
+  {
+   "id": 701500,
+   "pt": "Shaina também..."
+  },
+  {
+   "id": 701510,
+   "pt": "...Ainda quer continuar, Ionia?"
+  },
+  {
+   "id": 701520,
+   "pt": "Hmm..."
+  },
+  {
+   "id": 701530,
+   "pt": "...Leve isto."
+  },
+  {
+   "id": 701540,
+   "pt": "Isto é... uma Gota d'Água!"
+  },
+  {
+   "id": 701550,
+   "pt": "Se diz que vai derrotar Poseidon, faça como quiser. Só não morra à toa."
+  }
+ ],
+ "event/script/51_16.pac#51_16_JP.BTX": [
+  {
+   "id": 701651,
+   "pt": "Droga! Perdi!"
+  },
+  {
+   "id": 701660,
+   "pt": "Foi por pouco, Souma. Mas promessa é promessa. Vou levar a Gota d'Água."
+  },
+  {
+   "id": 701670,
+   "pt": "Eu sei. Toma."
+  },
+  {
+   "id": 701680,
+   "pt": "Yuna. Te entregar isto significa confiar Poseidon a você. Entendeu?"
+  },
+  {
+   "id": 701690,
+   "pt": "...Sim, entendi. Não se preocupe, eu vou derrotá-lo."
+  },
+  {
+   "id": 701700,
+   "pt": "Beleza. Era só isso que eu queria ouvir! Falta só uma Gota! Vamos logo!"
+  },
+  {
+   "id": 701710,
+   "pt": "Vamos!"
+  }
+ ],
+ "event/script/51_17.pac#51_17_JP.BTX": [
+  {
+   "id": 701850,
+   "pt": "...! Quem diria que me faria cair de joelhos. Você mudou muito, Águia."
+  },
+  {
+   "id": 701860,
+   "pt": "Desde aquele dia, escapamos da morte muitas vezes."
+  },
+  {
+   "id": 701870,
+   "pt": "...Se fiquei forte, talvez seja graças aos perseguidores de vocês."
+  },
+  {
+   "id": 701880,
+   "pt": "Hmph... Se for assim, que ironia. Águia, leve isto."
+  },
+  {
+   "id": 701890,
+   "pt": "A Gota d'Água prometida. Aceite."
+  },
+  {
+   "id": 701900,
+   "pt": "...Obrigada. Vou aceitar..."
+  },
+  {
+   "id": 701910,
+   "pt": "Hã?! Isto é...!"
+  },
+  {
+   "id": 701920,
+   "pt": "Isso é..."
+  },
+  {
+   "id": 701930,
+   "pt": "Deve ser a Escama de Tritão, com o Cosmo de Poseidon. Com ela, passará a barreira."
+  },
+  {
+   "id": 701940,
+   "pt": "Então isso é... Sinto mesmo um Cosmo poderoso."
+  },
+  {
+   "id": 701950,
+   "pt": "...Yuna. Daqui em diante é papel do herói. A gente espera você voltar aqui."
+  },
+  {
+   "id": 701960,
+   "pt": "Diga heroína... Mas tudo bem. Vou dar o meu melhor por todos."
+  },
+  {
+   "id": 701970,
+   "pt": "Não gosto de quem quebra regras. Mas vi você lutar com garra por Atena."
+  },
+  {
+   "id": 701980,
+   "pt": "Você é uma grande Cavaleira. Conto com você contra Poseidon."
+  },
+  {
+   "id": 701990,
+   "pt": "Shaina..."
+  },
+  {
+   "id": 702000,
+   "pt": "Você consegue, com certeza. Vai lá e acaba com o Poseidon!"
+  },
+  {
+   "id": 702010,
+   "pt": "Sim, com certeza! Lá vou eu!"
+  }
+ ],
+ "event/script/51_18.pac#51_18_JP.BTX": [
+  {
+   "id": 102460,
+   "pt": "Ugh... Quem diria que eu ficaria para trás..."
+  },
+  {
+   "id": 702140,
+   "pt": "Foi por pouco... E ele nem despertou por completo... Se revivesse, seria fortíssimo..."
+  },
+  {
+   "id": 102480,
+   "pt": "...Não precisa se preocupar."
+  },
+  {
+   "id": 702150,
+   "pt": "Hã..."
+  },
+  {
+   "id": 702160,
+   "pt": "Eu disse que não precisa se preocupar, Águia. Vou dormir novamente."
+  },
+  {
+   "id": 702170,
+   "pt": "..."
+  },
+  {
+   "id": 102520,
+   "pt": "Mesmo sem meu verdadeiro poder, me derrotar foi admirável."
+  },
+  {
+   "id": 102530,
+   "pt": "Mas lembre-se: ao contrário de vocês, humanos, o tempo dos deuses é infinito."
+  },
+  {
+   "id": 102540,
+   "pt": "Por mais que lutem, um dia a derrota virá."
+  },
+  {
+   "id": 702180,
+   "pt": "Não vai, não! Quantas vezes você voltar, os Cavaleiros de Atena protegerão a Terra!"
+  },
+  {
+   "id": 202330,
+   "pt": "Hmph... Então aguardarei meu próximo despertar."
+  },
+  {
+   "id": 202340,
+   "pt": "Até lá, não entreguem a Terra a mais ninguém... Adeus, Cavaleiros de Atena..."
+  },
+  {
+   "id": 702190,
+   "pt": "Poseidon... ...?!"
+  },
+  {
+   "id": 702200,
+   "pt": "A Escama de Tritão..."
+  },
+  {
+   "id": 702210,
+   "pt": "O Cosmo de Poseidon sumiu... Será que ele voltou a dormir..."
+  },
+  {
+   "id": 702220,
+   "pt": "Ufa... Acho que deu certo. Cumpri meu dever como Cavaleiro de Atena, não é..."
+  }
+ ]
+}

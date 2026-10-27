@@ -1,0 +1,78 @@
+{
+ "event/script/00_01.pac#00_01_JP.BTX": [
+  {
+   "id": 0,
+   "pt": "Lute comigo!"
+  },
+  {
+   "id": 1,
+   "pt": "Sim"
+  }
+ ],
+ "event/script/00_02.pac#00_02_JP.BTX": [
+  {
+   "id": 0,
+   "pt": "Lute comigo, Souma!"
+  },
+  {
+   "id": 1,
+   "pt": "Vamos nessa, Kouga!"
+  }
+ ],
+ "event/script/00_03.pac#00_03_JP.BTX": [
+  {
+   "id": 0,
+   "pt": "E aí, Kouga."
+  },
+  {
+   "id": 1,
+   "pt": "Souma! | Você também estava por aqui!"
+  },
+  {
+   "id": 2,
+   "pt": "Pois é. E você, como está? | Achou alguma Gota d'Água?"
+  },
+  {
+   "id": 3,
+   "pt": "Uma, que recebi do Ryuho. | Por enquanto, só essa."
+  },
+  {
+   "id": 4,
+   "pt": "Do Ryuho, é? | Então você venceu o Ryuho?"
+  },
+  {
+   "id": 5,
+   "pt": "Pois é. Hehe, ficou surpreso?"
+  },
+  {
+   "id": 6,
+   "pt": "Nem tanto. Desde que saímos | da Palestra, você cresceu | bastante."
+  },
+  {
+   "id": 7,
+   "pt": "Não me espanta que tenha | vencido o Ryuho."
+  },
+  {
+   "id": 8,
+   "pt": "Mas olha... eu também fiquei | mais forte que você, sabia?"
+  },
+  {
+   "id": 9,
+   "pt": "Que tal uma luta valendo | a Gota d'Água?"
+  },
+  {
+   "id": 10,
+   "pt": "Hehe, é a sua cara. Então | vamos lutar como nos velhos | tempos!"
+  },
+  {
+   "id": 11,
+   "pt": "Isso aí! Vou te devolver | aquela de antes!"
+  }
+ ],
+ "event/script/00_09.pac#00_09_JP.BTX": [
+  {
+   "id": 10,
+   "pt": "Eu luto porque tenho amigos!"
+  }
+ ]
+}

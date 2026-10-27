@@ -1,0 +1,1366 @@
+{
+ "btx/combolist/ede_combolist_jp.btx": [
+  {
+   "id": 0,
+   "pt": "~ Normal ~"
+  },
+  {
+   "id": 1,
+   "pt": "Plasma de Órion ↓+<c#ffe63dff>{S}<c>"
+  },
+  {
+   "id": 2,
+   "pt": "Esfera de Órion ←+<c#ffe63dff>{S}<c>"
+  },
+  {
+   "id": 3,
+   "pt": "Ataque Meteoro →+<c#ffe63dff>{S}<c>"
+  },
+  {
+   "id": 4,
+   "pt": "Impacto Noir {L}+<c#ff1f75ff>{P}<c>"
+  },
+  {
+   "id": 5,
+   "pt": "Renascer Folgore {L}+<c#ff6eff40>{K}<c>"
+  },
+  {
+   "id": 6,
+   "pt": "Combo 1 <c#ff1f75ff>{P}<c>・<c#ff1f75ff>{P}<c>・<c#ff1f75ff>{P}<c>"
+  },
+  {
+   "id": 7,
+   "pt": "Combo 2 <c#ff1f75ff>{P}<c>・<c#ff1f75ff>{P}<c>・<c#ffe63dff>{S}<c>・<c#ffe63dff>{S}<c>"
+  },
+  {
+   "id": 8,
+   "pt": "Combo 3 <c#ff1f75ff>{P}<c>・<c#ff6eff40>{K}<c>・<c#ff6eff40>{K}<c>"
+  },
+  {
+   "id": 9,
+   "pt": "Combo 4 <c#ff1f75ff>{P}<c>・<c#ff6eff40>{K}<c>・<c#ffe63dff>{S}<c>"
+  },
+  {
+   "id": 10,
+   "pt": "Combo 5 <c#ff6eff40>{K}<c>・<c#ff6eff40>{K}<c>・<c#ff6eff40>{K}<c>"
+  },
+  {
+   "id": 11,
+   "pt": "Combo 6 <c#ff6eff40>{K}<c>・<c#ff6eff40>{K}<c>・<c#ff1f75ff>{P}<c>"
+  },
+  {
+   "id": 12,
+   "pt": "~ Explosão de Cosmo ~"
+  },
+  {
+   "id": 13,
+   "pt": "Big Bang Noir {L}+<c#ffe63dff>{S}<c>"
+  },
+  {
+   "id": 14,
+   "pt": "Combo 7 <c#ff1f75ff>{P}<c>・<c#ff6eff40>{K}<c>・<c#ff6eff40>{K}<c>・<c#ffe63dff>{S}<c>・<c#ffe63dff>{S}<c>・<c#ffe63dff>{S}<c>"
+  },
+  {
+   "id": 15,
+   "pt": "Combo 8 <c#ff6eff40>{K}<c>・<c#ff6eff40>{K}<c>・<c#ff1f75ff>{P}<c>・<c#ffe63dff>{S}<c>"
+  }
+ ],
+ "btx/combolist/edev2_combolist_jp.btx": [
+  {
+   "id": 0,
+   "pt": "~ Normal ~"
+  },
+  {
+   "id": 1,
+   "pt": "Plasma de Órion ↓+<c#ffe63dff>{S}<c>"
+  },
+  {
+   "id": 2,
+   "pt": "Esfera de Órion ←+<c#ffe63dff>{S}<c>"
+  },
+  {
+   "id": 3,
+   "pt": "Ataque Meteoro →+<c#ffe63dff>{S}<c>"
+  },
+  {
+   "id": 4,
+   "pt": "Impacto Noir {L}+<c#ff1f75ff>{P}<c>"
+  },
+  {
+   "id": 5,
+   "pt": "Renascer Folgore {L}+<c#ff6eff40>{K}<c>"
+  },
+  {
+   "id": 6,
+   "pt": "Combo 1 <c#ff1f75ff>{P}<c>・<c#ff1f75ff>{P}<c>・<c#ff1f75ff>{P}<c>"
+  },
+  {
+   "id": 7,
+   "pt": "Combo 2 <c#ff1f75ff>{P}<c>・<c#ff1f75ff>{P}<c>・<c#ffe63dff>{S}<c>・<c#ffe63dff>{S}<c>"
+  },
+  {
+   "id": 8,
+   "pt": "Combo 3 <c#ff1f75ff>{P}<c>・<c#ff6eff40>{K}<c>・<c#ff6eff40>{K}<c>"
+  },
+  {
+   "id": 9,
+   "pt": "Combo 4 <c#ff1f75ff>{P}<c>・<c#ff6eff40>{K}<c>・<c#ffe63dff>{S}<c>"
+  },
+  {
+   "id": 10,
+   "pt": "Combo 5 <c#ff6eff40>{K}<c>・<c#ff6eff40>{K}<c>・<c#ff6eff40>{K}<c>"
+  },
+  {
+   "id": 11,
+   "pt": "Combo 6 <c#ff6eff40>{K}<c>・<c#ff6eff40>{K}<c>・<c#ff1f75ff>{P}<c>"
+  },
+  {
+   "id": 12,
+   "pt": "~ Explosão de Cosmo ~"
+  },
+  {
+   "id": 13,
+   "pt": "Big Bang Noir {L}+<c#ffe63dff>{S}<c>"
+  },
+  {
+   "id": 14,
+   "pt": "Combo 7 <c#ff1f75ff>{P}<c>・<c#ff6eff40>{K}<c>・<c#ff6eff40>{K}<c>・<c#ffe63dff>{S}<c>・<c#ffe63dff>{S}<c>・<c#ffe63dff>{S}<c>"
+  },
+  {
+   "id": 15,
+   "pt": "Combo 8 <c#ff6eff40>{K}<c>・<c#ff6eff40>{K}<c>・<c#ff1f75ff>{P}<c>・<c#ffe63dff>{S}<c>"
+  }
+ ],
+ "btx/combolist/gen_combolist_jp.btx": [
+  {
+   "id": 0,
+   "pt": "~ Normal ~"
+  },
+  {
+   "id": 1,
+   "pt": "Coluna d'Água ↑+<c#ffe63dff>{S}<c>"
+  },
+  {
+   "id": 2,
+   "pt": "Ataque Meteoro →+<c#ffe63dff>{S}<c>"
+  },
+  {
+   "id": 3,
+   "pt": "Corrente Cruzada {L}+<c#ff1f75ff>{P}<c>"
+  },
+  {
+   "id": 4,
+   "pt": "Lança Vórtice {L}+<c#ff6eff40>{K}<c>"
+  },
+  {
+   "id": 5,
+   "pt": "Combo 1 <c#ff1f75ff>{P}<c>・<c#ff1f75ff>{P}<c>・<c#ff1f75ff>{P}<c>"
+  },
+  {
+   "id": 6,
+   "pt": "Combo 2 <c#ff6eff40>{K}<c>・<c#ff6eff40>{K}<c>・<c#ff6eff40>{K}<c>"
+  },
+  {
+   "id": 7,
+   "pt": "Combo 3 <c#ff6eff40>{K}<c>・<c#ff6eff40>{K}<c>・<c#ff1f75ff>{P}<c>・<c#ff1f75ff>{P}<c>・<c#ff1f75ff>{P}<c>"
+  },
+  {
+   "id": 8,
+   "pt": "Combo 4 <c#ff6eff40>{K}<c>・<c#ff1f75ff>{P}<c>・<c#ffe63dff>{S}<c>"
+  },
+  {
+   "id": 9,
+   "pt": "~ Explosão de Cosmo ~"
+  },
+  {
+   "id": 10,
+   "pt": "Fúria do Juízo {L}+<c#ffe63dff>{S}<c>"
+  },
+  {
+   "id": 11,
+   "pt": "Combo 5 <c#ff1f75ff>{P}<c>・<c#ff1f75ff>{P}<c>・<c#ffe63dff>{S}<c>・<c#ffe63dff>{S}<c>・<c#ffe63dff>{S}<c>・<c#ffe63dff>{S}<c>"
+  }
+ ],
+ "btx/combolist/hat_combolist_jp.btx": [
+  {
+   "id": 0,
+   "pt": "~ Normal ~"
+  },
+  {
+   "id": 1,
+   "pt": "Corte do Vácuo ←+<c#ffe63dff>{S}<c>"
+  },
+  {
+   "id": 2,
+   "pt": "Doton de Fuji ↓+<c#ffe63dff>{S}<c>"
+  },
+  {
+   "id": 3,
+   "pt": "Utsusemi de Fuji ↑+<c#ffe63dff>{S}<c>"
+  },
+  {
+   "id": 4,
+   "pt": "Ataque Meteoro →+<c#ffe63dff>{S}<c>"
+  },
+  {
+   "id": 5,
+   "pt": "Dança das Chamas {L}+<c#ff1f75ff>{P}<c>"
+  },
+  {
+   "id": 6,
+   "pt": "Uivo do Lobo {L}+<c#ff6eff40>{K}<c>"
+  },
+  {
+   "id": 7,
+   "pt": "Combo 1 <c#ff1f75ff>{P}<c>・<c#ff1f75ff>{P}<c>・<c#ff1f75ff>{P}<c>・<c#ff1f75ff>{P}<c>"
+  },
+  {
+   "id": 8,
+   "pt": "Combo 2 <c#ff6eff40>{K}<c>・<c#ff6eff40>{K}<c>・<c#ff6eff40>{K}<c>"
+  },
+  {
+   "id": 9,
+   "pt": "Combo 3 <c#ff6eff40>{K}<c>・<c#ffe63dff>{S}<c>・<c#ffe63dff>{S}<c>・<c#ffe63dff>{S}<c>"
+  },
+  {
+   "id": 10,
+   "pt": "Combo 4 <c#ff1f75ff>{P}<c>・<c#ff1f75ff>{P}<c>・<c#ff1f75ff>{P}<c>・<c#ff6eff40>{K}<c>・<c#ff6eff40>{K}<c>・<c#ff6eff40>{K}<c>"
+  },
+  {
+   "id": 11,
+   "pt": "Combo 5 <c#ff1f75ff>{P}<c>・<c#ffe63dff>{S}<c>・<c#ffe63dff>{S}<c>・<c#ffe63dff>{S}<c>"
+  },
+  {
+   "id": 12,
+   "pt": "Combo 6 <c#ff1f75ff>{P}<c>・<c#ff1f75ff>{P}<c>・<c#ffe63dff>{S}<c>・<c#ffe63dff>{S}<c>・<c#ffe63dff>{S}<c>・<c#ff6eff40>{K}<c>"
+  },
+  {
+   "id": 13,
+   "pt": "~ Explosão de Cosmo ~"
+  },
+  {
+   "id": 14,
+   "pt": "Presas do Lobo {L}+<c#ffe63dff>{S}<c>"
+  },
+  {
+   "id": 15,
+   "pt": "Combo 7 <c#ff1f75ff>{P}<c>・<c#ff1f75ff>{P}<c>・<c#ffe63dff>{S}<c>・<c#ffe63dff>{S}<c>・<c#ffe63dff>{S}<c>・<c#ff6eff40>{K}<c>・<c#ff6eff40>{K}<c>・<c#ff6eff40>{K}<c>"
+  },
+  {
+   "id": 16,
+   "pt": "Combo 8 <c#ff1f75ff>{P}<c>・<c#ffe63dff>{S}<c>・<c#ffe63dff>{S}<c>・<c#ff6eff40>{K}<c>・<c#ff6eff40>{K}<c>"
+  }
+ ],
+ "btx/combolist/hatv2_combolist_jp.btx": [
+  {
+   "id": 0,
+   "pt": "~ Normal ~"
+  },
+  {
+   "id": 1,
+   "pt": "Corte do Vácuo ←+<c#ffe63dff>{S}<c>"
+  },
+  {
+   "id": 2,
+   "pt": "Doton de Fuji ↓+<c#ffe63dff>{S}<c>"
+  },
+  {
+   "id": 3,
+   "pt": "Utsusemi de Fuji ↑+<c#ffe63dff>{S}<c>"
+  },
+  {
+   "id": 4,
+   "pt": "Ataque Meteoro →+<c#ffe63dff>{S}<c>"
+  },
+  {
+   "id": 5,
+   "pt": "Dança das Chamas {L}+<c#ff1f75ff>{P}<c>"
+  },
+  {
+   "id": 6,
+   "pt": "Uivo do Lobo {L}+<c#ff6eff40>{K}<c>"
+  },
+  {
+   "id": 7,
+   "pt": "Combo 1 <c#ff1f75ff>{P}<c>・<c#ff1f75ff>{P}<c>・<c#ff1f75ff>{P}<c>・<c#ff1f75ff>{P}<c>"
+  },
+  {
+   "id": 8,
+   "pt": "Combo 2 <c#ff6eff40>{K}<c>・<c#ff6eff40>{K}<c>・<c#ff6eff40>{K}<c>"
+  },
+  {
+   "id": 9,
+   "pt": "Combo 3 <c#ff6eff40>{K}<c>・<c#ffe63dff>{S}<c>・<c#ffe63dff>{S}<c>・<c#ffe63dff>{S}<c>"
+  },
+  {
+   "id": 10,
+   "pt": "Combo 4 <c#ff1f75ff>{P}<c>・<c#ff1f75ff>{P}<c>・<c#ff1f75ff>{P}<c>・<c#ff6eff40>{K}<c>・<c#ff6eff40>{K}<c>・<c#ff6eff40>{K}<c>"
+  },
+  {
+   "id": 11,
+   "pt": "Combo 5 <c#ff1f75ff>{P}<c>・<c#ffe63dff>{S}<c>・<c#ffe63dff>{S}<c>・<c#ffe63dff>{S}<c>"
+  },
+  {
+   "id": 12,
+   "pt": "Combo 6 <c#ff1f75ff>{P}<c>・<c#ff1f75ff>{P}<c>・<c#ffe63dff>{S}<c>・<c#ffe63dff>{S}<c>・<c#ffe63dff>{S}<c>・<c#ff6eff40>{K}<c>"
+  },
+  {
+   "id": 13,
+   "pt": "~ Explosão de Cosmo ~"
+  },
+  {
+   "id": 14,
+   "pt": "Presas do Lobo {L}+<c#ffe63dff>{S}<c>"
+  },
+  {
+   "id": 15,
+   "pt": "Combo 7 <c#ff1f75ff>{P}<c>・<c#ff1f75ff>{P}<c>・<c#ffe63dff>{S}<c>・<c#ffe63dff>{S}<c>・<c#ffe63dff>{S}<c>・<c#ff6eff40>{K}<c>・<c#ff6eff40>{K}<c>・<c#ff6eff40>{K}<c>"
+  },
+  {
+   "id": 16,
+   "pt": "Combo 8 <c#ff1f75ff>{P}<c>・<c#ffe63dff>{S}<c>・<c#ffe63dff>{S}<c>・<c#ff6eff40>{K}<c>・<c#ff6eff40>{K}<c>"
+  }
+ ],
+ "btx/combolist/ion_combolist_jp.btx": [
+  {
+   "id": 0,
+   "pt": "~ Normal ~"
+  },
+  {
+   "id": 1,
+   "pt": "Palavra Refletida ←+<c#ffe63dff>{S}<c>"
+  },
+  {
+   "id": 2,
+   "pt": "Ataque Meteoro →+<c#ffe63dff>{S}<c>"
+  },
+  {
+   "id": 3,
+   "pt": "Investida Chifre {L}+<c#ff1f75ff>{P}<c>"
+  },
+  {
+   "id": 4,
+   "pt": "Palavra Dominante {L}+<c#ff6eff40>{K}<c>"
+  },
+  {
+   "id": 5,
+   "pt": "Combo 1 <c#ff1f75ff>{P}<c>・<c#ff1f75ff>{P}<c>・<c#ff1f75ff>{P}<c>"
+  },
+  {
+   "id": 6,
+   "pt": "Combo 2 <c#ff1f75ff>{P}<c>・<c#ffe63dff>{S}<c>・<c#ffe63dff>{S}<c>"
+  },
+  {
+   "id": 7,
+   "pt": "Combo 3 <c#ff6eff40>{K}<c>・<c#ff6eff40>{K}<c>・<c#ff6eff40>{K}<c>"
+  },
+  {
+   "id": 8,
+   "pt": "~ Explosão de Cosmo ~"
+  },
+  {
+   "id": 9,
+   "pt": "Domínio Total {L}+<c#ffe63dff>{S}<c>"
+  },
+  {
+   "id": 10,
+   "pt": "Combo 4 <c#ff1f75ff>{P}<c>・<c#ff1f75ff>{P}<c>・<c#ffe63dff>{S}<c>・<c#ff6eff40>{K}<c>・<c#ff6eff40>{K}<c>"
+  }
+ ],
+ "btx/combolist/iti_combolist_jp.btx": [
+  {
+   "id": 0,
+   "pt": "~ Normal ~"
+  },
+  {
+   "id": 1,
+   "pt": "Chuva Paralisante ↓+<c#ff6eff40>{K}<c>"
+  },
+  {
+   "id": 2,
+   "pt": "Ataque Meteoro ↓+<c#ffe63dff>{S}<c>"
+  },
+  {
+   "id": 3,
+   "pt": "Beijo Paralisante {L}+<c#ff1f75ff>{P}<c>"
+  },
+  {
+   "id": 4,
+   "pt": "Onda de Hydra {L}+<c#ff6eff40>{K}<c>"
+  },
+  {
+   "id": 5,
+   "pt": "Combo 1 <c#ff1f75ff>{P}<c>・<c#ff1f75ff>{P}<c>・<c#ff1f75ff>{P}<c>"
+  },
+  {
+   "id": 6,
+   "pt": "Combo 2 <c#ff1f75ff>{P}<c>・<c#ffe63dff>{S}<c>・<c#ffe63dff>{S}<c>・<c#ffe63dff>{S}<c>・<c#ffe63dff>{S}<c>・<c#ffe63dff>{S}<c>"
+  },
+  {
+   "id": 7,
+   "pt": "Combo 3 <c#ff6eff40>{K}<c>・<c#ff6eff40>{K}<c>・<c#ff6eff40>{K}<c>・<c#ff6eff40>{K}<c>・<c#ff6eff40>{K}<c>"
+  },
+  {
+   "id": 8,
+   "pt": "~ Explosão de Cosmo ~"
+  },
+  {
+   "id": 9,
+   "pt": "Mil Paralisias {L}+<c#ffe63dff>{S}<c>"
+  },
+  {
+   "id": 10,
+   "pt": "Combo 4 <c#ff1f75ff>{P}<c>・<c#ff1f75ff>{P}<c>・<c#ff1f75ff>{P}<c>・<c#ffe63dff>{S}<c>・<c#ffe63dff>{S}<c>・<c#ffe63dff>{S}<c>"
+  }
+ ],
+ "btx/combolist/jyu_combolist_jp.btx": [
+  {
+   "id": 0,
+   "pt": "~ Normal ~"
+  },
+  {
+   "id": 1,
+   "pt": "Miragem ←+<c#ffe63dff>{S}<c>"
+  },
+  {
+   "id": 2,
+   "pt": "Gêiser ↓+<c#ff1f75ff>{P}<c>"
+  },
+  {
+   "id": 3,
+   "pt": "Ataque Meteoro →+<c#ffe63dff>{S}<c>"
+  },
+  {
+   "id": 4,
+   "pt": "Fúria da Terra {L}+<c#ff1f75ff>{P}<c>"
+  },
+  {
+   "id": 5,
+   "pt": "Tridente Oculto {L}+<c#ff6eff40>{K}<c>"
+  },
+  {
+   "id": 6,
+   "pt": "Combo 1 <c#ff1f75ff>{P}<c>・<c#ff1f75ff>{P}<c>・<c#ff1f75ff>{P}<c>・<c#ff1f75ff>{P}<c>"
+  },
+  {
+   "id": 7,
+   "pt": "Combo 2 <c#ff6eff40>{K}<c>・<c#ff6eff40>{K}<c>・<c#ff6eff40>{K}<c>・<c#ff6eff40>{K}<c>・<c#ff6eff40>{K}<c>"
+  },
+  {
+   "id": 8,
+   "pt": "Combo 3 <c#ff6eff40>{K}<c>・<c#ffe63dff>{S}<c>・<c#ffe63dff>{S}<c>・<c#ffe63dff>{S}<c>・<c#ffe63dff>{S}<c>"
+  },
+  {
+   "id": 9,
+   "pt": "~ Explosão de Cosmo ~"
+  },
+  {
+   "id": 10,
+   "pt": "Tempestade Noé {L}+<c#ffe63dff>{S}<c>"
+  },
+  {
+   "id": 11,
+   "pt": "Combo 4 <c#ff6eff40>{K}<c>・<c#ff6eff40>{K}<c>・<c#ff6eff40>{K}<c>・<c#ffe63dff>{S}<c>・<c#ffe63dff>{S}<c>・<c#ffe63dff>{S}<c>・<c#ffe63dff>{S}<c>"
+  }
+ ],
+ "btx/combolist/kik_combolist_jp.btx": [
+  {
+   "id": 0,
+   "pt": "~ Normal ~"
+  },
+  {
+   "id": 1,
+   "pt": "Teletransporte ↓+<c#ffe63dff>{S}<c>"
+  },
+  {
+   "id": 2,
+   "pt": "Ataque Meteoro →+<c#ffe63dff>{S}<c>"
+  },
+  {
+   "id": 3,
+   "pt": "Parede de Cristal {L}+<c#ff1f75ff>{P}<c>"
+  },
+  {
+   "id": 4,
+   "pt": "Revolução Estelar {L}+<c#ff6eff40>{K}<c>"
+  },
+  {
+   "id": 5,
+   "pt": "Combo 1 <c#ff1f75ff>{P}<c>・<c#ff1f75ff>{P}<c>・<c#ff1f75ff>{P}<c>・<c#ff1f75ff>{P}<c>・<c#ff1f75ff>{P}<c>"
+  },
+  {
+   "id": 6,
+   "pt": "Combo 2 <c#ff6eff40>{K}<c>・<c#ff6eff40>{K}<c>・<c#ff6eff40>{K}<c>"
+  },
+  {
+   "id": 7,
+   "pt": "Combo 3 <c#ff1f75ff>{P}<c>・<c#ffe63dff>{S}<c>・<c#ffe63dff>{S}<c>・<c#ffe63dff>{S}<c>・<c#ffe63dff>{S}<c>"
+  },
+  {
+   "id": 8,
+   "pt": "Combo 4 <c#ff6eff40>{K}<c>・<c#ff1f75ff>{P}<c>・<c#ff1f75ff>{P}<c>・<c#ff1f75ff>{P}<c>"
+  },
+  {
+   "id": 9,
+   "pt": "~ Explosão de Cosmo ~"
+  },
+  {
+   "id": 10,
+   "pt": "Extinção Estelar {L}+<c#ffe63dff>{S}<c>"
+  },
+  {
+   "id": 11,
+   "pt": "Combo 5 <c#ff1f75ff>{P}<c>・<c#ff1f75ff>{P}<c>・<c#ff1f75ff>{P}<c>・<c#ffe63dff>{S}<c>・<c#ffe63dff>{S}<c>・<c#ffe63dff>{S}<c>・<c#ffe63dff>{S}<c>・<c#ff6eff40>{K}<c>"
+  }
+ ],
+ "btx/combolist/kog_combolist_jp.btx": [
+  {
+   "id": 0,
+   "pt": "~ Normal ~"
+  },
+  {
+   "id": 1,
+   "pt": "Ataque Meteoro →+<c#ffe63dff>{S}<c>"
+  },
+  {
+   "id": 2,
+   "pt": "Clarão de Pégaso {L}+<c#ff1f75ff>{P}<c>"
+  },
+  {
+   "id": 3,
+   "pt": "Pégaso Veloz {L}+<c#ff6eff40>{K}<c>"
+  },
+  {
+   "id": 4,
+   "pt": "Combo 1 <c#ff1f75ff>{P}<c>・<c#ff1f75ff>{P}<c>・<c#ff1f75ff>{P}<c>・<c#ff1f75ff>{P}<c>・<c#ff1f75ff>{P}<c>"
+  },
+  {
+   "id": 5,
+   "pt": "Combo 2 <c#ff1f75ff>{P}<c>・<c#ff6eff40>{K}<c>・<c#ffe63dff>{S}<c>"
+  },
+  {
+   "id": 6,
+   "pt": "Combo 3 <c#ff1f75ff>{P}<c>・<c#ff6eff40>{K}<c>・<c#ff6eff40>{K}<c>・<c#ff6eff40>{K}<c>・<c#ff6eff40>{K}<c>"
+  },
+  {
+   "id": 7,
+   "pt": "Combo 4 <c#ff1f75ff>{P}<c>・<c#ffe63dff>{S}<c>・<c#ffe63dff>{S}<c>・<c#ffe63dff>{S}<c>"
+  },
+  {
+   "id": 8,
+   "pt": "Combo 5 <c#ff6eff40>{K}<c>・<c#ff6eff40>{K}<c>・<c#ff6eff40>{K}<c>"
+  },
+  {
+   "id": 9,
+   "pt": "Combo 6 <c#ff6eff40>{K}<c>・<c#ff1f75ff>{P}<c>・<c#ff1f75ff>{P}<c>・<c#ff1f75ff>{P}<c>・<c#ff1f75ff>{P}<c>"
+  },
+  {
+   "id": 10,
+   "pt": "~ Explosão de Cosmo ~"
+  },
+  {
+   "id": 11,
+   "pt": "Meteoro de Pégaso {L}+<c#ffe63dff>{S}<c>"
+  },
+  {
+   "id": 12,
+   "pt": "Combo 7 <c#ff1f75ff>{P}<c>・<c#ff6eff40>{K}<c>・<c#ff6eff40>{K}<c>・<c#ff6eff40>{K}<c>・<c#ff6eff40>{K}<c>・<c#ffe63dff>{S}<c>・<c#ffe63dff>{S}<c>"
+  },
+  {
+   "id": 13,
+   "pt": "Combo 8 <c#ff6eff40>{K}<c>・<c#ff1f75ff>{P}<c>・<c#ff1f75ff>{P}<c>・<c#ff1f75ff>{P}<c>・<c#ff1f75ff>{P}<c>・<c#ffe63dff>{S}<c>・<c#ffe63dff>{S}<c>"
+  }
+ ],
+ "btx/combolist/kogv2_combolist_jp.btx": [
+  {
+   "id": 0,
+   "pt": "~ Normal ~"
+  },
+  {
+   "id": 1,
+   "pt": "Ataque Meteoro →+<c#ffe63dff>{S}<c>"
+  },
+  {
+   "id": 2,
+   "pt": "Clarão de Pégaso {L}+<c#ff1f75ff>{P}<c>"
+  },
+  {
+   "id": 3,
+   "pt": "Pégaso Veloz {L}+<c#ff6eff40>{K}<c>"
+  },
+  {
+   "id": 4,
+   "pt": "Combo 1 <c#ff1f75ff>{P}<c>・<c#ff1f75ff>{P}<c>・<c#ff1f75ff>{P}<c>・<c#ff1f75ff>{P}<c>・<c#ff1f75ff>{P}<c>"
+  },
+  {
+   "id": 5,
+   "pt": "Combo 2 <c#ff1f75ff>{P}<c>・<c#ff6eff40>{K}<c>・<c#ffe63dff>{S}<c>"
+  },
+  {
+   "id": 6,
+   "pt": "Combo 3 <c#ff1f75ff>{P}<c>・<c#ff6eff40>{K}<c>・<c#ff6eff40>{K}<c>・<c#ff6eff40>{K}<c>・<c#ff6eff40>{K}<c>"
+  },
+  {
+   "id": 7,
+   "pt": "Combo 4 <c#ff1f75ff>{P}<c>・<c#ffe63dff>{S}<c>・<c#ffe63dff>{S}<c>・<c#ffe63dff>{S}<c>"
+  },
+  {
+   "id": 8,
+   "pt": "Combo 5 <c#ff6eff40>{K}<c>・<c#ff6eff40>{K}<c>・<c#ff6eff40>{K}<c>"
+  },
+  {
+   "id": 9,
+   "pt": "Combo 6 <c#ff6eff40>{K}<c>・<c#ff1f75ff>{P}<c>・<c#ff1f75ff>{P}<c>・<c#ff1f75ff>{P}<c>・<c#ff1f75ff>{P}<c>"
+  },
+  {
+   "id": 10,
+   "pt": "~ Explosão de Cosmo ~"
+  },
+  {
+   "id": 11,
+   "pt": "Meteoro de Pégaso {L}+<c#ffe63dff>{S}<c>"
+  },
+  {
+   "id": 12,
+   "pt": "Combo 7 <c#ff1f75ff>{P}<c>・<c#ff6eff40>{K}<c>・<c#ff6eff40>{K}<c>・<c#ff6eff40>{K}<c>・<c#ff6eff40>{K}<c>・<c#ffe63dff>{S}<c>・<c#ffe63dff>{S}<c>"
+  },
+  {
+   "id": 13,
+   "pt": "Combo 8 <c#ff6eff40>{K}<c>・<c#ff1f75ff>{P}<c>・<c#ff1f75ff>{P}<c>・<c#ff1f75ff>{P}<c>・<c#ff1f75ff>{P}<c>・<c#ffe63dff>{S}<c>・<c#ffe63dff>{S}<c>"
+  }
+ ],
+ "btx/combolist/mik_combolist_jp.btx": [
+  {
+   "id": 0,
+   "pt": "~ Normal ~"
+  },
+  {
+   "id": 1,
+   "pt": "Rugido ↓+<c#ffe63dff>{S}<c>"
+  },
+  {
+   "id": 2,
+   "pt": "Ataque Meteoro →+<c#ffe63dff>{S}<c>"
+  },
+  {
+   "id": 3,
+   "pt": "Rajada Regulus {L}+<c#ff1f75ff>{P}<c>"
+  },
+  {
+   "id": 4,
+   "pt": "Queda da Fera {L}+<c#ff6eff40>{K}<c>"
+  },
+  {
+   "id": 5,
+   "pt": "Combo 1 <c#ff1f75ff>{P}<c>・<c#ff1f75ff>{P}<c>・<c#ff1f75ff>{P}<c>"
+  },
+  {
+   "id": 6,
+   "pt": "Combo 2 <c#ff6eff40>{K}<c>・<c#ff6eff40>{K}<c>"
+  },
+  {
+   "id": 7,
+   "pt": "Combo 3 <c#ff6eff40>{K}<c>・<c#ffe63dff>{S}<c>・<c#ffe63dff>{S}<c>・<c#ffe63dff>{S}<c>"
+  },
+  {
+   "id": 8,
+   "pt": "~ Explosão de Cosmo ~"
+  },
+  {
+   "id": 9,
+   "pt": "Plasma Relâmpago {L}+<c#ffe63dff>{S}<c>"
+  },
+  {
+   "id": 10,
+   "pt": "Combo 4 <c#ff1f75ff>{P}<c>・<c#ff6eff40>{K}<c>・<c#ffe63dff>{S}<c>・<c#ffe63dff>{S}<c>・<c#ffe63dff>{S}<c>"
+  }
+ ],
+ "btx/combolist/pab_combolist_jp.btx": [
+  {
+   "id": 0,
+   "pt": "~ Normal ~"
+  },
+  {
+   "id": 1,
+   "pt": "Ataque Meteoro ↑+<c#ffe63dff>{S}<c>"
+  },
+  {
+   "id": 2,
+   "pt": "Bala de Gelo {L}+<c#ff1f75ff>{P}<c>"
+  },
+  {
+   "id": 3,
+   "pt": "Tornado Pavão {L}+<c#ff6eff40>{K}<c>"
+  },
+  {
+   "id": 4,
+   "pt": "Combo 1 <c#ff1f75ff>{P}<c>・<c#ff1f75ff>{P}<c>・<c#ff1f75ff>{P}<c>・<c#ff1f75ff>{P}<c>・<c#ff1f75ff>{P}<c>・<c#ff1f75ff>{P}<c>・<c#ff1f75ff>{P}<c>・<c#ff1f75ff>{P}<c>"
+  },
+  {
+   "id": 5,
+   "pt": "Combo 2 <c#ff1f75ff>{P}<c>・<c#ff6eff40>{K}<c>・<c#ff6eff40>{K}<c>・<c#ff6eff40>{K}<c>・<c#ff6eff40>{K}<c>"
+  },
+  {
+   "id": 6,
+   "pt": "Combo 3 <c#ff6eff40>{K}<c>・<c#ff1f75ff>{P}<c>・<c#ffe63dff>{S}<c>"
+  },
+  {
+   "id": 7,
+   "pt": "Combo 4 <c#ff6eff40>{K}<c>・<c#ff6eff40>{K}<c>・<c#ff6eff40>{K}<c>・<c#ff6eff40>{K}<c>・<c#ff6eff40>{K}<c>"
+  },
+  {
+   "id": 8,
+   "pt": "Combo 5 <c#ff6eff40>{K}<c>・<c#ff6eff40>{K}<c>・<c#ff1f75ff>{P}<c>・<c#ff1f75ff>{P}<c>・<c#ff1f75ff>{P}<c>"
+  },
+  {
+   "id": 9,
+   "pt": "Combo 6 <c#ff6eff40>{K}<c>・<c#ff1f75ff>{P}<c>・<c#ff1f75ff>{P}<c>・<c#ff1f75ff>{P}<c>・<c#ff6eff40>{K}<c>"
+  },
+  {
+   "id": 10,
+   "pt": "Combo 7 <c#ff1f75ff>{P}<c>・<c#ff6eff40>{K}<c>・<c#ffe63dff>{S}<c>・<c#ffe63dff>{S}<c>・<c#ffe63dff>{S}<c>"
+  },
+  {
+   "id": 11,
+   "pt": "~ Explosão de Cosmo ~"
+  },
+  {
+   "id": 12,
+   "pt": "Nevasca do Pavão {L}+<c#ffe63dff>{S}<c>"
+  },
+  {
+   "id": 13,
+   "pt": "Combo 8 <c#ff6eff40>{K}<c>・<c#ff6eff40>{K}<c>・<c#ffe63dff>{S}<c>・<c#ffe63dff>{S}<c>・<c#ffe63dff>{S}<c>・<c#ffe63dff>{S}<c>・<c#ffe63dff>{S}<c>"
+  },
+  {
+   "id": 14,
+   "pt": "Combo 9 <c#ff1f75ff>{P}<c>・<c#ff6eff40>{K}<c>・<c#ff6eff40>{K}<c>・<c#ff6eff40>{K}<c>・<c#ffe63dff>{S}<c>・<c#ffe63dff>{S}<c>・<c#ffe63dff>{S}<c>"
+  }
+ ],
+ "btx/combolist/ryo_combolist_jp.btx": [
+  {
+   "id": 0,
+   "pt": "~ Normal ~"
+  },
+  {
+   "id": 1,
+   "pt": "Golpe de Ombro ←+<c#ffe63dff>{S}<c>"
+  },
+  {
+   "id": 2,
+   "pt": "Mente Serena →+<c#ffe63dff>{S}<c>"
+  },
+  {
+   "id": 3,
+   "pt": "Ataque Meteoro ↓+<c#ffe63dff>{S}<c>"
+  },
+  {
+   "id": 4,
+   "pt": "Cachoeira Rozan {L}+<c#ff1f75ff>{P}<c>"
+  },
+  {
+   "id": 5,
+   "pt": "Escudo do Dragão {L}+<c#ff6eff40>{K}<c>"
+  },
+  {
+   "id": 6,
+   "pt": "Combo 1 <c#ff1f75ff>{P}<c>・<c#ff1f75ff>{P}<c>・<c#ff1f75ff>{P}<c>・<c#ff1f75ff>{P}<c>"
+  },
+  {
+   "id": 7,
+   "pt": "Combo 2 <c#ff1f75ff>{P}<c>・<c#ffe63dff>{S}<c>・<c#ffe63dff>{S}<c>・<c#ffe63dff>{S}<c>・<c#ffe63dff>{S}<c>"
+  },
+  {
+   "id": 8,
+   "pt": "Combo 3 <c#ff6eff40>{K}<c>・<c#ff6eff40>{K}<c>・<c#ff6eff40>{K}<c>・<c#ff6eff40>{K}<c>"
+  },
+  {
+   "id": 9,
+   "pt": "Combo 4 <c#ff1f75ff>{P}<c>・<c#ff6eff40>{K}<c>・<c#ff6eff40>{K}<c>・<c#ff6eff40>{K}<c>"
+  },
+  {
+   "id": 10,
+   "pt": "Combo 5 <c#ff6eff40>{K}<c>・<c#ff1f75ff>{P}<c>・<c#ff1f75ff>{P}<c>・<c#ff1f75ff>{P}<c>"
+  },
+  {
+   "id": 11,
+   "pt": "Combo 6 <c#ff6eff40>{K}<c>・<c#ffe63dff>{S}<c>・<c#ffe63dff>{S}<c>・<c#ffe63dff>{S}<c>"
+  },
+  {
+   "id": 12,
+   "pt": "Combo 7 <c#ff1f75ff>{P}<c>・<c#ff6eff40>{K}<c>・<c#ffe63dff>{S}<c>"
+  },
+  {
+   "id": 13,
+   "pt": "~ Explosão de Cosmo ~"
+  },
+  {
+   "id": 14,
+   "pt": "Cólera do Dragão {L}+<c#ffe63dff>{S}<c>"
+  },
+  {
+   "id": 15,
+   "pt": "Combo 8 <c#ff6eff40>{K}<c>・<c#ff1f75ff>{P}<c>・<c#ff1f75ff>{P}<c>・<c#ff1f75ff>{P}<c>・<c#ffe63dff>{S}<c>・<c#ffe63dff>{S}<c>"
+  },
+  {
+   "id": 16,
+   "pt": "Combo 9 <c#ff1f75ff>{P}<c>・<c#ff1f75ff>{P}<c>・<c#ff1f75ff>{P}<c>・<c#ff6eff40>{K}<c>・<c#ff6eff40>{K}<c>・<c#ffe63dff>{S}<c>"
+  }
+ ],
+ "btx/combolist/ryov2_combolist_jp.btx": [
+  {
+   "id": 0,
+   "pt": "~ Normal ~"
+  },
+  {
+   "id": 1,
+   "pt": "Golpe de Ombro ←+<c#ffe63dff>{S}<c>"
+  },
+  {
+   "id": 2,
+   "pt": "Mente Serena →+<c#ffe63dff>{S}<c>"
+  },
+  {
+   "id": 3,
+   "pt": "Ataque Meteoro ↓+<c#ffe63dff>{S}<c>"
+  },
+  {
+   "id": 4,
+   "pt": "Cachoeira Rozan {L}+<c#ff1f75ff>{P}<c>"
+  },
+  {
+   "id": 5,
+   "pt": "Escudo do Dragão {L}+<c#ff6eff40>{K}<c>"
+  },
+  {
+   "id": 6,
+   "pt": "Combo 1 <c#ff1f75ff>{P}<c>・<c#ff1f75ff>{P}<c>・<c#ff1f75ff>{P}<c>・<c#ff1f75ff>{P}<c>"
+  },
+  {
+   "id": 7,
+   "pt": "Combo 2 <c#ff1f75ff>{P}<c>・<c#ffe63dff>{S}<c>・<c#ffe63dff>{S}<c>・<c#ffe63dff>{S}<c>・<c#ffe63dff>{S}<c>"
+  },
+  {
+   "id": 8,
+   "pt": "Combo 3 <c#ff6eff40>{K}<c>・<c#ff6eff40>{K}<c>・<c#ff6eff40>{K}<c>・<c#ff6eff40>{K}<c>"
+  },
+  {
+   "id": 9,
+   "pt": "Combo 4 <c#ff1f75ff>{P}<c>・<c#ff6eff40>{K}<c>・<c#ff6eff40>{K}<c>・<c#ff6eff40>{K}<c>"
+  },
+  {
+   "id": 10,
+   "pt": "Combo 5 <c#ff6eff40>{K}<c>・<c#ff1f75ff>{P}<c>・<c#ff1f75ff>{P}<c>・<c#ff1f75ff>{P}<c>"
+  },
+  {
+   "id": 11,
+   "pt": "Combo 6 <c#ff6eff40>{K}<c>・<c#ffe63dff>{S}<c>・<c#ffe63dff>{S}<c>・<c#ffe63dff>{S}<c>"
+  },
+  {
+   "id": 12,
+   "pt": "Combo 7 <c#ff1f75ff>{P}<c>・<c#ff6eff40>{K}<c>・<c#ffe63dff>{S}<c>"
+  },
+  {
+   "id": 13,
+   "pt": "~ Explosão de Cosmo ~"
+  },
+  {
+   "id": 14,
+   "pt": "Cólera do Dragão {L}+<c#ffe63dff>{S}<c>"
+  },
+  {
+   "id": 15,
+   "pt": "Combo 8 <c#ff6eff40>{K}<c>・<c#ff1f75ff>{P}<c>・<c#ff1f75ff>{P}<c>・<c#ff1f75ff>{P}<c>・<c#ffe63dff>{S}<c>・<c#ffe63dff>{S}<c>"
+  },
+  {
+   "id": 16,
+   "pt": "Combo 9 <c#ff1f75ff>{P}<c>・<c#ff1f75ff>{P}<c>・<c#ff1f75ff>{P}<c>・<c#ff6eff40>{K}<c>・<c#ff6eff40>{K}<c>・<c#ffe63dff>{S}<c>"
+  }
+ ],
+ "btx/combolist/sey_combolist_jp.btx": [
+  {
+   "id": 0,
+   "pt": "~ Normal ~"
+  },
+  {
+   "id": 1,
+   "pt": "Punho Meteoro ↑+<c#ff6eff40>{K}<c>"
+  },
+  {
+   "id": 2,
+   "pt": "Ataque Meteoro →+<c#ffe63dff>{S}<c>"
+  },
+  {
+   "id": 3,
+   "pt": "Flecha Sagitário {L}+<c#ff1f75ff>{P}<c>"
+  },
+  {
+   "id": 4,
+   "pt": "Cometa de Pégaso {L}+<c#ff6eff40>{K}<c>"
+  },
+  {
+   "id": 5,
+   "pt": "Combo 1 <c#ff1f75ff>{P}<c>・<c#ff1f75ff>{P}<c>・<c#ff1f75ff>{P}<c>・<c#ff1f75ff>{P}<c>・<c#ff1f75ff>{P}<c>"
+  },
+  {
+   "id": 6,
+   "pt": "Combo 2 <c#ff1f75ff>{P}<c>・<c#ff6eff40>{K}<c>・<c#ff1f75ff>{P}<c>・<c#ff1f75ff>{P}<c>・<c#ff6eff40>{K}<c>"
+  },
+  {
+   "id": 7,
+   "pt": "Combo 3 <c#ff1f75ff>{P}<c>・<c#ff6eff40>{K}<c>・<c#ffe63dff>{S}<c>"
+  },
+  {
+   "id": 8,
+   "pt": "Combo 4 <c#ff1f75ff>{P}<c>・<c#ffe63dff>{S}<c>・<c#ffe63dff>{S}<c>・<c#ffe63dff>{S}<c>"
+  },
+  {
+   "id": 9,
+   "pt": "Combo 5 <c#ff6eff40>{K}<c>・<c#ff6eff40>{K}<c>・<c#ff6eff40>{K}<c>・<c#ff6eff40>{K}<c>・<c#ff6eff40>{K}<c>"
+  },
+  {
+   "id": 10,
+   "pt": "Combo 6 <c#ff6eff40>{K}<c>・<c#ff6eff40>{K}<c>・<c#ff1f75ff>{P}<c>・<c#ff1f75ff>{P}<c>・<c#ff1f75ff>{P}<c>"
+  },
+  {
+   "id": 11,
+   "pt": "~ Explosão de Cosmo ~"
+  },
+  {
+   "id": 12,
+   "pt": "Meteoro Supremo {L}+<c#ffe63dff>{S}<c>"
+  },
+  {
+   "id": 13,
+   "pt": "Combo 7 <c#ff1f75ff>{P}<c>・<c#ff6eff40>{K}<c>・<c#ff1f75ff>{P}<c>・<c#ff1f75ff>{P}<c>・<c#ffe63dff>{S}<c>・<c#ffe63dff>{S}<c>・<c#ffe63dff>{S}<c>"
+  },
+  {
+   "id": 14,
+   "pt": "Combo 8 <c#ff6eff40>{K}<c>・<c#ff6eff40>{K}<c>・<c#ff1f75ff>{P}<c>・<c#ff1f75ff>{P}<c>・<c#ffe63dff>{S}<c>・<c#ffe63dff>{S}<c>・<c#ffe63dff>{S}<c>"
+  }
+ ],
+ "btx/combolist/shn_combolist_jp.btx": [
+  {
+   "id": 0,
+   "pt": "~ Normal ~"
+  },
+  {
+   "id": 1,
+   "pt": "Ataque Meteoro →+<c#ffe63dff>{S}<c>"
+  },
+  {
+   "id": 2,
+   "pt": "Fúria da Serpente {L}+<c#ff1f75ff>{P}<c>"
+  },
+  {
+   "id": 3,
+   "pt": "Garra do Trovão {L}+<c#ff6eff40>{K}<c>"
+  },
+  {
+   "id": 4,
+   "pt": "Combo 1 <c#ff1f75ff>{P}<c>・<c#ff1f75ff>{P}<c>・<c#ff1f75ff>{P}<c>・<c#ff1f75ff>{P}<c>・<c#ff1f75ff>{P}<c>"
+  },
+  {
+   "id": 5,
+   "pt": "Combo 2 <c#ff1f75ff>{P}<c>・<c#ffe63dff>{S}<c>・<c#ffe63dff>{S}<c>・<c#ffe63dff>{S}<c>・<c#ffe63dff>{S}<c>・<c#ffe63dff>{S}<c>"
+  },
+  {
+   "id": 6,
+   "pt": "Combo 3 <c#ff6eff40>{K}<c>・<c#ff6eff40>{K}<c>・<c#ff6eff40>{K}<c>・<c#ff6eff40>{K}<c>・<c#ff6eff40>{K}<c>"
+  },
+  {
+   "id": 7,
+   "pt": "Combo 4 <c#ff6eff40>{K}<c>・<c#ff1f75ff>{P}<c>・<c#ffe63dff>{S}<c>"
+  },
+  {
+   "id": 8,
+   "pt": "~ Explosão de Cosmo ~"
+  },
+  {
+   "id": 9,
+   "pt": "Fúria Relâmpago {L}+<c#ffe63dff>{S}<c>"
+  },
+  {
+   "id": 10,
+   "pt": "Combo 5 <c#ff6eff40>{K}<c>・<c#ff6eff40>{K}<c>・<c#ff6eff40>{K}<c>・<c#ff6eff40>{K}<c>・<c#ff1f75ff>{P}<c>・<c#ffe63dff>{S}<c>・<c#ffe63dff>{S}<c>"
+  }
+ ],
+ "btx/combolist/shu_combolist_jp.btx": [
+  {
+   "id": 0,
+   "pt": "~ Normal ~"
+  },
+  {
+   "id": 1,
+   "pt": "Defesa Rolante ←+<c#ffe63dff>{S}<c>"
+  },
+  {
+   "id": 2,
+   "pt": "Ataque Meteoro →+<c#ffe63dff>{S}<c>"
+  },
+  {
+   "id": 3,
+   "pt": "Corrente Nebulosa {L}+<c#ff1f75ff>{P}<c>"
+  },
+  {
+   "id": 4,
+   "pt": "Andrômeda Nebula {L}+<c#ff6eff40>{K}<c>"
+  },
+  {
+   "id": 5,
+   "pt": "Combo 1 <c#ff1f75ff>{P}<c>・<c#ff1f75ff>{P}<c>・<c#ff1f75ff>{P}<c>・<c#ff1f75ff>{P}<c>"
+  },
+  {
+   "id": 6,
+   "pt": "Combo 2 <c#ff1f75ff>{P}<c>・<c#ffe63dff>{S}<c>・<c#ffe63dff>{S}<c>・<c#ffe63dff>{S}<c>・<c#ffe63dff>{S}<c>"
+  },
+  {
+   "id": 7,
+   "pt": "Combo 3 <c#ff6eff40>{K}<c>・<c#ff6eff40>{K}<c>・<c#ff6eff40>{K}<c>・<c#ff6eff40>{K}<c>・<c#ff6eff40>{K}<c>"
+  },
+  {
+   "id": 8,
+   "pt": "~ Explosão de Cosmo ~"
+  },
+  {
+   "id": 9,
+   "pt": "Tormenta Nebulosa {L}+<c#ffe63dff>{S}<c>"
+  },
+  {
+   "id": 10,
+   "pt": "Combo 4 <c#ff6eff40>{K}<c>・<c#ff6eff40>{K}<c>・<c#ff6eff40>{K}<c>・<c#ff1f75ff>{P}<c>・<c#ff1f75ff>{P}<c>・<c#ff1f75ff>{P}<c>・<c#ffe63dff>{S}<c>"
+  }
+ ],
+ "btx/combolist/soi_combolist_jp.btx": [
+  {
+   "id": 0,
+   "pt": "~ Normal ~"
+  },
+  {
+   "id": 1,
+   "pt": "Movimento Sônico ↑+<c#ffe63dff>{S}<c>"
+  },
+  {
+   "id": 2,
+   "pt": "Ataque Meteoro →+<c#ffe63dff>{S}<c>"
+  },
+  {
+   "id": 3,
+   "pt": "Ferrão de Vespa {L}+<c#ff1f75ff>{P}<c>"
+  },
+  {
+   "id": 4,
+   "pt": "Marionete Sombria {L}+<c#ff6eff40>{K}<c>"
+  },
+  {
+   "id": 5,
+   "pt": "Combo 1 <c#ff1f75ff>{P}<c>・<c#ff1f75ff>{P}<c>・<c#ff1f75ff>{P}<c>"
+  },
+  {
+   "id": 6,
+   "pt": "Combo 2 <c#ff1f75ff>{P}<c>・<c#ffe63dff>{S}<c>・<c#ffe63dff>{S}<c>・<c#ffe63dff>{S}<c>・<c#ffe63dff>{S}<c>・<c#ffe63dff>{S}<c>・<c#ffe63dff>{S}<c>"
+  },
+  {
+   "id": 7,
+   "pt": "Combo 3 <c#ff6eff40>{K}<c>・<c#ff6eff40>{K}<c>・<c#ff6eff40>{K}<c>・<c#ff6eff40>{K}<c>"
+  },
+  {
+   "id": 8,
+   "pt": "~ Explosão de Cosmo ~"
+  },
+  {
+   "id": 9,
+   "pt": "Retorno às Trevas {L}+<c#ffe63dff>{S}<c>"
+  },
+  {
+   "id": 10,
+   "pt": "Combo 4 <c#ff1f75ff>{P}<c>・<c#ff1f75ff>{P}<c>・<c#ff6eff40>{K}<c>・<c#ff6eff40>{K}<c>・<c#ffe63dff>{S}<c>"
+  }
+ ],
+ "btx/combolist/som_combolist_jp.btx": [
+  {
+   "id": 0,
+   "pt": "~ Normal ~"
+  },
+  {
+   "id": 1,
+   "pt": "Ataque Meteoro →+<c#ffe63dff>{S}<c>"
+  },
+  {
+   "id": 2,
+   "pt": "Chama Desesperada {L}+<c#ff1f75ff>{P}<c>"
+  },
+  {
+   "id": 3,
+   "pt": "Fogo do Leãozinho {L}+<c#ff6eff40>{K}<c>"
+  },
+  {
+   "id": 4,
+   "pt": "Combo 1 <c#ff1f75ff>{P}<c>・<c#ff1f75ff>{P}<c>・<c#ff1f75ff>{P}<c>・<c#ff1f75ff>{P}<c>・<c#ff1f75ff>{P}<c>"
+  },
+  {
+   "id": 5,
+   "pt": "Combo 2 <c#ff1f75ff>{P}<c>・<c#ff1f75ff>{P}<c>・<c#ff1f75ff>{P}<c>・<c#ff6eff40>{K}<c>・<c#ff6eff40>{K}<c>・<c#ff6eff40>{K}<c>"
+  },
+  {
+   "id": 6,
+   "pt": "Combo 3 <c#ff1f75ff>{P}<c>・<c#ff1f75ff>{P}<c>・<c#ff6eff40>{K}<c>・<c#ff1f75ff>{P}<c>"
+  },
+  {
+   "id": 7,
+   "pt": "Combo 4 <c#ff6eff40>{K}<c>・<c#ff6eff40>{K}<c>・<c#ff6eff40>{K}<c>"
+  },
+  {
+   "id": 8,
+   "pt": "Combo 5 <c#ff6eff40>{K}<c>・<c#ffe63dff>{S}<c>・<c#ffe63dff>{S}<c>・<c#ffe63dff>{S}<c>"
+  },
+  {
+   "id": 9,
+   "pt": "Combo 6 <c#ff6eff40>{K}<c>・<c#ff1f75ff>{P}<c>・<c#ff1f75ff>{P}<c>・<c#ff1f75ff>{P}<c>"
+  },
+  {
+   "id": 10,
+   "pt": "Combo 7 <c#ff1f75ff>{P}<c>・<c#ff1f75ff>{P}<c>・<c#ff6eff40>{K}<c>・<c#ff6eff40>{K}<c>・<c#ff6eff40>{K}<c>・<c#ffe63dff>{S}<c>"
+  },
+  {
+   "id": 11,
+   "pt": "~ Explosão de Cosmo ~"
+  },
+  {
+   "id": 12,
+   "pt": "Bomba Leãozinho {L}+<c#ffe63dff>{S}<c>"
+  },
+  {
+   "id": 13,
+   "pt": "Combo 8 <c#ff1f75ff>{P}<c>・<c#ff1f75ff>{P}<c>・<c#ff6eff40>{K}<c>・<c#ff6eff40>{K}<c>・<c#ff6eff40>{K}<c>・<c#ffe63dff>{S}<c>・<c#ffe63dff>{S}<c>・<c#ffe63dff>{S}<c>"
+  }
+ ],
+ "btx/combolist/somv2_combolist_jp.btx": [
+  {
+   "id": 0,
+   "pt": "~ Normal ~"
+  },
+  {
+   "id": 1,
+   "pt": "Ataque Meteoro →+<c#ffe63dff>{S}<c>"
+  },
+  {
+   "id": 2,
+   "pt": "Chama Desesperada {L}+<c#ff1f75ff>{P}<c>"
+  },
+  {
+   "id": 3,
+   "pt": "Fogo do Leãozinho {L}+<c#ff6eff40>{K}<c>"
+  },
+  {
+   "id": 4,
+   "pt": "Combo 1 <c#ff1f75ff>{P}<c>・<c#ff1f75ff>{P}<c>・<c#ff1f75ff>{P}<c>・<c#ff1f75ff>{P}<c>・<c#ff1f75ff>{P}<c>"
+  },
+  {
+   "id": 5,
+   "pt": "Combo 2 <c#ff1f75ff>{P}<c>・<c#ff1f75ff>{P}<c>・<c#ff1f75ff>{P}<c>・<c#ff6eff40>{K}<c>・<c#ff6eff40>{K}<c>・<c#ff6eff40>{K}<c>"
+  },
+  {
+   "id": 6,
+   "pt": "Combo 3 <c#ff1f75ff>{P}<c>・<c#ff1f75ff>{P}<c>・<c#ff6eff40>{K}<c>・<c#ff1f75ff>{P}<c>"
+  },
+  {
+   "id": 7,
+   "pt": "Combo 4 <c#ff6eff40>{K}<c>・<c#ff6eff40>{K}<c>・<c#ff6eff40>{K}<c>"
+  },
+  {
+   "id": 8,
+   "pt": "Combo 5 <c#ff6eff40>{K}<c>・<c#ffe63dff>{S}<c>・<c#ffe63dff>{S}<c>・<c#ffe63dff>{S}<c>"
+  },
+  {
+   "id": 9,
+   "pt": "Combo 6 <c#ff6eff40>{K}<c>・<c#ff1f75ff>{P}<c>・<c#ff1f75ff>{P}<c>・<c#ff1f75ff>{P}<c>"
+  },
+  {
+   "id": 10,
+   "pt": "Combo 7 <c#ff1f75ff>{P}<c>・<c#ff1f75ff>{P}<c>・<c#ff6eff40>{K}<c>・<c#ff6eff40>{K}<c>・<c#ff6eff40>{K}<c>・<c#ffe63dff>{S}<c>"
+  },
+  {
+   "id": 11,
+   "pt": "~ Explosão de Cosmo ~"
+  },
+  {
+   "id": 12,
+   "pt": "Bomba Leãozinho {L}+<c#ffe63dff>{S}<c>"
+  },
+  {
+   "id": 13,
+   "pt": "Combo 8 <c#ff1f75ff>{P}<c>・<c#ff1f75ff>{P}<c>・<c#ff6eff40>{K}<c>・<c#ff6eff40>{K}<c>・<c#ff6eff40>{K}<c>・<c#ffe63dff>{S}<c>・<c#ffe63dff>{S}<c>・<c#ffe63dff>{S}<c>"
+  }
+ ],
+ "btx/combolist/sot_combolist_jp.btx": [
+  {
+   "id": 0,
+   "pt": "~ Normal ~"
+  },
+  {
+   "id": 1,
+   "pt": "Mina Sônica ↓+<c#ffe63dff>{S}<c>"
+  },
+  {
+   "id": 2,
+   "pt": "Ataque Meteoro →+<c#ffe63dff>{S}<c>"
+  },
+  {
+   "id": 3,
+   "pt": "Prelúdio Fatal {L}+<c#ff1f75ff>{P}<c>"
+  },
+  {
+   "id": 4,
+   "pt": "Sinfonia Fatal {L}+<c#ff6eff40>{K}<c>"
+  },
+  {
+   "id": 5,
+   "pt": "Combo 1 <c#ff1f75ff>{P}<c>・<c#ff1f75ff>{P}<c>・<c#ff1f75ff>{P}<c>"
+  },
+  {
+   "id": 6,
+   "pt": "Combo 2 <c#ff1f75ff>{P}<c>・<c#ffe63dff>{S}<c>・<c#ffe63dff>{S}<c>・<c#ffe63dff>{S}<c>・<c#ffe63dff>{S}<c>"
+  },
+  {
+   "id": 7,
+   "pt": "Combo 3 <c#ff6eff40>{K}<c>・<c#ff6eff40>{K}<c>・<c#ff6eff40>{K}<c>"
+  },
+  {
+   "id": 8,
+   "pt": "~ Explosão de Cosmo ~"
+  },
+  {
+   "id": 9,
+   "pt": "Clímax Fatal {L}+<c#ffe63dff>{S}<c>"
+  },
+  {
+   "id": 10,
+   "pt": "Combo 4 <c#ff1f75ff>{P}<c>・<c#ff6eff40>{K}<c>・<c#ff6eff40>{K}<c>・<c#ff6eff40>{K}<c>・<c#ffe63dff>{S}<c>・<c#ffe63dff>{S}<c>"
+  }
+ ],
+ "btx/combolist/yun_combolist_jp.btx": [
+  {
+   "id": 0,
+   "pt": "~ Normal ~"
+  },
+  {
+   "id": 1,
+   "pt": "Ataque Meteoro ↑+<c#ffe63dff>{S}<c>"
+  },
+  {
+   "id": 2,
+   "pt": "Tornado Divino {L}+<c#ff1f75ff>{P}<c>"
+  },
+  {
+   "id": 3,
+   "pt": "Furacão de Águia {L}+<c#ff6eff40>{K}<c>"
+  },
+  {
+   "id": 4,
+   "pt": "Combo 1 <c#ff1f75ff>{P}<c>・<c#ff1f75ff>{P}<c>・<c#ff1f75ff>{P}<c>・<c#ff1f75ff>{P}<c>・<c#ff1f75ff>{P}<c>・<c#ff1f75ff>{P}<c>・<c#ff1f75ff>{P}<c>・<c#ff1f75ff>{P}<c>"
+  },
+  {
+   "id": 5,
+   "pt": "Combo 2 <c#ff1f75ff>{P}<c>・<c#ff6eff40>{K}<c>・<c#ff6eff40>{K}<c>・<c#ff6eff40>{K}<c>・<c#ff6eff40>{K}<c>"
+  },
+  {
+   "id": 6,
+   "pt": "Combo 3 <c#ff1f75ff>{P}<c>・<c#ff6eff40>{K}<c>・<c#ffe63dff>{S}<c>"
+  },
+  {
+   "id": 7,
+   "pt": "Combo 4 <c#ff1f75ff>{P}<c>・<c#ffe63dff>{S}<c>・<c#ffe63dff>{S}<c>・<c#ffe63dff>{S}<c>"
+  },
+  {
+   "id": 8,
+   "pt": "Combo 5 <c#ff6eff40>{K}<c>・<c#ff6eff40>{K}<c>・<c#ff6eff40>{K}<c>・<c#ff6eff40>{K}<c>・<c#ff6eff40>{K}<c>"
+  },
+  {
+   "id": 9,
+   "pt": "Combo 6 <c#ff6eff40>{K}<c>・<c#ff6eff40>{K}<c>・<c#ff1f75ff>{P}<c>・<c#ff1f75ff>{P}<c>・<c#ff6eff40>{K}<c>"
+  },
+  {
+   "id": 10,
+   "pt": "Combo 7 <c#ff6eff40>{K}<c>・<c#ff1f75ff>{P}<c>・<c#ff1f75ff>{P}<c>・<c#ff6eff40>{K}<c>・<c#ffe63dff>{S}<c>"
+  },
+  {
+   "id": 11,
+   "pt": "~ Explosão de Cosmo ~"
+  },
+  {
+   "id": 12,
+   "pt": "Rapina Giratória {L}+<c#ffe63dff>{S}<c>"
+  },
+  {
+   "id": 13,
+   "pt": "Combo 8 <c#ff1f75ff>{P}<c>・<c#ff6eff40>{K}<c>・<c#ff6eff40>{K}<c>・<c#ff6eff40>{K}<c>・<c#ffe63dff>{S}<c>・<c#ffe63dff>{S}<c>・<c#ffe63dff>{S}<c>"
+  },
+  {
+   "id": 14,
+   "pt": "Combo 9 <c#ff6eff40>{K}<c>・<c#ff6eff40>{K}<c>・<c#ff6eff40>{K}<c>・<c#ff6eff40>{K}<c>・<c#ffe63dff>{S}<c>・<c#ffe63dff>{S}<c>・<c#ffe63dff>{S}<c>"
+  }
+ ],
+ "btx/combolist/yunv2_combolist_jp.btx": [
+  {
+   "id": 0,
+   "pt": "~ Normal ~"
+  },
+  {
+   "id": 1,
+   "pt": "Ataque Meteoro ↑+<c#ffe63dff>{S}<c>"
+  },
+  {
+   "id": 2,
+   "pt": "Tornado Divino {L}+<c#ff1f75ff>{P}<c>"
+  },
+  {
+   "id": 3,
+   "pt": "Furacão de Águia {L}+<c#ff6eff40>{K}<c>"
+  },
+  {
+   "id": 4,
+   "pt": "Combo 1 <c#ff1f75ff>{P}<c>・<c#ff1f75ff>{P}<c>・<c#ff1f75ff>{P}<c>・<c#ff1f75ff>{P}<c>・<c#ff1f75ff>{P}<c>・<c#ff1f75ff>{P}<c>・<c#ff1f75ff>{P}<c>・<c#ff1f75ff>{P}<c>"
+  },
+  {
+   "id": 5,
+   "pt": "Combo 2 <c#ff1f75ff>{P}<c>・<c#ff6eff40>{K}<c>・<c#ff6eff40>{K}<c>・<c#ff6eff40>{K}<c>・<c#ff6eff40>{K}<c>"
+  },
+  {
+   "id": 6,
+   "pt": "Combo 3 <c#ff1f75ff>{P}<c>・<c#ff6eff40>{K}<c>・<c#ffe63dff>{S}<c>"
+  },
+  {
+   "id": 7,
+   "pt": "Combo 4 <c#ff1f75ff>{P}<c>・<c#ffe63dff>{S}<c>・<c#ffe63dff>{S}<c>・<c#ffe63dff>{S}<c>"
+  },
+  {
+   "id": 8,
+   "pt": "Combo 5 <c#ff6eff40>{K}<c>・<c#ff6eff40>{K}<c>・<c#ff6eff40>{K}<c>・<c#ff6eff40>{K}<c>・<c#ff6eff40>{K}<c>"
+  },
+  {
+   "id": 9,
+   "pt": "Combo 6 <c#ff6eff40>{K}<c>・<c#ff6eff40>{K}<c>・<c#ff1f75ff>{P}<c>・<c#ff1f75ff>{P}<c>・<c#ff6eff40>{K}<c>"
+  },
+  {
+   "id": 10,
+   "pt": "Combo 7 <c#ff6eff40>{K}<c>・<c#ff1f75ff>{P}<c>・<c#ff1f75ff>{P}<c>・<c#ff6eff40>{K}<c>・<c#ffe63dff>{S}<c>"
+  },
+  {
+   "id": 11,
+   "pt": "~ Explosão de Cosmo ~"
+  },
+  {
+   "id": 12,
+   "pt": "Rapina Giratória {L}+<c#ffe63dff>{S}<c>"
+  },
+  {
+   "id": 13,
+   "pt": "Combo 8 <c#ff1f75ff>{P}<c>・<c#ff6eff40>{K}<c>・<c#ff6eff40>{K}<c>・<c#ff6eff40>{K}<c>・<c#ffe63dff>{S}<c>・<c#ffe63dff>{S}<c>・<c#ffe63dff>{S}<c>"
+  },
+  {
+   "id": 14,
+   "pt": "Combo 9 <c#ff6eff40>{K}<c>・<c#ff6eff40>{K}<c>・<c#ff6eff40>{K}<c>・<c#ff6eff40>{K}<c>・<c#ffe63dff>{S}<c>・<c#ffe63dff>{S}<c>・<c#ffe63dff>{S}<c>"
+  }
+ ]
+}

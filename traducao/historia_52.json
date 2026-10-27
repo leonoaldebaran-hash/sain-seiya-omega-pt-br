@@ -1,0 +1,1562 @@
+{
+ "event/script/52_01.pac#52_01_JP.BTX": [
+  {
+   "id": 300010,
+   "pt": "...Opa? Você não é o Ryuho, zansu?"
+  },
+  {
+   "id": 300020,
+   "pt": "Ichi! O que faz aqui?"
+  },
+  {
+   "id": 300030,
+   "pt": "Como assim? Soube que Poseidon vai reviver e vim correndo."
+  },
+  {
+   "id": 300040,
+   "pt": "Você também não veio derrotar Poseidon, zansu?"
+  },
+  {
+   "id": 300050,
+   "pt": "Sim, vim... Mas onde você soube disso?"
+  },
+  {
+   "id": 300060,
+   "pt": "Ouvi de outros Cavaleiros, zansu. ...E você, conhece as Gotas d'Água?"
+  },
+  {
+   "id": 300070,
+   "pt": "Gotas d'Água? Como sabe disso..."
+  },
+  {
+   "id": 300080,
+   "pt": "O Haruto me contou, zansu. Disse que para vencer Poseidon precisa delas."
+  },
+  {
+   "id": 300090,
+   "pt": "Ah, foi o Haruto que contou."
+  },
+  {
+   "id": 300100,
+   "pt": "Isso, zansu. Ele pediu para eu juntar as Gotas que achar."
+  },
+  {
+   "id": 300110,
+   "pt": "Mas o que acontece quando se juntam as Gotas d'Água, zansu?"
+  },
+  {
+   "id": 300120,
+   "pt": "Se é assim, vou explicar melhor..."
+  },
+  {
+   "id": 300130,
+   "pt": "Dizem que, reunidas, as Gotas viram uma armadura: a Escama de Tritão."
+  },
+  {
+   "id": 300140,
+   "pt": "E só quem vestir essa Escama pode chegar até onde Poseidon está."
+  },
+  {
+   "id": 300150,
+   "pt": "Então só quem juntar as Gotas vai lutar com Poseidon?"
+  },
+  {
+   "id": 300160,
+   "pt": "Mas acha mesmo que vence lutando sozinho, zansu?"
+  },
+  {
+   "id": 300170,
+   "pt": "Vai ser uma luta difícil. Mas não posso deixar isso de lado. Tenho que ir!"
+  },
+  {
+   "id": 300180,
+   "pt": "Hmm..."
+  },
+  {
+   "id": 300190,
+   "pt": "...Muito bem! Decidi. Eu vou juntar as Gotas e derrotar Poseidon!"
+  },
+  {
+   "id": 300200,
+   "pt": "Hã?! Bem... ...é sério?"
+  },
+  {
+   "id": 300210,
+   "pt": "Claro! É a minha chance de brilhar!"
+  },
+  {
+   "id": 300220,
+   "pt": "Ryuho! Você tem uma Gota d'Água, não tem? Me entrega!"
+  },
+  {
+   "id": 300230,
+   "pt": "Não, eu não tenho nenhuma."
+  },
+  {
+   "id": 300240,
+   "pt": "Sério? Bom, logo vamos descobrir."
+  },
+  {
+   "id": 300250,
+   "pt": "Vou ver o quanto suas técnicas evoluíram! Vamos, Ryuho! Luta!"
+  },
+  {
+   "id": 300260,
+   "pt": "Hã?! E-espera... Ichi?!"
+  }
+ ],
+ "event/script/52_02.pac#52_02_JP.BTX": [
+  {
+   "id": 300410,
+   "pt": "Ufa... O Ichi disse que era por aqui, mas será que é mesmo..."
+  },
+  {
+   "id": 300420,
+   "pt": "Espere, Ryuho."
+  },
+  {
+   "id": 300430,
+   "pt": "Você é...!"
+  },
+  {
+   "id": 300440,
+   "pt": "Esqueci de me apresentar... Meu nome é Sorento."
+  },
+  {
+   "id": 300450,
+   "pt": "Sorento... O que quer comigo?"
+  },
+  {
+   "id": 300460,
+   "pt": "Queria saber para onde você vai."
+  },
+  {
+   "id": 300470,
+   "pt": "Soube que a casa de veraneio de Julian Solo fica mais adiante."
+  },
+  {
+   "id": 300480,
+   "pt": "Julian Solo é o hospedeiro de Poseidon."
+  },
+  {
+   "id": 300490,
+   "pt": "Pode haver pistas sobre Poseidon lá."
+  },
+  {
+   "id": 300500,
+   "pt": "...Entendo. Então, mais um motivo para não te deixar passar."
+  },
+  {
+   "id": 300510,
+   "pt": "...Como assim?!"
+  },
+  {
+   "id": 300520,
+   "pt": "Desculpe, não posso dizer. Mas você já sabe demais...!"
+  },
+  {
+   "id": 300530,
+   "pt": "...! Que Cosmo agressivo...! Quem é você...!"
+  },
+  {
+   "id": 300540,
+   "pt": "Vou ter que acabar com você aqui...!"
+  }
+ ],
+ "event/script/52_03.pac#52_03_JP.BTX": [
+  {
+   "id": 300690,
+   "pt": "O sol já se pôs. A casa do Julian ainda está longe?"
+  },
+  {
+   "id": 300700,
+   "pt": "Daqui falta pouco. ...Hã?"
+  },
+  {
+   "id": 300710,
+   "pt": "Este Cosmo é...?!"
+  },
+  {
+   "id": 300720,
+   "pt": "Quem está aí...?"
+  },
+  {
+   "id": 300730,
+   "pt": "...Apareça!"
+  },
+  {
+   "id": 300740,
+   "pt": "Hmph..."
+  },
+  {
+   "id": 300750,
+   "pt": "Você é... Éden?!"
+  },
+  {
+   "id": 300760,
+   "pt": "Há quanto tempo, Dragão. O que faz num lugar destes?"
+  },
+  {
+   "id": 300770,
+   "pt": "Acho que o mesmo que você. Vim a esta ilha para derrotar Poseidon."
+  },
+  {
+   "id": 300780,
+   "pt": "Entendo..."
+  },
+  {
+   "id": 300790,
+   "pt": "Mas isso é ir jogar a vida fora... Você não vence Poseidon."
+  },
+  {
+   "id": 300800,
+   "pt": "Tenho perguntas para esse homem. Deixe-o e vá embora."
+  },
+  {
+   "id": 300810,
+   "pt": "Não posso. Preciso ir a um lugar com ele."
+  },
+  {
+   "id": 300820,
+   "pt": "Oh... Você é mesmo um traidor. Um Cavaleiro protegendo um servo de Poseidon."
+  },
+  {
+   "id": 300830,
+   "pt": "Como sabe disso..."
+  },
+  {
+   "id": 300840,
+   "pt": "Eu vi tudo."
+  },
+  {
+   "id": 300850,
+   "pt": "...Ele é mesmo servo de Poseidon. Mas não é mais inimigo."
+  },
+  {
+   "id": 300860,
+   "pt": "Não confio nele."
+  },
+  {
+   "id": 300870,
+   "pt": "Vou derrotá-lo e ouvir os detalhes."
+  },
+  {
+   "id": 300880,
+   "pt": "Espere, Éden!"
+  },
+  {
+   "id": 300890,
+   "pt": "Pretende me atrapalhar?"
+  },
+  {
+   "id": 300900,
+   "pt": "Então cuido de você primeiro. Um dia teria mesmo que te derrotar."
+  },
+  {
+   "id": 300910,
+   "pt": "Éden...!"
+  }
+ ],
+ "event/script/52_04.pac#52_04_JP.BTX": [
+  {
+   "id": 301500,
+   "pt": "Tudo bem não ficar ao lado de Poseidon?"
+  },
+  {
+   "id": 301510,
+   "pt": "Sim. Meu dever agora é guiar vocês, Cavaleiros..."
+  },
+  {
+   "id": 301520,
+   "pt": "Por um tempo, vou acompanhar vocês."
+  },
+  {
+   "id": 301530,
+   "pt": "Muito obrigado..."
+  },
+  {
+   "id": 301540,
+   "pt": "Mas eu nunca imaginei que Poseidon estivesse ajudando os Cavaleiros."
+  },
+  {
+   "id": 301550,
+   "pt": "...Mantenha isso em segredo dos outros Cavaleiros."
+  },
+  {
+   "id": 301560,
+   "pt": "Por quê?"
+  },
+  {
+   "id": 301570,
+   "pt": "Se atrapalharmos a luta de vocês, a intenção do senhor Poseidon pode ser em vão..."
+  },
+  {
+   "id": 301580,
+   "pt": "..."
+  },
+  {
+   "id": 301590,
+   "pt": "Por enquanto, compitam com todas as forças."
+  },
+  {
+   "id": 301600,
+   "pt": "...Entendi. Nesse caso, vou guardar segredo de todos."
+  },
+  {
+   "id": 301610,
+   "pt": "Alto!"
+  },
+  {
+   "id": 301620,
+   "pt": "Um Cavaleiro de Ouro?!"
+  },
+  {
+   "id": 301630,
+   "pt": "Não esperava te ver aqui. O último General Marina vivo, Sorento de Sirene!"
+  },
+  {
+   "id": 301640,
+   "pt": "Quem é você...?"
+  },
+  {
+   "id": 301650,
+   "pt": "...Não se lembra? Normal. Na última guerra eu ainda era criança."
+  },
+  {
+   "id": 301660,
+   "pt": "Com Poseidon revivendo, não posso deixar seus servos à solta."
+  },
+  {
+   "id": 301670,
+   "pt": "Espere!"
+  },
+  {
+   "id": 301680,
+   "pt": "Que surpresa... Um Cavaleiro do lado de Poseidon?"
+  },
+  {
+   "id": 301690,
+   "pt": "...Isso não lhe diz respeito."
+  },
+  {
+   "id": 301700,
+   "pt": "Sou Ryuho de Dragão."
+  },
+  {
+   "id": 301710,
+   "pt": "Se quer derrotá-lo, mesmo sendo um Cavaleiro de Ouro, vai ter que passar por mim!"
+  },
+  {
+   "id": 301720,
+   "pt": "Ryuho... Então você é o filho de Shiryu..."
+  },
+  {
+   "id": 301730,
+   "pt": "Por isso senti um Cosmo tão bom."
+  },
+  {
+   "id": 301740,
+   "pt": "Muito bem! Vou testar o seu poder. Lutarei com você como deseja!"
+  },
+  {
+   "id": 301750,
+   "pt": "Prove à vontade as técnicas de Áries!"
+  }
+ ],
+ "event/script/52_05.pac#52_05_JP.BTX": [
+  {
+   "id": 100040,
+   "pt": "...A caverna de que você falou fica mais adiante?"
+  },
+  {
+   "id": 100050,
+   "pt": "Um pouco mais à frente. Depois é só seguir a praia, não tem como se perder."
+  },
+  {
+   "id": 100060,
+   "pt": "Ei, Ryuho!"
+  },
+  {
+   "id": 302160,
+   "pt": "Hã? Essa voz..."
+  },
+  {
+   "id": 302170,
+   "pt": "É o Cavaleiro de Pégaso. Ryuho, você já sabe, mas..."
+  },
+  {
+   "id": 302180,
+   "pt": "Eu sei. Mesmo sendo amigo, vou competir com tudo."
+  },
+  {
+   "id": 302190,
+   "pt": "...E claro, não vou contar nada sobre você."
+  },
+  {
+   "id": 302200,
+   "pt": "Ufa... Finalmente te alcancei, Ryuho!"
+  },
+  {
+   "id": 302210,
+   "pt": "Mas que dupla inusitada. Hã..."
+  },
+  {
+   "id": 100090,
+   "pt": "Sorento."
+  },
+  {
+   "id": 100100,
+   "pt": "Sorento, é? Então você também ajuda a procurar as Gotas d'Água."
+  },
+  {
+   "id": 100110,
+   "pt": "Sim."
+  },
+  {
+   "id": 100120,
+   "pt": "Nos encontramos ontem. Ele conhece bem a ilha e está me guiando."
+  },
+  {
+   "id": 100130,
+   "pt": "Hum... E aí, achou alguma Gota d'Água?"
+  },
+  {
+   "id": 100140,
+   "pt": "Sim. Mas só uma, por enquanto."
+  },
+  {
+   "id": 100150,
+   "pt": "Opa, mandou bem!"
+  },
+  {
+   "id": 100160,
+   "pt": "Foi só sorte. E também tive um bom guia."
+  },
+  {
+   "id": 100170,
+   "pt": "Não fiz nada de mais. Achar a Gota foi mérito do próprio Ryuho."
+  },
+  {
+   "id": 100180,
+   "pt": "...E então, Kouga?"
+  },
+  {
+   "id": 100190,
+   "pt": "Hã? Então o quê?"
+  },
+  {
+   "id": 100200,
+   "pt": "Dois portadores de Gotas se encontraram. Quem vencer leva a do outro..."
+  },
+  {
+   "id": 100210,
+   "pt": "Isso... Kouga. Vou ver o quanto você evoluiu desde a nossa última luta."
+  },
+  {
+   "id": 100220,
+   "pt": "Beleza! Vou devolver aquela da Palestra agora mesmo!"
+  }
+ ],
+ "event/script/52_06.pac#52_06_JP.BTX": [
+  {
+   "id": 302330,
+   "pt": "...O tridente. Este é o altar de Poseidon."
+  },
+  {
+   "id": 302340,
+   "pt": "Se o Sorento estiver certo, deve haver uma Gota d'Água aqui..."
+  },
+  {
+   "id": 400990,
+   "pt": "...Ryuho?"
+  },
+  {
+   "id": 401000,
+   "pt": "...Hã? Haruto! Você também descobriu este lugar."
+  },
+  {
+   "id": 401010,
+   "pt": "Como você chegou aqui?"
+  },
+  {
+   "id": 401020,
+   "pt": "Ouvi dizer que havia uma Gota aqui. ...Mas não achei nada parecido."
+  },
+  {
+   "id": 401030,
+   "pt": "Era informação falsa, ou alguém já levou... Seja como for, viagem perdida."
+  },
+  {
+   "id": 401040,
+   "pt": "Entendo..."
+  },
+  {
+   "id": 401050,
+   "pt": "Ryuho. Vou te contar uma coisa também."
+  },
+  {
+   "id": 401060,
+   "pt": "Hã?"
+  },
+  {
+   "id": 401070,
+   "pt": "Descobri umas coisas. Primeiro: um Cavaleiro de Ouro tem uma Gota d'Água."
+  },
+  {
+   "id": 401080,
+   "pt": "Isso eu também soube. Um adversário difícil."
+  },
+  {
+   "id": 401090,
+   "pt": "Sim. Vamos ter cuidado."
+  },
+  {
+   "id": 401100,
+   "pt": "...Segundo: quem nos avisou de Poseidon é servo dele. Quer que nos destruamos..."
+  },
+  {
+   "id": 401110,
+   "pt": "...O Sorento? Ele estava comigo até agora há pouco."
+  },
+  {
+   "id": 401120,
+   "pt": "Onde ele está agora?"
+  },
+  {
+   "id": 401130,
+   "pt": "Está com o Kouga. Devem ter ido para a floresta."
+  },
+  {
+   "id": 401140,
+   "pt": "Que perigo... Preciso avisar o Kouga."
+  },
+  {
+   "id": 401150,
+   "pt": "Espere!"
+  },
+  {
+   "id": 401160,
+   "pt": "O que foi? Ainda quer algo?"
+  },
+  {
+   "id": 401170,
+   "pt": "Eu tenho uma Gota d'Água."
+  },
+  {
+   "id": 401171,
+   "pt": "Quero lutar com você."
+  },
+  {
+   "id": 401180,
+   "pt": "...O quê? Sorento é servo de Poseidon. Não há por que cumprir o trato."
+  },
+  {
+   "id": 401190,
+   "pt": "Não é assim. Se não me vencer, não te deixo passar."
+  },
+  {
+   "id": 401200,
+   "pt": "...O que você pretende?"
+  },
+  {
+   "id": 401210,
+   "pt": "Na Palestra, eu queria muito lutar com você, Haruto."
+  },
+  {
+   "id": 401220,
+   "pt": "...Fala da Luta de Cavaleiros em que eu não apareci..."
+  },
+  {
+   "id": 401230,
+   "pt": "Eu também queria enfrentar você, o gênio da Palestra. Tudo bem."
+  },
+  {
+   "id": 401240,
+   "pt": "Certo, vamos começar."
+  }
+ ],
+ "event/script/52_07.pac#52_07_JP.BTX": [
+  {
+   "id": 302400,
+   "pt": "...Que ruína enorme..."
+  },
+  {
+   "id": 302410,
+   "pt": "Só tenho duas Gotas. Não achei nada na caverna. Onde estarão escondidas..."
+  },
+  {
+   "id": 302420,
+   "pt": "...Há quanto tempo, Ryuho de Dragão."
+  },
+  {
+   "id": 302430,
+   "pt": "...! Você é..."
+  },
+  {
+   "id": 302440,
+   "pt": "...Genbu!"
+  },
+  {
+   "id": 302450,
+   "pt": "Hmph... que surpresa. Seu Cosmo está incomparável. Filho de dragão, dragão é."
+  },
+  {
+   "id": 302460,
+   "pt": "...Se meu Cosmo cresceu, foi para te derrotar, Genbu."
+  },
+  {
+   "id": 302470,
+   "pt": "A Armadura de Ouro de Libra... Devolva a Armadura que tirou do meu pai!"
+  },
+  {
+   "id": 302480,
+   "pt": "\"Tirou\" soa mal. A Armadura me escolheu."
+  },
+  {
+   "id": 302490,
+   "pt": "Eu não aceito!"
+  },
+  {
+   "id": 302500,
+   "pt": "Meu pai protegeu essa Armadura a vida toda das trevas! Ela não é sua!"
+  },
+  {
+   "id": 302510,
+   "pt": "Então, o que vai fazer?"
+  },
+  {
+   "id": 302520,
+   "pt": "Vou tomá-la de volta à força!"
+  },
+  {
+   "id": 302530,
+   "pt": "...Muito bem. Eu, Genbu, vou ver o quanto você ficou forte!"
+  }
+ ],
+ "event/script/52_08.pac#52_08_JP.BTX": [
+  {
+   "id": 302710,
+   "pt": "O templo no norte da ilha... Sem dúvida, é este o templo de que Poseidon falou..."
+  },
+  {
+   "id": 302720,
+   "pt": "...Demorou, Ryuho."
+  },
+  {
+   "id": 302730,
+   "pt": "Sorento?!"
+  },
+  {
+   "id": 302740,
+   "pt": "Chegou até aqui, como prometido. O senhor Poseidon ficará contente."
+  },
+  {
+   "id": 302750,
+   "pt": "Sobre isso..."
+  },
+  {
+   "id": 302760,
+   "pt": "...Na verdade, ainda não juntei todas as Gotas... Então não posso romper a barreira."
+  },
+  {
+   "id": 302770,
+   "pt": "Quantas você achou?"
+  },
+  {
+   "id": 302780,
+   "pt": "Quatro, no total."
+  },
+  {
+   "id": 302790,
+   "pt": "Hmph... Então não se preocupe. As outras três estão comigo."
+  },
+  {
+   "id": 302800,
+   "pt": "O quê?! E a Yuna e o Souma? Eles também tinham Gotas d'Água..."
+  },
+  {
+   "id": 302810,
+   "pt": "Lutei com eles como lutei com você. Infelizmente, não conseguiram me vencer."
+  },
+  {
+   "id": 302820,
+   "pt": "Eles têm um bom Cosmo, mas faltou poder."
+  },
+  {
+   "id": 302830,
+   "pt": "Isso é..."
+  },
+  {
+   "id": 302840,
+   "pt": "Não posso levar os fracos ao senhor Poseidon. Por isso recolhi as Gotas deles."
+  },
+  {
+   "id": 302850,
+   "pt": "...E o Kouga e os outros?!"
+  },
+  {
+   "id": 302860,
+   "pt": "Não se preocupe. Eles estão bem."
+  },
+  {
+   "id": 302870,
+   "pt": "Que bom..."
+  },
+  {
+   "id": 302880,
+   "pt": "Agora aceite estas Gotas. Você me venceu, tem esse direito."
+  },
+  {
+   "id": 302890,
+   "pt": "Entendi."
+  },
+  {
+   "id": 302900,
+   "pt": "...Hã? O que é isso...?!"
+  },
+  {
+   "id": 302910,
+   "pt": "...!"
+  },
+  {
+   "id": 302920,
+   "pt": "O-o que é isso...?!"
+  },
+  {
+   "id": 302930,
+   "pt": "É a Escama de Tritão, com o Cosmo do senhor Poseidon. Com ela, passará a barreira."
+  },
+  {
+   "id": 302940,
+   "pt": "Esta é... a Escama de Tritão..."
+  },
+  {
+   "id": 302950,
+   "pt": "Vá, Ryuho. Mais adiante, o senhor Poseidon te espera."
+  },
+  {
+   "id": 302960,
+   "pt": "...Sorento... obrigado."
+  },
+  {
+   "id": 302970,
+   "pt": "Que enorme... Este é o castelo de Poseidon..."
+  },
+  {
+   "id": 302980,
+   "pt": "...Eu estava à sua espera, Cavaleiro de Dragão."
+  },
+  {
+   "id": 302990,
+   "pt": "...Poseidon!"
+  },
+  {
+   "id": 303000,
+   "pt": "Hmph... Juntou as Gotas d'Água, como prometido."
+  },
+  {
+   "id": 303010,
+   "pt": "Sim."
+  },
+  {
+   "id": 303020,
+   "pt": "Responda-me uma coisa! Você realmente quer nos treinar, a nós Cavaleiros...?"
+  },
+  {
+   "id": 303030,
+   "pt": "Não se engane... Só não quero entregar a Terra a Marte..."
+  },
+  {
+   "id": 303040,
+   "pt": "..."
+  },
+  {
+   "id": 303050,
+   "pt": "Se forem fracos, destruo os Cavaleiros e venço Marte eu mesmo. Só isso..."
+  },
+  {
+   "id": 303060,
+   "pt": "Não pode..."
+  },
+  {
+   "id": 303070,
+   "pt": "Ryuho, tudo depende de você. Se me vencer, voltarei a dormir."
+  },
+  {
+   "id": 303080,
+   "pt": "Mas se você perder..."
+  },
+  {
+   "id": 303090,
+   "pt": "..."
+  },
+  {
+   "id": 303100,
+   "pt": "...Então derrotarei todos os Cavaleiros e governarei a Terra!"
+  },
+  {
+   "id": 303110,
+   "pt": "...Isso eu nunca vou permitir!!"
+  },
+  {
+   "id": 303120,
+   "pt": "Chega de palavras. Mostre-me o seu poder!"
+  }
+ ],
+ "event/script/52_11.pac#52_11_JP.BTX": [
+  {
+   "id": 300270,
+   "pt": "Ugh... Fiquei para trás por um triz, zansu..."
+  },
+  {
+   "id": 300280,
+   "pt": "Ichi. Eu realmente não tenho Gota d'Água..."
+  },
+  {
+   "id": 300290,
+   "pt": "Sério mesmo, zansu...?"
+  },
+  {
+   "id": 300300,
+   "pt": "Não estou mentindo. Eu também estou procurando as Gotas d'Água."
+  },
+  {
+   "id": 300310,
+   "pt": "...Ah, é? Então eu acho primeiro, zansu."
+  },
+  {
+   "id": 300320,
+   "pt": "E derroto Poseidon com as minhas mãos, zansu! Afinal, sou Cavaleiro de Atena!"
+  },
+  {
+   "id": 300330,
+   "pt": "S-será que vai dar certo..."
+  },
+  {
+   "id": 300340,
+   "pt": "Aliás, Ryuho. Você conhece um tal de Julian Solo, zansu?"
+  },
+  {
+   "id": 300350,
+   "pt": "...Sim. É quem serviu de hospedeiro para Poseidon, não é?"
+  },
+  {
+   "id": 300360,
+   "pt": "Poseidon reviveu usando o corpo dele... Foi o que o Shun me contou."
+  },
+  {
+   "id": 300370,
+   "pt": "Isso, zansu. Parece que nesta ilha fica a casa de veraneio desse Julian Solo."
+  },
+  {
+   "id": 300380,
+   "pt": "Por que você não vai dar uma olhada, zansu?"
+  },
+  {
+   "id": 300390,
+   "pt": "A casa do Julian Solo nesta ilha... Entendo..."
+  },
+  {
+   "id": 300400,
+   "pt": "...Obrigado, Ichi! Vou lá agora mesmo!"
+  }
+ ],
+ "event/script/52_12.pac#52_12_JP.BTX": [
+  {
+   "id": 300550,
+   "pt": "Quem diria que eu seria encurralado assim..."
+  },
+  {
+   "id": 300560,
+   "pt": "Já chega, Sorento. Se continuar, não garanto a sua vida..."
+  },
+  {
+   "id": 300570,
+   "pt": "...Você quer mesmo seguir em frente?"
+  },
+  {
+   "id": 300580,
+   "pt": "Para selar Poseidon. Isso era o que você queria, não era?"
+  },
+  {
+   "id": 300590,
+   "pt": "...Entendi a sua determinação. Vou te levar à mansão do senhor Julian."
+  },
+  {
+   "id": 300600,
+   "pt": "Senhor... Julian...? Sorento, quem é você afinal..."
+  },
+  {
+   "id": 300610,
+   "pt": "Sou Sorento de Sirene. Sirvo ao senhor Poseidon e ao senhor Julian."
+  },
+  {
+   "id": 300620,
+   "pt": "...!"
+  },
+  {
+   "id": 300630,
+   "pt": "Com Poseidon revivendo, ele e o senhor Julian são como dois lados da mesma moeda."
+  },
+  {
+   "id": 300640,
+   "pt": "Se eu te deixasse passar, causaria preocupações inúteis ao senhor Julian."
+  },
+  {
+   "id": 300650,
+   "pt": "...Por isso tentou me impedir."
+  },
+  {
+   "id": 300660,
+   "pt": "Mas sua decisão não muda, pelo visto..."
+  },
+  {
+   "id": 300670,
+   "pt": "Então é melhor eu mesmo te levar ao senhor Julian do que deixá-lo ir sozinho."
+  },
+  {
+   "id": 300680,
+   "pt": "...Entendido. Então, por favor, me guie."
+  }
+ ],
+ "event/script/52_13.pac#52_13_JP.BTX": [
+  {
+   "id": 300920,
+   "pt": "Impossível! Eu, perdendo para alguém como você..."
+  },
+  {
+   "id": 300930,
+   "pt": "...Éden, você é forte, sim. Mas isso virou arrogância."
+  },
+  {
+   "id": 300940,
+   "pt": "Nós podemos nos entender."
+  },
+  {
+   "id": 300950,
+   "pt": "Afinal, lutamos pela paz da Terra."
+  },
+  {
+   "id": 300960,
+   "pt": "Maldito Dragão..."
+  },
+  {
+   "id": 300970,
+   "pt": "Por que não entende que só o ideal do meu pai pode salvar este mundo sujo..."
+  },
+  {
+   "id": 300980,
+   "pt": "É você quem devia repensar. Pense no que os Cavaleiros sempre protegeram."
+  },
+  {
+   "id": 300990,
+   "pt": "...!"
+  },
+  {
+   "id": 301000,
+   "pt": "...Bom, nós já vamos. Adeus, Éden."
+  },
+  {
+   "id": 301010,
+   "pt": "Esta é a casa de veraneio do Julian Solo..."
+  },
+  {
+   "id": 301020,
+   "pt": "Espere aqui."
+  },
+  {
+   "id": 301030,
+   "pt": "Sorento, não é preciso."
+  },
+  {
+   "id": 301040,
+   "pt": "...! Senhor Poseidon?!"
+  },
+  {
+   "id": 301050,
+   "pt": "Sim..."
+  },
+  {
+   "id": 301060,
+   "pt": "...Você lembra muito um Cavaleiro que vi no passado."
+  },
+  {
+   "id": 301070,
+   "pt": "Se fala do Cavaleiro de Dragão que lutou com você, era o meu pai."
+  },
+  {
+   "id": 301080,
+   "pt": "...Entendo. Faz sentido."
+  },
+  {
+   "id": 301090,
+   "pt": "Mas seu Cosmo ainda é imaturo. Nem chega aos pés do seu pai."
+  },
+  {
+   "id": 301100,
+   "pt": "Talvez eu ainda não chegue aos pés do meu pai."
+  },
+  {
+   "id": 301110,
+   "pt": "Mas pela paz da Terra, eu tenho que te derrotar!"
+  },
+  {
+   "id": 301120,
+   "pt": "Inútil."
+  },
+  {
+   "id": 301130,
+   "pt": "Seu Cosmo é uma brincadeira na água. Contra mim, deus dos mares, não há disputa."
+  },
+  {
+   "id": 301140,
+   "pt": "Se quer lutar comigo, eleve ainda mais o seu Cosmo..."
+  },
+  {
+   "id": 301150,
+   "pt": "...Hã?!"
+  },
+  {
+   "id": 301160,
+   "pt": "Se conseguir reunir todas as Gotas d'Água, então lutarei com você."
+  },
+  {
+   "id": 301170,
+   "pt": "Traga as Gotas d'Água ao templo do norte..."
+  },
+  {
+   "id": 301180,
+   "pt": "Sorento... cuido do resto com você."
+  },
+  {
+   "id": 301190,
+   "pt": "Sim, como desejar."
+  },
+  {
+   "id": 301200,
+   "pt": "...!"
+  },
+  {
+   "id": 301210,
+   "pt": "Sorento... O que Poseidon pretende?"
+  },
+  {
+   "id": 301220,
+   "pt": "..."
+  },
+  {
+   "id": 301230,
+   "pt": "...Era como se ele quisesse que eu evoluísse..."
+  },
+  {
+   "id": 301240,
+   "pt": "..."
+  },
+  {
+   "id": 301250,
+   "pt": "Poseidon não é nosso inimigo, é?"
+  },
+  {
+   "id": 301260,
+   "pt": "...Não adianta mais esconder."
+  },
+  {
+   "id": 301270,
+   "pt": "O senhor Poseidon reuniu vocês nesta ilha por um único motivo."
+  },
+  {
+   "id": 301280,
+   "pt": "Treinar os Cavaleiros para enfrentar a ameaça de Marte."
+  },
+  {
+   "id": 301290,
+   "pt": "Hã...?"
+  },
+  {
+   "id": 301300,
+   "pt": "O senhor Poseidon não aceita entregar a Terra a Marte."
+  },
+  {
+   "id": 301310,
+   "pt": "...Mesmo assim, Poseidon nunca ficaria do lado de Atena..."
+  },
+  {
+   "id": 301320,
+   "pt": "Os dois são inimigos desde a Era Mitológica, disputando a Terra..."
+  },
+  {
+   "id": 301330,
+   "pt": "Exato. O senhor Poseidon jamais será aliado de Atena."
+  },
+  {
+   "id": 301340,
+   "pt": "Apenas o objetivo de deter a ambição de Marte é o mesmo."
+  },
+  {
+   "id": 301350,
+   "pt": "Mas... ainda não consigo acreditar."
+  },
+  {
+   "id": 301360,
+   "pt": "Poseidon, nos ajudando..."
+  },
+  {
+   "id": 301370,
+   "pt": "..."
+  },
+  {
+   "id": 301380,
+   "pt": "...Ele recebeu um pedido. De Atena, sua velha inimiga... e de um Cavaleiro."
+  },
+  {
+   "id": 301390,
+   "pt": "Sem isso, o senhor Poseidon nunca ajudaria os Cavaleiros."
+  },
+  {
+   "id": 301400,
+   "pt": "Atena e um Cavaleiro...?!"
+  },
+  {
+   "id": 301410,
+   "pt": "Ryuho. Isso significa que vocês são amados por muita gente..."
+  },
+  {
+   "id": 301420,
+   "pt": "..."
+  },
+  {
+   "id": 301430,
+   "pt": "...Entendi, Sorento. Vou acreditar no que você diz."
+  },
+  {
+   "id": 301440,
+   "pt": "...Então está decidido? Nesse caso, leve isto."
+  },
+  {
+   "id": 301450,
+   "pt": "Isto é...!"
+  },
+  {
+   "id": 301460,
+   "pt": "Uma Gota d'Água."
+  },
+  {
+   "id": 301470,
+   "pt": "Ryuho. Reúna as Gotas d'Água e lute com o senhor Poseidon."
+  },
+  {
+   "id": 301480,
+   "pt": "Esse também é o desejo dele."
+  },
+  {
+   "id": 301490,
+   "pt": "...Sim!"
+  }
+ ],
+ "event/script/52_14.pac#52_14_JP.BTX": [
+  {
+   "id": 301760,
+   "pt": "Magnífico. Não imaginei que tivesse crescido tanto."
+  },
+  {
+   "id": 301770,
+   "pt": "...? Você me conhece?"
+  },
+  {
+   "id": 301780,
+   "pt": "Conheço, sim."
+  },
+  {
+   "id": 301790,
+   "pt": "Sou Kiki de Áries. Por que você anda com esse homem?"
+  },
+  {
+   "id": 301800,
+   "pt": "Ele é servo de Poseidon."
+  },
+  {
+   "id": 301810,
+   "pt": "..."
+  },
+  {
+   "id": 301820,
+   "pt": "...Parece que ele já sabe de tudo. ...Talvez seja melhor contar."
+  },
+  {
+   "id": 301830,
+   "pt": "Mas um Cavaleiro de Ouro pode servir Marte. Não podemos contar assim..."
+  },
+  {
+   "id": 301840,
+   "pt": "...Não se preocupe. Ryuho, conte-me o motivo."
+  },
+  {
+   "id": 301850,
+   "pt": "Lutei ao lado do seu pai, Shiryu, muitas vezes."
+  },
+  {
+   "id": 301860,
+   "pt": "Com o meu pai..."
+  },
+  {
+   "id": 301870,
+   "pt": "Sim. Olhando para você, lembro de Shiryu e Shunrei..."
+  },
+  {
+   "id": 301880,
+   "pt": "...Entendi. Então vou contar..."
+  },
+  {
+   "id": 301890,
+   "pt": "Entendo..."
+  },
+  {
+   "id": 301900,
+   "pt": "Na guerra contra Hades, Poseidon também ajudou Atena."
+  },
+  {
+   "id": 301910,
+   "pt": "Não dá para dizer que é mentira..."
+  },
+  {
+   "id": 301920,
+   "pt": "Acho que não é mentira."
+  },
+  {
+   "id": 301930,
+   "pt": "Eu encontrei Poseidon, e ele não parecia estar mentindo."
+  },
+  {
+   "id": 301940,
+   "pt": "...Hum."
+  },
+  {
+   "id": 301950,
+   "pt": "...Entendido. Vou confiar em vocês."
+  },
+  {
+   "id": 301960,
+   "pt": "Aprimore suas técnicas e eleve seu Cosmo o quanto puder."
+  },
+  {
+   "id": 301970,
+   "pt": "Entendido."
+  },
+  {
+   "id": 301980,
+   "pt": "Mais uma coisa. Além de mim, há outros Cavaleiros de Ouro nesta ilha."
+  },
+  {
+   "id": 301990,
+   "pt": "E soube que um deles tem uma Gota d'Água."
+  },
+  {
+   "id": 302000,
+   "pt": "Outros Cavaleiros de Ouro além de você..."
+  },
+  {
+   "id": 302010,
+   "pt": "Sim. Para reunir todas as Gotas, vai ter que derrotar um Cavaleiro de Ouro."
+  },
+  {
+   "id": 302020,
+   "pt": "...Me diga uma coisa. O Cavaleiro de Ouro de Libra também está na ilha?"
+  },
+  {
+   "id": 302030,
+   "pt": "O Genbu? Ele também veio."
+  },
+  {
+   "id": 302040,
+   "pt": "Aquele homem também está aqui..."
+  },
+  {
+   "id": 302050,
+   "pt": "Até entre os Cavaleiros de Ouro há quem nos ouça..."
+  },
+  {
+   "id": 302060,
+   "pt": "Parece que sim. Não sei suas intenções, mas não parece seu inimigo."
+  },
+  {
+   "id": 302070,
+   "pt": "...Mais importante, Ryuho, quem é esse Genbu?"
+  },
+  {
+   "id": 302080,
+   "pt": "Desde que ouviu falar dele, você está estranho."
+  },
+  {
+   "id": 302090,
+   "pt": "...Genbu é o inimigo que tomou a Armadura de Ouro que meu pai protegia."
+  },
+  {
+   "id": 302100,
+   "pt": "Da próxima vez, tenho que recuperar a Armadura de qualquer jeito."
+  },
+  {
+   "id": 302110,
+   "pt": "...Hum. Não vou me meter na sua decisão."
+  },
+  {
+   "id": 302120,
+   "pt": "Mas com o coração agitado, você vai acabar derrotado."
+  },
+  {
+   "id": 302130,
+   "pt": "..."
+  },
+  {
+   "id": 302140,
+   "pt": "Você tem que lutar contra o senhor Poseidon. Não pode perder no caminho."
+  },
+  {
+   "id": 302150,
+   "pt": "...Sim."
+  }
+ ],
+ "event/script/52_15.pac#52_15_JP.BTX": [
+  {
+   "id": 302220,
+   "pt": "Droga! Perdi!"
+  },
+  {
+   "id": 302230,
+   "pt": "Ufa... Você é demais, Kouga. Não imaginei que estivesse tão forte."
+  },
+  {
+   "id": 302240,
+   "pt": "Na próxima luta não vai ser assim!"
+  },
+  {
+   "id": 302250,
+   "pt": "Haha. Vou esperar ansioso."
+  },
+  {
+   "id": 302260,
+   "pt": "Tome. A Gota d'Água prometida."
+  },
+  {
+   "id": 302270,
+   "pt": "Vou ficar com ela."
+  },
+  {
+   "id": 302280,
+   "pt": "...Kouga, o que vai fazer agora?"
+  },
+  {
+   "id": 302290,
+   "pt": "Eu vou dar uma olhada na caverna mais adiante."
+  },
+  {
+   "id": 302300,
+   "pt": "Hum, e eu, faço o quê..."
+  },
+  {
+   "id": 100290,
+   "pt": "...Se não tem para onde ir, quer que eu te guie?"
+  },
+  {
+   "id": 100300,
+   "pt": "Hã, sério?"
+  },
+  {
+   "id": 100310,
+   "pt": "Quero que achem logo as Gotas. Só posso guiar, mas vou ajudar."
+  },
+  {
+   "id": 100320,
+   "pt": "Isso ajuda muito, mas..."
+  },
+  {
+   "id": 100330,
+   "pt": "Não se preocupe comigo. Daqui até a caverna é um caminho só. Vou sozinho."
+  },
+  {
+   "id": 100340,
+   "pt": "Então tá. Conto com você, Sorento!"
+  },
+  {
+   "id": 100350,
+   "pt": "Igualmente."
+  },
+  {
+   "id": 302310,
+   "pt": "Ryuho. Vou procurar as Gotas por outro caminho. Até mais."
+  },
+  {
+   "id": 302320,
+   "pt": "Entendido. Cuide bem do Kouga!"
+  }
+ ],
+ "event/script/52_16.pac#52_16_JP.BTX": [
+  {
+   "id": 302350,
+   "pt": "Ugh... Fiquei para trás."
+  },
+  {
+   "id": 302360,
+   "pt": "Foi uma boa luta."
+  },
+  {
+   "id": 302370,
+   "pt": "..."
+  },
+  {
+   "id": 401270,
+   "pt": "Por que me desafiou justo agora?"
+  },
+  {
+   "id": 401280,
+   "pt": "...Sorento não é mau. Só queria te dizer isso."
+  },
+  {
+   "id": 401290,
+   "pt": "...Parece que vou ter que ver com meus próprios olhos."
+  },
+  {
+   "id": 302380,
+   "pt": "É o que eu queria."
+  },
+  {
+   "id": 302390,
+   "pt": "... Eu já vou, Ryuho."
+  },
+  {
+   "id": 401340,
+   "pt": "...Ufa. Será que fiz certo?"
+  }
+ ],
+ "event/script/52_17.pac#52_17_JP.BTX": [
+  {
+   "id": 302540,
+   "pt": "Que surpresa. Você parece outra pessoa desde a última vez."
+  },
+  {
+   "id": 302550,
+   "pt": "Agora, entregue a Armadura de Ouro de Libra!"
+  },
+  {
+   "id": 302560,
+   "pt": "Hmph... Infelizmente, isso é impossível."
+  },
+  {
+   "id": 302570,
+   "pt": "O quê?!"
+  },
+  {
+   "id": 302580,
+   "pt": "Você também sabe disso."
+  },
+  {
+   "id": 302590,
+   "pt": "Uma Armadura só empresta seu poder a quem ela aceita. Você não pode usá-la."
+  },
+  {
+   "id": 302600,
+   "pt": "...!"
+  },
+  {
+   "id": 302610,
+   "pt": "...Mas senti a sua determinação. Aprimore seu Cosmo. Estarei esperando."
+  },
+  {
+   "id": 302620,
+   "pt": "O que disse...?!"
+  },
+  {
+   "id": 302630,
+   "pt": "Não há por que lutar a sério contra um Bronze."
+  },
+  {
+   "id": 302640,
+   "pt": "Não pode ser...!"
+  },
+  {
+   "id": 302650,
+   "pt": "Mas vou te dar isto. ...Vamos, pegue."
+  },
+  {
+   "id": 302660,
+   "pt": "Isto é..."
+  },
+  {
+   "id": 302670,
+   "pt": "Uma Gota d'Água que eu encontrei."
+  },
+  {
+   "id": 302680,
+   "pt": "Você também veio até aqui para derrotar Poseidon, não é?"
+  },
+  {
+   "id": 302690,
+   "pt": "...Não vou agradecer. Você é meu inimigo."
+  },
+  {
+   "id": 302700,
+   "pt": "Hmph, é assim que deve ser. Fique forte, Ryuho. Forte o bastante para me vencer!"
+  }
+ ],
+ "event/script/52_18.pac#52_18_JP.BTX": [
+  {
+   "id": 303130,
+   "pt": "Ufa... ufa... Será que consegui vencer...?"
+  },
+  {
+   "id": 303140,
+   "pt": "...Magnífico, Ryuho de Dragão."
+  },
+  {
+   "id": 303150,
+   "pt": "...Não, meu poder não chega ao de um deus. Lutando a sério, seria outro resultado."
+  },
+  {
+   "id": 303160,
+   "pt": "Hum..."
+  },
+  {
+   "id": 303170,
+   "pt": "...Vou ficar mais forte. Nesta luta, percebi a minha fraqueza."
+  },
+  {
+   "id": 303180,
+   "pt": "Para proteger a Terra, preciso ficar mais forte e arder mais o meu Cosmo."
+  },
+  {
+   "id": 303190,
+   "pt": "...E um dia, com certeza, vou derrotar Marte."
+  },
+  {
+   "id": 303200,
+   "pt": "Eu esperava essas palavras, Dragão..."
+  },
+  {
+   "id": 303210,
+   "pt": "Hmph... Então vou dormir. A Terra fica com vocês, Cavaleiros de Atena."
+  },
+  {
+   "id": 303220,
+   "pt": "...Sim!"
+  },
+  {
+   "id": 303230,
+   "pt": "...Então, adeus..."
+  },
+  {
+   "id": 303240,
+   "pt": "...Hã? Isto é...?!"
+  },
+  {
+   "id": 303250,
+   "pt": "A Escama de Tritão sumiu... Então Poseidon voltou a dormir..."
+  },
+  {
+   "id": 303260,
+   "pt": "...Obrigado, Poseidon. Nós vamos proteger a Terra, com certeza...!"
+  },
+  {
+   "id": 303270,
+   "pt": "...Vamos voltar para a superfície. Todos estão esperando!"
+  }
+ ]
+}

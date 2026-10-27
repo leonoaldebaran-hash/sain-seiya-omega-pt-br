@@ -1,0 +1,1910 @@
+{
+ "scene/gallery/eventcgdata.pac#COLLECTION_JP.BTX": [
+  {
+   "id": 99,
+   "pt": "/48"
+  },
+  {
+   "id": 100,
+   "pt": "Suspeita"
+  },
+  {
+   "id": 101,
+   "pt": "Shaina séria"
+  },
+  {
+   "id": 102,
+   "pt": "Os dois"
+  },
+  {
+   "id": 103,
+   "pt": "Ambição"
+  },
+  {
+   "id": 104,
+   "pt": "Duelo fatal"
+  },
+  {
+   "id": 105,
+   "pt": "Souma 1"
+  },
+  {
+   "id": 106,
+   "pt": "Souma 2"
+  },
+  {
+   "id": 107,
+   "pt": "Souma 3"
+  },
+  {
+   "id": 108,
+   "pt": "Souma 4"
+  },
+  {
+   "id": 109,
+   "pt": "Hesitação"
+  },
+  {
+   "id": 110,
+   "pt": "Por um triz"
+  },
+  {
+   "id": 111,
+   "pt": "Humilhação 1"
+  },
+  {
+   "id": 112,
+   "pt": "Humilhação 2"
+  },
+  {
+   "id": 113,
+   "pt": "Humilhação 3"
+  },
+  {
+   "id": 114,
+   "pt": "Lembrança"
+  },
+  {
+   "id": 115,
+   "pt": "Honra"
+  },
+  {
+   "id": 116,
+   "pt": "Revanche"
+  },
+  {
+   "id": 117,
+   "pt": "Encontro"
+  },
+  {
+   "id": 118,
+   "pt": "Calma"
+  },
+  {
+   "id": 119,
+   "pt": "Luta feroz 1"
+  },
+  {
+   "id": 120,
+   "pt": "Luta feroz 2"
+  },
+  {
+   "id": 121,
+   "pt": "Poseidon"
+  },
+  {
+   "id": 122,
+   "pt": "Irmã zelosa"
+  },
+  {
+   "id": 123,
+   "pt": "A lenda"
+  },
+  {
+   "id": 124,
+   "pt": "Amor vão"
+  },
+  {
+   "id": 125,
+   "pt": "Atena desce"
+  },
+  {
+   "id": 126,
+   "pt": "Por Atena"
+  },
+  {
+   "id": 127,
+   "pt": "O príncipe"
+  },
+  {
+   "id": 128,
+   "pt": "Esperança"
+  },
+  {
+   "id": 129,
+   "pt": "Ao futuro"
+  },
+  {
+   "id": 130,
+   "pt": "Cruzeiro Sul"
+  },
+  {
+   "id": 131,
+   "pt": "Um dia..."
+  },
+  {
+   "id": 132,
+   "pt": "Costas"
+  },
+  {
+   "id": 133,
+   "pt": "Silêncio"
+  },
+  {
+   "id": 134,
+   "pt": "Expectativas"
+  },
+  {
+   "id": 135,
+   "pt": "Sentimentos"
+  },
+  {
+   "id": 136,
+   "pt": "Alegria!!"
+  },
+  {
+   "id": 137,
+   "pt": "Mestre"
+  },
+  {
+   "id": 138,
+   "pt": "Mundo ideal"
+  },
+  {
+   "id": 139,
+   "pt": "Sem guerras"
+  },
+  {
+   "id": 140,
+   "pt": "Juramento"
+  },
+  {
+   "id": 141,
+   "pt": "Missão"
+  },
+  {
+   "id": 142,
+   "pt": "Orgulho"
+  },
+  {
+   "id": 143,
+   "pt": "Herança"
+  },
+  {
+   "id": 144,
+   "pt": "Força máxima"
+  },
+  {
+   "id": 145,
+   "pt": "Para sempre"
+  },
+  {
+   "id": 146,
+   "pt": "Retorno"
+  },
+  {
+   "id": 147,
+   "pt": "Rei abissal"
+  },
+  {
+   "id": 148,
+   "pt": "Imagem 48"
+  },
+  {
+   "id": 149,
+   "pt": "Imagem 49"
+  },
+  {
+   "id": 150,
+   "pt": "Imagem 50"
+  },
+  {
+   "id": 151,
+   "pt": "Imagem 51"
+  },
+  {
+   "id": 152,
+   "pt": "Imagem 52"
+  },
+  {
+   "id": 153,
+   "pt": "Imagem 53"
+  },
+  {
+   "id": 154,
+   "pt": "Imagem 54"
+  },
+  {
+   "id": 155,
+   "pt": "Imagem 55"
+  },
+  {
+   "id": 156,
+   "pt": "Imagem 56"
+  },
+  {
+   "id": 157,
+   "pt": "Imagem 57"
+  },
+  {
+   "id": 158,
+   "pt": "Imagem 58"
+  },
+  {
+   "id": 159,
+   "pt": "Imagem 59"
+  },
+  {
+   "id": 160,
+   "pt": "Imagem 60"
+  },
+  {
+   "id": 161,
+   "pt": "Imagem 61"
+  },
+  {
+   "id": 162,
+   "pt": "Imagem 62"
+  },
+  {
+   "id": 163,
+   "pt": "Imagem 63"
+  },
+  {
+   "id": 164,
+   "pt": "Imagem 64"
+  },
+  {
+   "id": 200,
+   "pt": "?????"
+  }
+ ],
+ "scene/gallery/moviedata.pac#MOVIE_JP.BTX": [
+  {
+   "id": 9,
+   "pt": "/5"
+  },
+  {
+   "id": 10,
+   "pt": "Abertura"
+  },
+  {
+   "id": 11,
+   "pt": "Prólogo"
+  },
+  {
+   "id": 12,
+   "pt": "Final: Kouga"
+  },
+  {
+   "id": 13,
+   "pt": "Final: Seiya"
+  },
+  {
+   "id": 14,
+   "pt": "Créditos"
+  },
+  {
+   "id": 100,
+   "pt": "?????"
+  }
+ ],
+ "scene/gallery/mydatadata.pac#MYPAGE_JP.BTX": [
+  {
+   "id": 11,
+   "pt": "x"
+  },
+  {
+   "id": 12,
+   "pt": "pt"
+  },
+  {
+   "id": 13,
+   "pt": "%"
+  },
+  {
+   "id": 14,
+   "pt": "L"
+  },
+  {
+   "id": 15,
+   "pt": "V"
+  },
+  {
+   "id": 20,
+   "pt": "Jogador:"
+  },
+  {
+   "id": 21,
+   "pt": "Tempo jogo:"
+  },
+  {
+   "id": 22,
+   "pt": "Lutas:"
+  },
+  {
+   "id": 23,
+   "pt": "Recorde:"
+  },
+  {
+   "id": 24,
+   "pt": "Vit. CPU:"
+  },
+  {
+   "id": 25,
+   "pt": "Lutas CPU:"
+  },
+  {
+   "id": 26,
+   "pt": "Vit. PvP:"
+  },
+  {
+   "id": 27,
+   "pt": "Lutas PvP:"
+  }
+ ],
+ "scene/gallery/profiledata.pac#EDEV2_COMBOLIST_JP.BTX": [
+  {
+   "id": 0,
+   "pt": "~ Normal ~"
+  },
+  {
+   "id": 1,
+   "pt": "Plasma de Órion ↓+<c#ffe63dff>{S}<c>"
+  },
+  {
+   "id": 2,
+   "pt": "Esfera de Órion ←+<c#ffe63dff>{S}<c>"
+  },
+  {
+   "id": 3,
+   "pt": "Ataque Meteoro →+<c#ffe63dff>{S}<c>"
+  },
+  {
+   "id": 4,
+   "pt": "Impacto Noir {L}+<c#ff1f75ff>{P}<c>"
+  },
+  {
+   "id": 5,
+   "pt": "Renascer Folgore {L}+<c#ff6eff40>{K}<c>"
+  },
+  {
+   "id": 6,
+   "pt": "Combo 1 <c#ff1f75ff>{P}<c>・<c#ff1f75ff>{P}<c>・<c#ff1f75ff>{P}<c>"
+  },
+  {
+   "id": 7,
+   "pt": "Combo 2 <c#ff1f75ff>{P}<c>・<c#ff1f75ff>{P}<c>・<c#ffe63dff>{S}<c>・<c#ffe63dff>{S}<c>"
+  },
+  {
+   "id": 8,
+   "pt": "Combo 3 <c#ff1f75ff>{P}<c>・<c#ff6eff40>{K}<c>・<c#ff6eff40>{K}<c>"
+  },
+  {
+   "id": 9,
+   "pt": "Combo 4 <c#ff1f75ff>{P}<c>・<c#ff6eff40>{K}<c>・<c#ffe63dff>{S}<c>"
+  },
+  {
+   "id": 10,
+   "pt": "Combo 5 <c#ff6eff40>{K}<c>・<c#ff6eff40>{K}<c>・<c#ff6eff40>{K}<c>"
+  },
+  {
+   "id": 11,
+   "pt": "Combo 6 <c#ff6eff40>{K}<c>・<c#ff6eff40>{K}<c>・<c#ff1f75ff>{P}<c>"
+  },
+  {
+   "id": 12,
+   "pt": "~ Explosão de Cosmo ~"
+  },
+  {
+   "id": 13,
+   "pt": "Big Bang Noir {L}+<c#ffe63dff>{S}<c>"
+  },
+  {
+   "id": 14,
+   "pt": "Combo 7 <c#ff1f75ff>{P}<c>・<c#ff6eff40>{K}<c>・<c#ff6eff40>{K}<c>・<c#ffe63dff>{S}<c>・<c#ffe63dff>{S}<c>・<c#ffe63dff>{S}<c>"
+  },
+  {
+   "id": 15,
+   "pt": "Combo 8 <c#ff6eff40>{K}<c>・<c#ff6eff40>{K}<c>・<c#ff1f75ff>{P}<c>・<c#ffe63dff>{S}<c>"
+  }
+ ],
+ "scene/gallery/profiledata.pac#EDEV2_PROFILE_JP.BTX": [
+  {
+   "id": 0,
+   "pt": "Éden com a Escama de Tritão. Trovão. O poder da Escama deixou seus golpes ainda mais pesados. (Voz: Junichi Suwabe)"
+  }
+ ],
+ "scene/gallery/profiledata.pac#EDE_COMBOLIST_JP.BTX": [
+  {
+   "id": 0,
+   "pt": "~ Normal ~"
+  },
+  {
+   "id": 1,
+   "pt": "Plasma de Órion ↓+<c#ffe63dff>{S}<c>"
+  },
+  {
+   "id": 2,
+   "pt": "Esfera de Órion ←+<c#ffe63dff>{S}<c>"
+  },
+  {
+   "id": 3,
+   "pt": "Ataque Meteoro →+<c#ffe63dff>{S}<c>"
+  },
+  {
+   "id": 4,
+   "pt": "Impacto Noir {L}+<c#ff1f75ff>{P}<c>"
+  },
+  {
+   "id": 5,
+   "pt": "Renascer Folgore {L}+<c#ff6eff40>{K}<c>"
+  },
+  {
+   "id": 6,
+   "pt": "Combo 1 <c#ff1f75ff>{P}<c>・<c#ff1f75ff>{P}<c>・<c#ff1f75ff>{P}<c>"
+  },
+  {
+   "id": 7,
+   "pt": "Combo 2 <c#ff1f75ff>{P}<c>・<c#ff1f75ff>{P}<c>・<c#ffe63dff>{S}<c>・<c#ffe63dff>{S}<c>"
+  },
+  {
+   "id": 8,
+   "pt": "Combo 3 <c#ff1f75ff>{P}<c>・<c#ff6eff40>{K}<c>・<c#ff6eff40>{K}<c>"
+  },
+  {
+   "id": 9,
+   "pt": "Combo 4 <c#ff1f75ff>{P}<c>・<c#ff6eff40>{K}<c>・<c#ffe63dff>{S}<c>"
+  },
+  {
+   "id": 10,
+   "pt": "Combo 5 <c#ff6eff40>{K}<c>・<c#ff6eff40>{K}<c>・<c#ff6eff40>{K}<c>"
+  },
+  {
+   "id": 11,
+   "pt": "Combo 6 <c#ff6eff40>{K}<c>・<c#ff6eff40>{K}<c>・<c#ff1f75ff>{P}<c>"
+  },
+  {
+   "id": 12,
+   "pt": "~ Explosão de Cosmo ~"
+  },
+  {
+   "id": 13,
+   "pt": "Big Bang Noir {L}+<c#ffe63dff>{S}<c>"
+  },
+  {
+   "id": 14,
+   "pt": "Combo 7 <c#ff1f75ff>{P}<c>・<c#ff6eff40>{K}<c>・<c#ff6eff40>{K}<c>・<c#ffe63dff>{S}<c>・<c#ffe63dff>{S}<c>・<c#ffe63dff>{S}<c>"
+  },
+  {
+   "id": 15,
+   "pt": "Combo 8 <c#ff6eff40>{K}<c>・<c#ff6eff40>{K}<c>・<c#ff1f75ff>{P}<c>・<c#ffe63dff>{S}<c>"
+  }
+ ],
+ "scene/gallery/profiledata.pac#EDE_PROFILE_JP.BTX": [
+  {
+   "id": 0,
+   "pt": "Bronze de Órion. Trovão. Quer destruir o velho mundo e criar outro. Golpes lentos e fortes. (Voz: J. Suwabe)"
+  }
+ ],
+ "scene/gallery/profiledata.pac#GEN_COMBOLIST_JP.BTX": [
+  {
+   "id": 0,
+   "pt": "~ Normal ~"
+  },
+  {
+   "id": 1,
+   "pt": "Coluna d'Água ↑+<c#ffe63dff>{S}<c>"
+  },
+  {
+   "id": 2,
+   "pt": "Ataque Meteoro →+<c#ffe63dff>{S}<c>"
+  },
+  {
+   "id": 3,
+   "pt": "Corrente Cruzada {L}+<c#ff1f75ff>{P}<c>"
+  },
+  {
+   "id": 4,
+   "pt": "Lança Vórtice {L}+<c#ff6eff40>{K}<c>"
+  },
+  {
+   "id": 5,
+   "pt": "Combo 1 <c#ff1f75ff>{P}<c>・<c#ff1f75ff>{P}<c>・<c#ff1f75ff>{P}<c>"
+  },
+  {
+   "id": 6,
+   "pt": "Combo 2 <c#ff6eff40>{K}<c>・<c#ff6eff40>{K}<c>・<c#ff6eff40>{K}<c>"
+  },
+  {
+   "id": 7,
+   "pt": "Combo 3 <c#ff6eff40>{K}<c>・<c#ff6eff40>{K}<c>・<c#ff1f75ff>{P}<c>・<c#ff1f75ff>{P}<c>・<c#ff1f75ff>{P}<c>"
+  },
+  {
+   "id": 8,
+   "pt": "Combo 4 <c#ff6eff40>{K}<c>・<c#ff1f75ff>{P}<c>・<c#ffe63dff>{S}<c>"
+  },
+  {
+   "id": 9,
+   "pt": "~ Explosão de Cosmo ~"
+  },
+  {
+   "id": 10,
+   "pt": "Fúria do Juízo {L}+<c#ffe63dff>{S}<c>"
+  },
+  {
+   "id": 11,
+   "pt": "Combo 5 <c#ff1f75ff>{P}<c>・<c#ff1f75ff>{P}<c>・<c#ffe63dff>{S}<c>・<c#ffe63dff>{S}<c>・<c#ffe63dff>{S}<c>・<c#ffe63dff>{S}<c>"
+  }
+ ],
+ "scene/gallery/profiledata.pac#GEN_PROFILE_JP.BTX": [
+  {
+   "id": 0,
+   "pt": "Ouro de Libra. Água. Usa a Armadura que Shiryu guardava. Várias armas, mas é lento. (Voz: N. Hiyama)"
+  }
+ ],
+ "scene/gallery/profiledata.pac#HATV2_COMBOLIST_JP.BTX": [
+  {
+   "id": 0,
+   "pt": "~ Normal ~"
+  },
+  {
+   "id": 1,
+   "pt": "Corte do Vácuo ←+<c#ffe63dff>{S}<c>"
+  },
+  {
+   "id": 2,
+   "pt": "Doton de Fuji ↓+<c#ffe63dff>{S}<c>"
+  },
+  {
+   "id": 3,
+   "pt": "Utsusemi de Fuji ↑+<c#ffe63dff>{S}<c>"
+  },
+  {
+   "id": 4,
+   "pt": "Ataque Meteoro →+<c#ffe63dff>{S}<c>"
+  },
+  {
+   "id": 5,
+   "pt": "Dança das Chamas {L}+<c#ff1f75ff>{P}<c>"
+  },
+  {
+   "id": 6,
+   "pt": "Uivo do Lobo {L}+<c#ff6eff40>{K}<c>"
+  },
+  {
+   "id": 7,
+   "pt": "Combo 1 <c#ff1f75ff>{P}<c>・<c#ff1f75ff>{P}<c>・<c#ff1f75ff>{P}<c>・<c#ff1f75ff>{P}<c>"
+  },
+  {
+   "id": 8,
+   "pt": "Combo 2 <c#ff6eff40>{K}<c>・<c#ff6eff40>{K}<c>・<c#ff6eff40>{K}<c>"
+  },
+  {
+   "id": 9,
+   "pt": "Combo 3 <c#ff6eff40>{K}<c>・<c#ffe63dff>{S}<c>・<c#ffe63dff>{S}<c>・<c#ffe63dff>{S}<c>"
+  },
+  {
+   "id": 10,
+   "pt": "Combo 4 <c#ff1f75ff>{P}<c>・<c#ff1f75ff>{P}<c>・<c#ff1f75ff>{P}<c>・<c#ff6eff40>{K}<c>・<c#ff6eff40>{K}<c>・<c#ff6eff40>{K}<c>"
+  },
+  {
+   "id": 11,
+   "pt": "Combo 5 <c#ff1f75ff>{P}<c>・<c#ffe63dff>{S}<c>・<c#ffe63dff>{S}<c>・<c#ffe63dff>{S}<c>"
+  },
+  {
+   "id": 12,
+   "pt": "Combo 6 <c#ff1f75ff>{P}<c>・<c#ff1f75ff>{P}<c>・<c#ffe63dff>{S}<c>・<c#ffe63dff>{S}<c>・<c#ffe63dff>{S}<c>・<c#ff6eff40>{K}<c>"
+  },
+  {
+   "id": 13,
+   "pt": "~ Explosão de Cosmo ~"
+  },
+  {
+   "id": 14,
+   "pt": "Presas do Lobo {L}+<c#ffe63dff>{S}<c>"
+  },
+  {
+   "id": 15,
+   "pt": "Combo 7 <c#ff1f75ff>{P}<c>・<c#ff1f75ff>{P}<c>・<c#ffe63dff>{S}<c>・<c#ffe63dff>{S}<c>・<c#ffe63dff>{S}<c>・<c#ff6eff40>{K}<c>・<c#ff6eff40>{K}<c>・<c#ff6eff40>{K}<c>"
+  },
+  {
+   "id": 16,
+   "pt": "Combo 8 <c#ff1f75ff>{P}<c>・<c#ffe63dff>{S}<c>・<c#ffe63dff>{S}<c>・<c#ff6eff40>{K}<c>・<c#ff6eff40>{K}<c>"
+  }
+ ],
+ "scene/gallery/profiledata.pac#HATV2_PROFILE_JP.BTX": [
+  {
+   "id": 0,
+   "pt": "Haruto com a Escama de Tritão. Terra. Elemento oposto: menos poder e mais defesa. (Voz: T. Suzuki)"
+  }
+ ],
+ "scene/gallery/profiledata.pac#HAT_COMBOLIST_JP.BTX": [
+  {
+   "id": 0,
+   "pt": "~ Normal ~"
+  },
+  {
+   "id": 1,
+   "pt": "Corte do Vácuo ←+<c#ffe63dff>{S}<c>"
+  },
+  {
+   "id": 2,
+   "pt": "Doton de Fuji ↓+<c#ffe63dff>{S}<c>"
+  },
+  {
+   "id": 3,
+   "pt": "Utsusemi de Fuji ↑+<c#ffe63dff>{S}<c>"
+  },
+  {
+   "id": 4,
+   "pt": "Ataque Meteoro →+<c#ffe63dff>{S}<c>"
+  },
+  {
+   "id": 5,
+   "pt": "Dança das Chamas {L}+<c#ff1f75ff>{P}<c>"
+  },
+  {
+   "id": 6,
+   "pt": "Uivo do Lobo {L}+<c#ff6eff40>{K}<c>"
+  },
+  {
+   "id": 7,
+   "pt": "Combo 1 <c#ff1f75ff>{P}<c>・<c#ff1f75ff>{P}<c>・<c#ff1f75ff>{P}<c>・<c#ff1f75ff>{P}<c>"
+  },
+  {
+   "id": 8,
+   "pt": "Combo 2 <c#ff6eff40>{K}<c>・<c#ff6eff40>{K}<c>・<c#ff6eff40>{K}<c>"
+  },
+  {
+   "id": 9,
+   "pt": "Combo 3 <c#ff6eff40>{K}<c>・<c#ffe63dff>{S}<c>・<c#ffe63dff>{S}<c>・<c#ffe63dff>{S}<c>"
+  },
+  {
+   "id": 10,
+   "pt": "Combo 4 <c#ff1f75ff>{P}<c>・<c#ff1f75ff>{P}<c>・<c#ff1f75ff>{P}<c>・<c#ff6eff40>{K}<c>・<c#ff6eff40>{K}<c>・<c#ff6eff40>{K}<c>"
+  },
+  {
+   "id": 11,
+   "pt": "Combo 5 <c#ff1f75ff>{P}<c>・<c#ffe63dff>{S}<c>・<c#ffe63dff>{S}<c>・<c#ffe63dff>{S}<c>"
+  },
+  {
+   "id": 12,
+   "pt": "Combo 6 <c#ff1f75ff>{P}<c>・<c#ff1f75ff>{P}<c>・<c#ffe63dff>{S}<c>・<c#ffe63dff>{S}<c>・<c#ffe63dff>{S}<c>・<c#ff6eff40>{K}<c>"
+  },
+  {
+   "id": 13,
+   "pt": "~ Explosão de Cosmo ~"
+  },
+  {
+   "id": 14,
+   "pt": "Presas do Lobo {L}+<c#ffe63dff>{S}<c>"
+  },
+  {
+   "id": 15,
+   "pt": "Combo 7 <c#ff1f75ff>{P}<c>・<c#ff1f75ff>{P}<c>・<c#ffe63dff>{S}<c>・<c#ffe63dff>{S}<c>・<c#ffe63dff>{S}<c>・<c#ff6eff40>{K}<c>・<c#ff6eff40>{K}<c>・<c#ff6eff40>{K}<c>"
+  },
+  {
+   "id": 16,
+   "pt": "Combo 8 <c#ff1f75ff>{P}<c>・<c#ffe63dff>{S}<c>・<c#ffe63dff>{S}<c>・<c#ff6eff40>{K}<c>・<c#ff6eff40>{K}<c>"
+  }
+ ],
+ "scene/gallery/profiledata.pac#HAT_PROFILE_JP.BTX": [
+  {
+   "id": 0,
+   "pt": "Bronze de Lobo. Terra. Ninja rápido que ataca de longe e confunde o rival. Para experientes. (Voz: T. Suzuki)"
+  }
+ ],
+ "scene/gallery/profiledata.pac#ION_COMBOLIST_JP.BTX": [
+  {
+   "id": 0,
+   "pt": "~ Normal ~"
+  },
+  {
+   "id": 1,
+   "pt": "Palavra Refletida ←+<c#ffe63dff>{S}<c>"
+  },
+  {
+   "id": 2,
+   "pt": "Ataque Meteoro →+<c#ffe63dff>{S}<c>"
+  },
+  {
+   "id": 3,
+   "pt": "Investida Chifre {L}+<c#ff1f75ff>{P}<c>"
+  },
+  {
+   "id": 4,
+   "pt": "Palavra Dominante {L}+<c#ff6eff40>{K}<c>"
+  },
+  {
+   "id": 5,
+   "pt": "Combo 1 <c#ff1f75ff>{P}<c>・<c#ff1f75ff>{P}<c>・<c#ff1f75ff>{P}<c>"
+  },
+  {
+   "id": 6,
+   "pt": "Combo 2 <c#ff1f75ff>{P}<c>・<c#ffe63dff>{S}<c>・<c#ffe63dff>{S}<c>"
+  },
+  {
+   "id": 7,
+   "pt": "Combo 3 <c#ff6eff40>{K}<c>・<c#ff6eff40>{K}<c>・<c#ff6eff40>{K}<c>"
+  },
+  {
+   "id": 8,
+   "pt": "~ Explosão de Cosmo ~"
+  },
+  {
+   "id": 9,
+   "pt": "Domínio Total {L}+<c#ffe63dff>{S}<c>"
+  },
+  {
+   "id": 10,
+   "pt": "Combo 4 <c#ff1f75ff>{P}<c>・<c#ff1f75ff>{P}<c>・<c#ffe63dff>{S}<c>・<c#ff6eff40>{K}<c>・<c#ff6eff40>{K}<c>"
+  }
+ ],
+ "scene/gallery/profiledata.pac#ION_PROFILE_JP.BTX": [
+  {
+   "id": 0,
+   "pt": "Ouro de Capricórnio. Vento. Ex-diretor da Palestra, traiu Atena. Investidas e arremessos fortes. (Voz: R. Otomo)"
+  }
+ ],
+ "scene/gallery/profiledata.pac#ITI_COMBOLIST_JP.BTX": [
+  {
+   "id": 0,
+   "pt": "~ Normal ~"
+  },
+  {
+   "id": 1,
+   "pt": "Chuva Paralisante ↓+<c#ff6eff40>{K}<c>"
+  },
+  {
+   "id": 2,
+   "pt": "Ataque Meteoro ↓+<c#ffe63dff>{S}<c>"
+  },
+  {
+   "id": 3,
+   "pt": "Beijo Paralisante {L}+<c#ff1f75ff>{P}<c>"
+  },
+  {
+   "id": 4,
+   "pt": "Onda de Hydra {L}+<c#ff6eff40>{K}<c>"
+  },
+  {
+   "id": 5,
+   "pt": "Combo 1 <c#ff1f75ff>{P}<c>・<c#ff1f75ff>{P}<c>・<c#ff1f75ff>{P}<c>"
+  },
+  {
+   "id": 6,
+   "pt": "Combo 2 <c#ff1f75ff>{P}<c>・<c#ffe63dff>{S}<c>・<c#ffe63dff>{S}<c>・<c#ffe63dff>{S}<c>・<c#ffe63dff>{S}<c>・<c#ffe63dff>{S}<c>"
+  },
+  {
+   "id": 7,
+   "pt": "Combo 3 <c#ff6eff40>{K}<c>・<c#ff6eff40>{K}<c>・<c#ff6eff40>{K}<c>・<c#ff6eff40>{K}<c>・<c#ff6eff40>{K}<c>"
+  },
+  {
+   "id": 8,
+   "pt": "~ Explosão de Cosmo ~"
+  },
+  {
+   "id": 9,
+   "pt": "Mil Paralisias {L}+<c#ffe63dff>{S}<c>"
+  },
+  {
+   "id": 10,
+   "pt": "Combo 4 <c#ff1f75ff>{P}<c>・<c#ff1f75ff>{P}<c>・<c#ff1f75ff>{P}<c>・<c#ffe63dff>{S}<c>・<c#ffe63dff>{S}<c>・<c#ffe63dff>{S}<c>"
+  }
+ ],
+ "scene/gallery/profiledata.pac#ITI_PROFILE_JP.BTX": [
+  {
+   "id": 0,
+   "pt": "Prata de Hidra. Terra. Colega de Kouga. Presas elásticas, luta à distância. (Voz: M. Onosaka)"
+  }
+ ],
+ "scene/gallery/profiledata.pac#JYU_COMBOLIST_JP.BTX": [
+  {
+   "id": 0,
+   "pt": "~ Normal ~"
+  },
+  {
+   "id": 1,
+   "pt": "Miragem ←+<c#ffe63dff>{S}<c>"
+  },
+  {
+   "id": 2,
+   "pt": "Gêiser ↓+<c#ff1f75ff>{P}<c>"
+  },
+  {
+   "id": 3,
+   "pt": "Ataque Meteoro →+<c#ffe63dff>{S}<c>"
+  },
+  {
+   "id": 4,
+   "pt": "Fúria da Terra {L}+<c#ff1f75ff>{P}<c>"
+  },
+  {
+   "id": 5,
+   "pt": "Tridente Oculto {L}+<c#ff6eff40>{K}<c>"
+  },
+  {
+   "id": 6,
+   "pt": "Combo 1 <c#ff1f75ff>{P}<c>・<c#ff1f75ff>{P}<c>・<c#ff1f75ff>{P}<c>・<c#ff1f75ff>{P}<c>"
+  },
+  {
+   "id": 7,
+   "pt": "Combo 2 <c#ff6eff40>{K}<c>・<c#ff6eff40>{K}<c>・<c#ff6eff40>{K}<c>・<c#ff6eff40>{K}<c>・<c#ff6eff40>{K}<c>"
+  },
+  {
+   "id": 8,
+   "pt": "Combo 3 <c#ff6eff40>{K}<c>・<c#ffe63dff>{S}<c>・<c#ffe63dff>{S}<c>・<c#ffe63dff>{S}<c>・<c#ffe63dff>{S}<c>"
+  },
+  {
+   "id": 9,
+   "pt": "~ Explosão de Cosmo ~"
+  },
+  {
+   "id": 10,
+   "pt": "Tempestade Noé {L}+<c#ffe63dff>{S}<c>"
+  },
+  {
+   "id": 11,
+   "pt": "Combo 4 <c#ff6eff40>{K}<c>・<c#ff6eff40>{K}<c>・<c#ff6eff40>{K}<c>・<c#ffe63dff>{S}<c>・<c#ffe63dff>{S}<c>・<c#ffe63dff>{S}<c>・<c#ffe63dff>{S}<c>"
+  }
+ ],
+ "scene/gallery/profiledata.pac#JYU_PROFILE_JP.BTX": [
+  {
+   "id": 0,
+   "pt": "Imperador dos mares no corpo de Julian Solo. Água. Cosmo imenso. Forte, rápido e de longo alcance. (Voz: Keiichi Nanba)"
+  }
+ ],
+ "scene/gallery/profiledata.pac#KIK_COMBOLIST_JP.BTX": [
+  {
+   "id": 0,
+   "pt": "~ Normal ~"
+  },
+  {
+   "id": 1,
+   "pt": "Teletransporte ↓+<c#ffe63dff>{S}<c>"
+  },
+  {
+   "id": 2,
+   "pt": "Ataque Meteoro →+<c#ffe63dff>{S}<c>"
+  },
+  {
+   "id": 3,
+   "pt": "Parede de Cristal {L}+<c#ff1f75ff>{P}<c>"
+  },
+  {
+   "id": 4,
+   "pt": "Revolução Estelar {L}+<c#ff6eff40>{K}<c>"
+  },
+  {
+   "id": 5,
+   "pt": "Combo 1 <c#ff1f75ff>{P}<c>・<c#ff1f75ff>{P}<c>・<c#ff1f75ff>{P}<c>・<c#ff1f75ff>{P}<c>・<c#ff1f75ff>{P}<c>"
+  },
+  {
+   "id": 6,
+   "pt": "Combo 2 <c#ff6eff40>{K}<c>・<c#ff6eff40>{K}<c>・<c#ff6eff40>{K}<c>"
+  },
+  {
+   "id": 7,
+   "pt": "Combo 3 <c#ff1f75ff>{P}<c>・<c#ffe63dff>{S}<c>・<c#ffe63dff>{S}<c>・<c#ffe63dff>{S}<c>・<c#ffe63dff>{S}<c>"
+  },
+  {
+   "id": 8,
+   "pt": "Combo 4 <c#ff6eff40>{K}<c>・<c#ff1f75ff>{P}<c>・<c#ff1f75ff>{P}<c>・<c#ff1f75ff>{P}<c>"
+  },
+  {
+   "id": 9,
+   "pt": "~ Explosão de Cosmo ~"
+  },
+  {
+   "id": 10,
+   "pt": "Extinção Estelar {L}+<c#ffe63dff>{S}<c>"
+  },
+  {
+   "id": 11,
+   "pt": "Combo 5 <c#ff1f75ff>{P}<c>・<c#ff1f75ff>{P}<c>・<c#ff1f75ff>{P}<c>・<c#ffe63dff>{S}<c>・<c#ffe63dff>{S}<c>・<c#ffe63dff>{S}<c>・<c#ffe63dff>{S}<c>・<c#ff6eff40>{K}<c>"
+  }
+ ],
+ "scene/gallery/profiledata.pac#KIK_PROFILE_JP.BTX": [
+  {
+   "id": 0,
+   "pt": "Ouro de Áries. Terra. Amigo de Seiya e Shun e mestre em consertar Armaduras. Usa telecinese. (Voz: Shigeru Nakahara)"
+  }
+ ],
+ "scene/gallery/profiledata.pac#KOGV2_COMBOLIST_JP.BTX": [
+  {
+   "id": 0,
+   "pt": "~ Normal ~"
+  },
+  {
+   "id": 1,
+   "pt": "Ataque Meteoro →+<c#ffe63dff>{S}<c>"
+  },
+  {
+   "id": 2,
+   "pt": "Clarão de Pégaso {L}+<c#ff1f75ff>{P}<c>"
+  },
+  {
+   "id": 3,
+   "pt": "Pégaso Veloz {L}+<c#ff6eff40>{K}<c>"
+  },
+  {
+   "id": 4,
+   "pt": "Combo 1 <c#ff1f75ff>{P}<c>・<c#ff1f75ff>{P}<c>・<c#ff1f75ff>{P}<c>・<c#ff1f75ff>{P}<c>・<c#ff1f75ff>{P}<c>"
+  },
+  {
+   "id": 5,
+   "pt": "Combo 2 <c#ff1f75ff>{P}<c>・<c#ff6eff40>{K}<c>・<c#ffe63dff>{S}<c>"
+  },
+  {
+   "id": 6,
+   "pt": "Combo 3 <c#ff1f75ff>{P}<c>・<c#ff6eff40>{K}<c>・<c#ff6eff40>{K}<c>・<c#ff6eff40>{K}<c>・<c#ff6eff40>{K}<c>"
+  },
+  {
+   "id": 7,
+   "pt": "Combo 4 <c#ff1f75ff>{P}<c>・<c#ffe63dff>{S}<c>・<c#ffe63dff>{S}<c>・<c#ffe63dff>{S}<c>"
+  },
+  {
+   "id": 8,
+   "pt": "Combo 5 <c#ff6eff40>{K}<c>・<c#ff6eff40>{K}<c>・<c#ff6eff40>{K}<c>"
+  },
+  {
+   "id": 9,
+   "pt": "Combo 6 <c#ff6eff40>{K}<c>・<c#ff1f75ff>{P}<c>・<c#ff1f75ff>{P}<c>・<c#ff1f75ff>{P}<c>・<c#ff1f75ff>{P}<c>"
+  },
+  {
+   "id": 10,
+   "pt": "~ Explosão de Cosmo ~"
+  },
+  {
+   "id": 11,
+   "pt": "Meteoro de Pégaso {L}+<c#ffe63dff>{S}<c>"
+  },
+  {
+   "id": 12,
+   "pt": "Combo 7 <c#ff1f75ff>{P}<c>・<c#ff6eff40>{K}<c>・<c#ff6eff40>{K}<c>・<c#ff6eff40>{K}<c>・<c#ff6eff40>{K}<c>・<c#ffe63dff>{S}<c>・<c#ffe63dff>{S}<c>"
+  },
+  {
+   "id": 13,
+   "pt": "Combo 8 <c#ff6eff40>{K}<c>・<c#ff1f75ff>{P}<c>・<c#ff1f75ff>{P}<c>・<c#ff1f75ff>{P}<c>・<c#ff1f75ff>{P}<c>・<c#ffe63dff>{S}<c>・<c#ffe63dff>{S}<c>"
+  }
+ ],
+ "scene/gallery/profiledata.pac#KOGV2_PROFILE_JP.BTX": [
+  {
+   "id": 0,
+   "pt": "Kouga com a Escama de Tritão. Luz. Atributos maiores, mas a Escama é menos resistente. (Voz: Hikaru Midorikawa)"
+  }
+ ],
+ "scene/gallery/profiledata.pac#KOG_COMBOLIST_JP.BTX": [
+  {
+   "id": 0,
+   "pt": "~ Normal ~"
+  },
+  {
+   "id": 1,
+   "pt": "Ataque Meteoro →+<c#ffe63dff>{S}<c>"
+  },
+  {
+   "id": 2,
+   "pt": "Clarão de Pégaso {L}+<c#ff1f75ff>{P}<c>"
+  },
+  {
+   "id": 3,
+   "pt": "Pégaso Veloz {L}+<c#ff6eff40>{K}<c>"
+  },
+  {
+   "id": 4,
+   "pt": "Combo 1 <c#ff1f75ff>{P}<c>・<c#ff1f75ff>{P}<c>・<c#ff1f75ff>{P}<c>・<c#ff1f75ff>{P}<c>・<c#ff1f75ff>{P}<c>"
+  },
+  {
+   "id": 5,
+   "pt": "Combo 2 <c#ff1f75ff>{P}<c>・<c#ff6eff40>{K}<c>・<c#ffe63dff>{S}<c>"
+  },
+  {
+   "id": 6,
+   "pt": "Combo 3 <c#ff1f75ff>{P}<c>・<c#ff6eff40>{K}<c>・<c#ff6eff40>{K}<c>・<c#ff6eff40>{K}<c>・<c#ff6eff40>{K}<c>"
+  },
+  {
+   "id": 7,
+   "pt": "Combo 4 <c#ff1f75ff>{P}<c>・<c#ffe63dff>{S}<c>・<c#ffe63dff>{S}<c>・<c#ffe63dff>{S}<c>"
+  },
+  {
+   "id": 8,
+   "pt": "Combo 5 <c#ff6eff40>{K}<c>・<c#ff6eff40>{K}<c>・<c#ff6eff40>{K}<c>"
+  },
+  {
+   "id": 9,
+   "pt": "Combo 6 <c#ff6eff40>{K}<c>・<c#ff1f75ff>{P}<c>・<c#ff1f75ff>{P}<c>・<c#ff1f75ff>{P}<c>・<c#ff1f75ff>{P}<c>"
+  },
+  {
+   "id": 10,
+   "pt": "~ Explosão de Cosmo ~"
+  },
+  {
+   "id": 11,
+   "pt": "Meteoro de Pégaso {L}+<c#ffe63dff>{S}<c>"
+  },
+  {
+   "id": 12,
+   "pt": "Combo 7 <c#ff1f75ff>{P}<c>・<c#ff6eff40>{K}<c>・<c#ff6eff40>{K}<c>・<c#ff6eff40>{K}<c>・<c#ff6eff40>{K}<c>・<c#ffe63dff>{S}<c>・<c#ffe63dff>{S}<c>"
+  },
+  {
+   "id": 13,
+   "pt": "Combo 8 <c#ff6eff40>{K}<c>・<c#ff1f75ff>{P}<c>・<c#ff1f75ff>{P}<c>・<c#ff1f75ff>{P}<c>・<c#ff1f75ff>{P}<c>・<c#ffe63dff>{S}<c>・<c#ffe63dff>{S}<c>"
+  }
+ ],
+ "scene/gallery/profiledata.pac#KOG_PROFILE_JP.BTX": [
+  {
+   "id": 0,
+   "pt": "Bronze de Pégaso. Luz. Garoto de 13 anos criado por Saori. Combos rápidos. (Voz: H. Midorikawa)"
+  }
+ ],
+ "scene/gallery/profiledata.pac#MIK_COMBOLIST_JP.BTX": [
+  {
+   "id": 0,
+   "pt": "~ Normal ~"
+  },
+  {
+   "id": 1,
+   "pt": "Rugido ↓+<c#ffe63dff>{S}<c>"
+  },
+  {
+   "id": 2,
+   "pt": "Ataque Meteoro →+<c#ffe63dff>{S}<c>"
+  },
+  {
+   "id": 3,
+   "pt": "Rajada Regulus {L}+<c#ff1f75ff>{P}<c>"
+  },
+  {
+   "id": 4,
+   "pt": "Queda da Fera {L}+<c#ff6eff40>{K}<c>"
+  },
+  {
+   "id": 5,
+   "pt": "Combo 1 <c#ff1f75ff>{P}<c>・<c#ff1f75ff>{P}<c>・<c#ff1f75ff>{P}<c>"
+  },
+  {
+   "id": 6,
+   "pt": "Combo 2 <c#ff6eff40>{K}<c>・<c#ff6eff40>{K}<c>"
+  },
+  {
+   "id": 7,
+   "pt": "Combo 3 <c#ff6eff40>{K}<c>・<c#ffe63dff>{S}<c>・<c#ffe63dff>{S}<c>・<c#ffe63dff>{S}<c>"
+  },
+  {
+   "id": 8,
+   "pt": "~ Explosão de Cosmo ~"
+  },
+  {
+   "id": 9,
+   "pt": "Plasma Relâmpago {L}+<c#ffe63dff>{S}<c>"
+  },
+  {
+   "id": 10,
+   "pt": "Combo 4 <c#ff1f75ff>{P}<c>・<c#ff6eff40>{K}<c>・<c#ffe63dff>{S}<c>・<c#ffe63dff>{S}<c>・<c#ffe63dff>{S}<c>"
+  }
+ ],
+ "scene/gallery/profiledata.pac#MIK_PROFILE_JP.BTX": [
+  {
+   "id": 0,
+   "pt": "Ouro de Leão. Trovão. Mestre de Éden. Forte e rápido, golpes de grande alcance e poucas brechas. (Voz: Hiroshi Naka)"
+  }
+ ],
+ "scene/gallery/profiledata.pac#PAB_COMBOLIST_JP.BTX": [
+  {
+   "id": 0,
+   "pt": "~ Normal ~"
+  },
+  {
+   "id": 1,
+   "pt": "Ataque Meteoro ↑+<c#ffe63dff>{S}<c>"
+  },
+  {
+   "id": 2,
+   "pt": "Bala de Gelo {L}+<c#ff1f75ff>{P}<c>"
+  },
+  {
+   "id": 3,
+   "pt": "Tornado Pavão {L}+<c#ff6eff40>{K}<c>"
+  },
+  {
+   "id": 4,
+   "pt": "Combo 1 <c#ff1f75ff>{P}<c>・<c#ff1f75ff>{P}<c>・<c#ff1f75ff>{P}<c>・<c#ff1f75ff>{P}<c>・<c#ff1f75ff>{P}<c>・<c#ff1f75ff>{P}<c>・<c#ff1f75ff>{P}<c>・<c#ff1f75ff>{P}<c>"
+  },
+  {
+   "id": 5,
+   "pt": "Combo 2 <c#ff1f75ff>{P}<c>・<c#ff6eff40>{K}<c>・<c#ff6eff40>{K}<c>・<c#ff6eff40>{K}<c>・<c#ff6eff40>{K}<c>"
+  },
+  {
+   "id": 6,
+   "pt": "Combo 3 <c#ff6eff40>{K}<c>・<c#ff1f75ff>{P}<c>・<c#ffe63dff>{S}<c>"
+  },
+  {
+   "id": 7,
+   "pt": "Combo 4 <c#ff6eff40>{K}<c>・<c#ff6eff40>{K}<c>・<c#ff6eff40>{K}<c>・<c#ff6eff40>{K}<c>・<c#ff6eff40>{K}<c>"
+  },
+  {
+   "id": 8,
+   "pt": "Combo 5 <c#ff6eff40>{K}<c>・<c#ff6eff40>{K}<c>・<c#ff1f75ff>{P}<c>・<c#ff1f75ff>{P}<c>・<c#ff1f75ff>{P}<c>"
+  },
+  {
+   "id": 9,
+   "pt": "Combo 6 <c#ff6eff40>{K}<c>・<c#ff1f75ff>{P}<c>・<c#ff1f75ff>{P}<c>・<c#ff1f75ff>{P}<c>・<c#ff6eff40>{K}<c>"
+  },
+  {
+   "id": 10,
+   "pt": "Combo 7 <c#ff1f75ff>{P}<c>・<c#ff6eff40>{K}<c>・<c#ffe63dff>{S}<c>・<c#ffe63dff>{S}<c>・<c#ffe63dff>{S}<c>"
+  },
+  {
+   "id": 11,
+   "pt": "~ Explosão de Cosmo ~"
+  },
+  {
+   "id": 12,
+   "pt": "Nevasca do Pavão {L}+<c#ffe63dff>{S}<c>"
+  },
+  {
+   "id": 13,
+   "pt": "Combo 8 <c#ff6eff40>{K}<c>・<c#ff6eff40>{K}<c>・<c#ffe63dff>{S}<c>・<c#ffe63dff>{S}<c>・<c#ffe63dff>{S}<c>・<c#ffe63dff>{S}<c>・<c#ffe63dff>{S}<c>"
+  },
+  {
+   "id": 14,
+   "pt": "Combo 9 <c#ff1f75ff>{P}<c>・<c#ff6eff40>{K}<c>・<c#ff6eff40>{K}<c>・<c#ff6eff40>{K}<c>・<c#ffe63dff>{S}<c>・<c#ffe63dff>{S}<c>・<c#ffe63dff>{S}<c>"
+  }
+ ],
+ "scene/gallery/profiledata.pac#PAB_PROFILE_JP.BTX": [
+  {
+   "id": 0,
+   "pt": "Prata de Pavão. Água. Mestra de Yuna, ensinou-a a lutar e a viver. Chutes, com mais equilíbrio. (Voz: Ai Orikasa)"
+  }
+ ],
+ "scene/gallery/profiledata.pac#PROFILE_JP.BTX": [
+  {
+   "id": 10,
+   "pt": "Luz"
+  },
+  {
+   "id": 11,
+   "pt": "Trevas"
+  },
+  {
+   "id": 12,
+   "pt": "Fogo"
+  },
+  {
+   "id": 13,
+   "pt": "Água"
+  },
+  {
+   "id": 14,
+   "pt": "Vento"
+  },
+  {
+   "id": 15,
+   "pt": "Terra"
+  },
+  {
+   "id": 16,
+   "pt": "Trovão"
+  },
+  {
+   "id": 17,
+   "pt": "x"
+  },
+  {
+   "id": 20,
+   "pt": "Elemento:"
+  },
+  {
+   "id": 21,
+   "pt": "Usos:"
+  },
+  {
+   "id": 22,
+   "pt": "Vitórias:"
+  }
+ ],
+ "scene/gallery/profiledata.pac#RYOV2_COMBOLIST_JP.BTX": [
+  {
+   "id": 0,
+   "pt": "~ Normal ~"
+  },
+  {
+   "id": 1,
+   "pt": "Golpe de Ombro ←+<c#ffe63dff>{S}<c>"
+  },
+  {
+   "id": 2,
+   "pt": "Mente Serena →+<c#ffe63dff>{S}<c>"
+  },
+  {
+   "id": 3,
+   "pt": "Ataque Meteoro ↓+<c#ffe63dff>{S}<c>"
+  },
+  {
+   "id": 4,
+   "pt": "Cachoeira Rozan {L}+<c#ff1f75ff>{P}<c>"
+  },
+  {
+   "id": 5,
+   "pt": "Escudo do Dragão {L}+<c#ff6eff40>{K}<c>"
+  },
+  {
+   "id": 6,
+   "pt": "Combo 1 <c#ff1f75ff>{P}<c>・<c#ff1f75ff>{P}<c>・<c#ff1f75ff>{P}<c>・<c#ff1f75ff>{P}<c>"
+  },
+  {
+   "id": 7,
+   "pt": "Combo 2 <c#ff1f75ff>{P}<c>・<c#ffe63dff>{S}<c>・<c#ffe63dff>{S}<c>・<c#ffe63dff>{S}<c>・<c#ffe63dff>{S}<c>"
+  },
+  {
+   "id": 8,
+   "pt": "Combo 3 <c#ff6eff40>{K}<c>・<c#ff6eff40>{K}<c>・<c#ff6eff40>{K}<c>・<c#ff6eff40>{K}<c>"
+  },
+  {
+   "id": 9,
+   "pt": "Combo 4 <c#ff1f75ff>{P}<c>・<c#ff6eff40>{K}<c>・<c#ff6eff40>{K}<c>・<c#ff6eff40>{K}<c>"
+  },
+  {
+   "id": 10,
+   "pt": "Combo 5 <c#ff6eff40>{K}<c>・<c#ff1f75ff>{P}<c>・<c#ff1f75ff>{P}<c>・<c#ff1f75ff>{P}<c>"
+  },
+  {
+   "id": 11,
+   "pt": "Combo 6 <c#ff6eff40>{K}<c>・<c#ffe63dff>{S}<c>・<c#ffe63dff>{S}<c>・<c#ffe63dff>{S}<c>"
+  },
+  {
+   "id": 12,
+   "pt": "Combo 7 <c#ff1f75ff>{P}<c>・<c#ff6eff40>{K}<c>・<c#ffe63dff>{S}<c>"
+  },
+  {
+   "id": 13,
+   "pt": "~ Explosão de Cosmo ~"
+  },
+  {
+   "id": 14,
+   "pt": "Cólera do Dragão {L}+<c#ffe63dff>{S}<c>"
+  },
+  {
+   "id": 15,
+   "pt": "Combo 8 <c#ff6eff40>{K}<c>・<c#ff1f75ff>{P}<c>・<c#ff1f75ff>{P}<c>・<c#ff1f75ff>{P}<c>・<c#ffe63dff>{S}<c>・<c#ffe63dff>{S}<c>"
+  },
+  {
+   "id": 16,
+   "pt": "Combo 9 <c#ff1f75ff>{P}<c>・<c#ff1f75ff>{P}<c>・<c#ff1f75ff>{P}<c>・<c#ff6eff40>{K}<c>・<c#ff6eff40>{K}<c>・<c#ffe63dff>{S}<c>"
+  }
+ ],
+ "scene/gallery/profiledata.pac#RYOV2_PROFILE_JP.BTX": [
+  {
+   "id": 0,
+   "pt": "Ryuho com a Escama de Tritão. Água. Muito mais forte, mas gasta mais Cosmo. Para lutas curtas. (Voz: Tetsuya Kakihara)"
+  }
+ ],
+ "scene/gallery/profiledata.pac#RYO_COMBOLIST_JP.BTX": [
+  {
+   "id": 0,
+   "pt": "~ Normal ~"
+  },
+  {
+   "id": 1,
+   "pt": "Golpe de Ombro ←+<c#ffe63dff>{S}<c>"
+  },
+  {
+   "id": 2,
+   "pt": "Mente Serena →+<c#ffe63dff>{S}<c>"
+  },
+  {
+   "id": 3,
+   "pt": "Ataque Meteoro ↓+<c#ffe63dff>{S}<c>"
+  },
+  {
+   "id": 4,
+   "pt": "Cachoeira Rozan {L}+<c#ff1f75ff>{P}<c>"
+  },
+  {
+   "id": 5,
+   "pt": "Escudo do Dragão {L}+<c#ff6eff40>{K}<c>"
+  },
+  {
+   "id": 6,
+   "pt": "Combo 1 <c#ff1f75ff>{P}<c>・<c#ff1f75ff>{P}<c>・<c#ff1f75ff>{P}<c>・<c#ff1f75ff>{P}<c>"
+  },
+  {
+   "id": 7,
+   "pt": "Combo 2 <c#ff1f75ff>{P}<c>・<c#ffe63dff>{S}<c>・<c#ffe63dff>{S}<c>・<c#ffe63dff>{S}<c>・<c#ffe63dff>{S}<c>"
+  },
+  {
+   "id": 8,
+   "pt": "Combo 3 <c#ff6eff40>{K}<c>・<c#ff6eff40>{K}<c>・<c#ff6eff40>{K}<c>・<c#ff6eff40>{K}<c>"
+  },
+  {
+   "id": 9,
+   "pt": "Combo 4 <c#ff1f75ff>{P}<c>・<c#ff6eff40>{K}<c>・<c#ff6eff40>{K}<c>・<c#ff6eff40>{K}<c>"
+  },
+  {
+   "id": 10,
+   "pt": "Combo 5 <c#ff6eff40>{K}<c>・<c#ff1f75ff>{P}<c>・<c#ff1f75ff>{P}<c>・<c#ff1f75ff>{P}<c>"
+  },
+  {
+   "id": 11,
+   "pt": "Combo 6 <c#ff6eff40>{K}<c>・<c#ffe63dff>{S}<c>・<c#ffe63dff>{S}<c>・<c#ffe63dff>{S}<c>"
+  },
+  {
+   "id": 12,
+   "pt": "Combo 7 <c#ff1f75ff>{P}<c>・<c#ff6eff40>{K}<c>・<c#ffe63dff>{S}<c>"
+  },
+  {
+   "id": 13,
+   "pt": "~ Explosão de Cosmo ~"
+  },
+  {
+   "id": 14,
+   "pt": "Cólera do Dragão {L}+<c#ffe63dff>{S}<c>"
+  },
+  {
+   "id": 15,
+   "pt": "Combo 8 <c#ff6eff40>{K}<c>・<c#ff1f75ff>{P}<c>・<c#ff1f75ff>{P}<c>・<c#ff1f75ff>{P}<c>・<c#ffe63dff>{S}<c>・<c#ffe63dff>{S}<c>"
+  },
+  {
+   "id": 16,
+   "pt": "Combo 9 <c#ff1f75ff>{P}<c>・<c#ff1f75ff>{P}<c>・<c#ff1f75ff>{P}<c>・<c#ff6eff40>{K}<c>・<c#ff6eff40>{K}<c>・<c#ffe63dff>{S}<c>"
+  }
+ ],
+ "scene/gallery/profiledata.pac#RYO_PROFILE_JP.BTX": [
+  {
+   "id": 0,
+   "pt": "Bronze de Dragão. Água. Filho de Shiryu. Boa defesa e contra-ataque, frágil sem Armadura. (Voz: T. Kakihara)"
+  }
+ ],
+ "scene/gallery/profiledata.pac#SEY_COMBOLIST_JP.BTX": [
+  {
+   "id": 0,
+   "pt": "~ Normal ~"
+  },
+  {
+   "id": 1,
+   "pt": "Punho Meteoro ↑+<c#ff6eff40>{K}<c>"
+  },
+  {
+   "id": 2,
+   "pt": "Ataque Meteoro →+<c#ffe63dff>{S}<c>"
+  },
+  {
+   "id": 3,
+   "pt": "Flecha Sagitário {L}+<c#ff1f75ff>{P}<c>"
+  },
+  {
+   "id": 4,
+   "pt": "Cometa de Pégaso {L}+<c#ff6eff40>{K}<c>"
+  },
+  {
+   "id": 5,
+   "pt": "Combo 1 <c#ff1f75ff>{P}<c>・<c#ff1f75ff>{P}<c>・<c#ff1f75ff>{P}<c>・<c#ff1f75ff>{P}<c>・<c#ff1f75ff>{P}<c>"
+  },
+  {
+   "id": 6,
+   "pt": "Combo 2 <c#ff1f75ff>{P}<c>・<c#ff6eff40>{K}<c>・<c#ff1f75ff>{P}<c>・<c#ff1f75ff>{P}<c>・<c#ff6eff40>{K}<c>"
+  },
+  {
+   "id": 7,
+   "pt": "Combo 3 <c#ff1f75ff>{P}<c>・<c#ff6eff40>{K}<c>・<c#ffe63dff>{S}<c>"
+  },
+  {
+   "id": 8,
+   "pt": "Combo 4 <c#ff1f75ff>{P}<c>・<c#ffe63dff>{S}<c>・<c#ffe63dff>{S}<c>・<c#ffe63dff>{S}<c>"
+  },
+  {
+   "id": 9,
+   "pt": "Combo 5 <c#ff6eff40>{K}<c>・<c#ff6eff40>{K}<c>・<c#ff6eff40>{K}<c>・<c#ff6eff40>{K}<c>・<c#ff6eff40>{K}<c>"
+  },
+  {
+   "id": 10,
+   "pt": "Combo 6 <c#ff6eff40>{K}<c>・<c#ff6eff40>{K}<c>・<c#ff1f75ff>{P}<c>・<c#ff1f75ff>{P}<c>・<c#ff1f75ff>{P}<c>"
+  },
+  {
+   "id": 11,
+   "pt": "~ Explosão de Cosmo ~"
+  },
+  {
+   "id": 12,
+   "pt": "Meteoro Supremo {L}+<c#ffe63dff>{S}<c>"
+  },
+  {
+   "id": 13,
+   "pt": "Combo 7 <c#ff1f75ff>{P}<c>・<c#ff6eff40>{K}<c>・<c#ff1f75ff>{P}<c>・<c#ff1f75ff>{P}<c>・<c#ffe63dff>{S}<c>・<c#ffe63dff>{S}<c>・<c#ffe63dff>{S}<c>"
+  },
+  {
+   "id": 14,
+   "pt": "Combo 8 <c#ff6eff40>{K}<c>・<c#ff6eff40>{K}<c>・<c#ff1f75ff>{P}<c>・<c#ff1f75ff>{P}<c>・<c#ffe63dff>{S}<c>・<c#ffe63dff>{S}<c>・<c#ffe63dff>{S}<c>"
+  }
+ ],
+ "scene/gallery/profiledata.pac#SEY_PROFILE_JP.BTX": [
+  {
+   "id": 0,
+   "pt": "Ouro de Sagitário. Luz. Age em segredo contra Marte. Excelente, com ataques peculiares. (Voz: T. Furuya)"
+  }
+ ],
+ "scene/gallery/profiledata.pac#SHN_COMBOLIST_JP.BTX": [
+  {
+   "id": 0,
+   "pt": "~ Normal ~"
+  },
+  {
+   "id": 1,
+   "pt": "Ataque Meteoro →+<c#ffe63dff>{S}<c>"
+  },
+  {
+   "id": 2,
+   "pt": "Fúria da Serpente {L}+<c#ff1f75ff>{P}<c>"
+  },
+  {
+   "id": 3,
+   "pt": "Garra do Trovão {L}+<c#ff6eff40>{K}<c>"
+  },
+  {
+   "id": 4,
+   "pt": "Combo 1 <c#ff1f75ff>{P}<c>・<c#ff1f75ff>{P}<c>・<c#ff1f75ff>{P}<c>・<c#ff1f75ff>{P}<c>・<c#ff1f75ff>{P}<c>"
+  },
+  {
+   "id": 5,
+   "pt": "Combo 2 <c#ff1f75ff>{P}<c>・<c#ffe63dff>{S}<c>・<c#ffe63dff>{S}<c>・<c#ffe63dff>{S}<c>・<c#ffe63dff>{S}<c>・<c#ffe63dff>{S}<c>"
+  },
+  {
+   "id": 6,
+   "pt": "Combo 3 <c#ff6eff40>{K}<c>・<c#ff6eff40>{K}<c>・<c#ff6eff40>{K}<c>・<c#ff6eff40>{K}<c>・<c#ff6eff40>{K}<c>"
+  },
+  {
+   "id": 7,
+   "pt": "Combo 4 <c#ff6eff40>{K}<c>・<c#ff1f75ff>{P}<c>・<c#ffe63dff>{S}<c>"
+  },
+  {
+   "id": 8,
+   "pt": "~ Explosão de Cosmo ~"
+  },
+  {
+   "id": 9,
+   "pt": "Fúria Relâmpago {L}+<c#ffe63dff>{S}<c>"
+  },
+  {
+   "id": 10,
+   "pt": "Combo 5 <c#ff6eff40>{K}<c>・<c#ff6eff40>{K}<c>・<c#ff6eff40>{K}<c>・<c#ff6eff40>{K}<c>・<c#ff1f75ff>{P}<c>・<c#ffe63dff>{S}<c>・<c#ffe63dff>{S}<c>"
+  }
+ ],
+ "scene/gallery/profiledata.pac#SHN_PROFILE_JP.BTX": [
+  {
+   "id": 0,
+   "pt": "Prata de Ofiúco. Trovão. Mestra de Kouga. Pouca força, compensada pela grande velocidade. (Voz: Mami Koyama)"
+  }
+ ],
+ "scene/gallery/profiledata.pac#SHU_COMBOLIST_JP.BTX": [
+  {
+   "id": 0,
+   "pt": "~ Normal ~"
+  },
+  {
+   "id": 1,
+   "pt": "Defesa Rolante ←+<c#ffe63dff>{S}<c>"
+  },
+  {
+   "id": 2,
+   "pt": "Ataque Meteoro →+<c#ffe63dff>{S}<c>"
+  },
+  {
+   "id": 3,
+   "pt": "Corrente Nebulosa {L}+<c#ff1f75ff>{P}<c>"
+  },
+  {
+   "id": 4,
+   "pt": "Andrômeda Nebula {L}+<c#ff6eff40>{K}<c>"
+  },
+  {
+   "id": 5,
+   "pt": "Combo 1 <c#ff1f75ff>{P}<c>・<c#ff1f75ff>{P}<c>・<c#ff1f75ff>{P}<c>・<c#ff1f75ff>{P}<c>"
+  },
+  {
+   "id": 6,
+   "pt": "Combo 2 <c#ff1f75ff>{P}<c>・<c#ffe63dff>{S}<c>・<c#ffe63dff>{S}<c>・<c#ffe63dff>{S}<c>・<c#ffe63dff>{S}<c>"
+  },
+  {
+   "id": 7,
+   "pt": "Combo 3 <c#ff6eff40>{K}<c>・<c#ff6eff40>{K}<c>・<c#ff6eff40>{K}<c>・<c#ff6eff40>{K}<c>・<c#ff6eff40>{K}<c>"
+  },
+  {
+   "id": 8,
+   "pt": "~ Explosão de Cosmo ~"
+  },
+  {
+   "id": 9,
+   "pt": "Tormenta Nebulosa {L}+<c#ffe63dff>{S}<c>"
+  },
+  {
+   "id": 10,
+   "pt": "Combo 4 <c#ff6eff40>{K}<c>・<c#ff6eff40>{K}<c>・<c#ff6eff40>{K}<c>・<c#ff1f75ff>{P}<c>・<c#ff1f75ff>{P}<c>・<c#ff1f75ff>{P}<c>・<c#ffe63dff>{S}<c>"
+  }
+ ],
+ "scene/gallery/profiledata.pac#SHU_PROFILE_JP.BTX": [
+  {
+   "id": 0,
+   "pt": "Bronze de Andrômeda. Vento. Lendário, ferido por Marte. Frágil, mas com especiais fortes. (Voz: H. Kamiya)"
+  }
+ ],
+ "scene/gallery/profiledata.pac#SOI_COMBOLIST_JP.BTX": [
+  {
+   "id": 0,
+   "pt": "~ Normal ~"
+  },
+  {
+   "id": 1,
+   "pt": "Movimento Sônico ↑+<c#ffe63dff>{S}<c>"
+  },
+  {
+   "id": 2,
+   "pt": "Ataque Meteoro →+<c#ffe63dff>{S}<c>"
+  },
+  {
+   "id": 3,
+   "pt": "Ferrão de Vespa {L}+<c#ff1f75ff>{P}<c>"
+  },
+  {
+   "id": 4,
+   "pt": "Marionete Sombria {L}+<c#ff6eff40>{K}<c>"
+  },
+  {
+   "id": 5,
+   "pt": "Combo 1 <c#ff1f75ff>{P}<c>・<c#ff1f75ff>{P}<c>・<c#ff1f75ff>{P}<c>"
+  },
+  {
+   "id": 6,
+   "pt": "Combo 2 <c#ff1f75ff>{P}<c>・<c#ffe63dff>{S}<c>・<c#ffe63dff>{S}<c>・<c#ffe63dff>{S}<c>・<c#ffe63dff>{S}<c>・<c#ffe63dff>{S}<c>・<c#ffe63dff>{S}<c>"
+  },
+  {
+   "id": 7,
+   "pt": "Combo 3 <c#ff6eff40>{K}<c>・<c#ff6eff40>{K}<c>・<c#ff6eff40>{K}<c>・<c#ff6eff40>{K}<c>"
+  },
+  {
+   "id": 8,
+   "pt": "~ Explosão de Cosmo ~"
+  },
+  {
+   "id": 9,
+   "pt": "Retorno às Trevas {L}+<c#ffe63dff>{S}<c>"
+  },
+  {
+   "id": 10,
+   "pt": "Combo 4 <c#ff1f75ff>{P}<c>・<c#ff1f75ff>{P}<c>・<c#ff6eff40>{K}<c>・<c#ff6eff40>{K}<c>・<c#ffe63dff>{S}<c>"
+  }
+ ],
+ "scene/gallery/profiledata.pac#SOI_PROFILE_JP.BTX": [
+  {
+   "id": 0,
+   "pt": "Alta Marciana de Vespa. Trevas. Irmã de Éden. Rápida, com golpes de vários acertos. (Voz: A. Hisakawa)"
+  }
+ ],
+ "scene/gallery/profiledata.pac#SOMV2_COMBOLIST_JP.BTX": [
+  {
+   "id": 0,
+   "pt": "~ Normal ~"
+  },
+  {
+   "id": 1,
+   "pt": "Ataque Meteoro →+<c#ffe63dff>{S}<c>"
+  },
+  {
+   "id": 2,
+   "pt": "Chama Desesperada {L}+<c#ff1f75ff>{P}<c>"
+  },
+  {
+   "id": 3,
+   "pt": "Fogo do Leãozinho {L}+<c#ff6eff40>{K}<c>"
+  },
+  {
+   "id": 4,
+   "pt": "Combo 1 <c#ff1f75ff>{P}<c>・<c#ff1f75ff>{P}<c>・<c#ff1f75ff>{P}<c>・<c#ff1f75ff>{P}<c>・<c#ff1f75ff>{P}<c>"
+  },
+  {
+   "id": 5,
+   "pt": "Combo 2 <c#ff1f75ff>{P}<c>・<c#ff1f75ff>{P}<c>・<c#ff1f75ff>{P}<c>・<c#ff6eff40>{K}<c>・<c#ff6eff40>{K}<c>・<c#ff6eff40>{K}<c>"
+  },
+  {
+   "id": 6,
+   "pt": "Combo 3 <c#ff1f75ff>{P}<c>・<c#ff1f75ff>{P}<c>・<c#ff6eff40>{K}<c>・<c#ff1f75ff>{P}<c>"
+  },
+  {
+   "id": 7,
+   "pt": "Combo 4 <c#ff6eff40>{K}<c>・<c#ff6eff40>{K}<c>・<c#ff6eff40>{K}<c>"
+  },
+  {
+   "id": 8,
+   "pt": "Combo 5 <c#ff6eff40>{K}<c>・<c#ffe63dff>{S}<c>・<c#ffe63dff>{S}<c>・<c#ffe63dff>{S}<c>"
+  },
+  {
+   "id": 9,
+   "pt": "Combo 6 <c#ff6eff40>{K}<c>・<c#ff1f75ff>{P}<c>・<c#ff1f75ff>{P}<c>・<c#ff1f75ff>{P}<c>"
+  },
+  {
+   "id": 10,
+   "pt": "Combo 7 <c#ff1f75ff>{P}<c>・<c#ff1f75ff>{P}<c>・<c#ff6eff40>{K}<c>・<c#ff6eff40>{K}<c>・<c#ff6eff40>{K}<c>・<c#ffe63dff>{S}<c>"
+  },
+  {
+   "id": 11,
+   "pt": "~ Explosão de Cosmo ~"
+  },
+  {
+   "id": 12,
+   "pt": "Bomba Leãozinho {L}+<c#ffe63dff>{S}<c>"
+  },
+  {
+   "id": 13,
+   "pt": "Combo 8 <c#ff1f75ff>{P}<c>・<c#ff1f75ff>{P}<c>・<c#ff6eff40>{K}<c>・<c#ff6eff40>{K}<c>・<c#ff6eff40>{K}<c>・<c#ffe63dff>{S}<c>・<c#ffe63dff>{S}<c>・<c#ffe63dff>{S}<c>"
+  }
+ ],
+ "scene/gallery/profiledata.pac#SOMV2_PROFILE_JP.BTX": [
+  {
+   "id": 0,
+   "pt": "Souma com a Escama de Tritão. Fogo. Elemento ruim: menos poder, mas gasta menos Cosmo. (Voz: Katsuyuki Konishi)"
+  }
+ ],
+ "scene/gallery/profiledata.pac#SOM_COMBOLIST_JP.BTX": [
+  {
+   "id": 0,
+   "pt": "~ Normal ~"
+  },
+  {
+   "id": 1,
+   "pt": "Ataque Meteoro →+<c#ffe63dff>{S}<c>"
+  },
+  {
+   "id": 2,
+   "pt": "Chama Desesperada {L}+<c#ff1f75ff>{P}<c>"
+  },
+  {
+   "id": 3,
+   "pt": "Fogo do Leãozinho {L}+<c#ff6eff40>{K}<c>"
+  },
+  {
+   "id": 4,
+   "pt": "Combo 1 <c#ff1f75ff>{P}<c>・<c#ff1f75ff>{P}<c>・<c#ff1f75ff>{P}<c>・<c#ff1f75ff>{P}<c>・<c#ff1f75ff>{P}<c>"
+  },
+  {
+   "id": 5,
+   "pt": "Combo 2 <c#ff1f75ff>{P}<c>・<c#ff1f75ff>{P}<c>・<c#ff1f75ff>{P}<c>・<c#ff6eff40>{K}<c>・<c#ff6eff40>{K}<c>・<c#ff6eff40>{K}<c>"
+  },
+  {
+   "id": 6,
+   "pt": "Combo 3 <c#ff1f75ff>{P}<c>・<c#ff1f75ff>{P}<c>・<c#ff6eff40>{K}<c>・<c#ff1f75ff>{P}<c>"
+  },
+  {
+   "id": 7,
+   "pt": "Combo 4 <c#ff6eff40>{K}<c>・<c#ff6eff40>{K}<c>・<c#ff6eff40>{K}<c>"
+  },
+  {
+   "id": 8,
+   "pt": "Combo 5 <c#ff6eff40>{K}<c>・<c#ffe63dff>{S}<c>・<c#ffe63dff>{S}<c>・<c#ffe63dff>{S}<c>"
+  },
+  {
+   "id": 9,
+   "pt": "Combo 6 <c#ff6eff40>{K}<c>・<c#ff1f75ff>{P}<c>・<c#ff1f75ff>{P}<c>・<c#ff1f75ff>{P}<c>"
+  },
+  {
+   "id": 10,
+   "pt": "Combo 7 <c#ff1f75ff>{P}<c>・<c#ff1f75ff>{P}<c>・<c#ff6eff40>{K}<c>・<c#ff6eff40>{K}<c>・<c#ff6eff40>{K}<c>・<c#ffe63dff>{S}<c>"
+  },
+  {
+   "id": 11,
+   "pt": "~ Explosão de Cosmo ~"
+  },
+  {
+   "id": 12,
+   "pt": "Bomba Leãozinho {L}+<c#ffe63dff>{S}<c>"
+  },
+  {
+   "id": 13,
+   "pt": "Combo 8 <c#ff1f75ff>{P}<c>・<c#ff1f75ff>{P}<c>・<c#ff6eff40>{K}<c>・<c#ff6eff40>{K}<c>・<c#ff6eff40>{K}<c>・<c#ffe63dff>{S}<c>・<c#ffe63dff>{S}<c>・<c#ffe63dff>{S}<c>"
+  }
+ ],
+ "scene/gallery/profiledata.pac#SOM_PROFILE_JP.BTX": [
+  {
+   "id": 0,
+   "pt": "Bronze de Leão Menor. Fogo. Segue o exemplo do falecido pai e caça Sonia. Socos rápidos. (Voz: Katsuyuki Konishi)"
+  }
+ ],
+ "scene/gallery/profiledata.pac#SOT_COMBOLIST_JP.BTX": [
+  {
+   "id": 0,
+   "pt": "~ Normal ~"
+  },
+  {
+   "id": 1,
+   "pt": "Mina Sônica ↓+<c#ffe63dff>{S}<c>"
+  },
+  {
+   "id": 2,
+   "pt": "Ataque Meteoro →+<c#ffe63dff>{S}<c>"
+  },
+  {
+   "id": 3,
+   "pt": "Prelúdio Fatal {L}+<c#ff1f75ff>{P}<c>"
+  },
+  {
+   "id": 4,
+   "pt": "Sinfonia Fatal {L}+<c#ff6eff40>{K}<c>"
+  },
+  {
+   "id": 5,
+   "pt": "Combo 1 <c#ff1f75ff>{P}<c>・<c#ff1f75ff>{P}<c>・<c#ff1f75ff>{P}<c>"
+  },
+  {
+   "id": 6,
+   "pt": "Combo 2 <c#ff1f75ff>{P}<c>・<c#ffe63dff>{S}<c>・<c#ffe63dff>{S}<c>・<c#ffe63dff>{S}<c>・<c#ffe63dff>{S}<c>"
+  },
+  {
+   "id": 7,
+   "pt": "Combo 3 <c#ff6eff40>{K}<c>・<c#ff6eff40>{K}<c>・<c#ff6eff40>{K}<c>"
+  },
+  {
+   "id": 8,
+   "pt": "~ Explosão de Cosmo ~"
+  },
+  {
+   "id": 9,
+   "pt": "Clímax Fatal {L}+<c#ffe63dff>{S}<c>"
+  },
+  {
+   "id": 10,
+   "pt": "Combo 4 <c#ff1f75ff>{P}<c>・<c#ff6eff40>{K}<c>・<c#ff6eff40>{K}<c>・<c#ff6eff40>{K}<c>・<c#ffe63dff>{S}<c>・<c#ffe63dff>{S}<c>"
+  }
+ ],
+ "scene/gallery/profiledata.pac#SOT_PROFILE_JP.BTX": [
+  {
+   "id": 0,
+   "pt": "General Marina de Sirene. Água. Fiel a Poseidon. Ataca de longe com a sua flauta. (Voz: T. Shioya)"
+  }
+ ],
+ "scene/gallery/profiledata.pac#YUNV2_COMBOLIST_JP.BTX": [
+  {
+   "id": 0,
+   "pt": "~ Normal ~"
+  },
+  {
+   "id": 1,
+   "pt": "Ataque Meteoro ↑+<c#ffe63dff>{S}<c>"
+  },
+  {
+   "id": 2,
+   "pt": "Tornado Divino {L}+<c#ff1f75ff>{P}<c>"
+  },
+  {
+   "id": 3,
+   "pt": "Furacão de Águia {L}+<c#ff6eff40>{K}<c>"
+  },
+  {
+   "id": 4,
+   "pt": "Combo 1 <c#ff1f75ff>{P}<c>・<c#ff1f75ff>{P}<c>・<c#ff1f75ff>{P}<c>・<c#ff1f75ff>{P}<c>・<c#ff1f75ff>{P}<c>・<c#ff1f75ff>{P}<c>・<c#ff1f75ff>{P}<c>・<c#ff1f75ff>{P}<c>"
+  },
+  {
+   "id": 5,
+   "pt": "Combo 2 <c#ff1f75ff>{P}<c>・<c#ff6eff40>{K}<c>・<c#ff6eff40>{K}<c>・<c#ff6eff40>{K}<c>・<c#ff6eff40>{K}<c>"
+  },
+  {
+   "id": 6,
+   "pt": "Combo 3 <c#ff1f75ff>{P}<c>・<c#ff6eff40>{K}<c>・<c#ffe63dff>{S}<c>"
+  },
+  {
+   "id": 7,
+   "pt": "Combo 4 <c#ff1f75ff>{P}<c>・<c#ffe63dff>{S}<c>・<c#ffe63dff>{S}<c>・<c#ffe63dff>{S}<c>"
+  },
+  {
+   "id": 8,
+   "pt": "Combo 5 <c#ff6eff40>{K}<c>・<c#ff6eff40>{K}<c>・<c#ff6eff40>{K}<c>・<c#ff6eff40>{K}<c>・<c#ff6eff40>{K}<c>"
+  },
+  {
+   "id": 9,
+   "pt": "Combo 6 <c#ff6eff40>{K}<c>・<c#ff6eff40>{K}<c>・<c#ff1f75ff>{P}<c>・<c#ff1f75ff>{P}<c>・<c#ff6eff40>{K}<c>"
+  },
+  {
+   "id": 10,
+   "pt": "Combo 7 <c#ff6eff40>{K}<c>・<c#ff1f75ff>{P}<c>・<c#ff1f75ff>{P}<c>・<c#ff6eff40>{K}<c>・<c#ffe63dff>{S}<c>"
+  },
+  {
+   "id": 11,
+   "pt": "~ Explosão de Cosmo ~"
+  },
+  {
+   "id": 12,
+   "pt": "Rapina Giratória {L}+<c#ffe63dff>{S}<c>"
+  },
+  {
+   "id": 13,
+   "pt": "Combo 8 <c#ff1f75ff>{P}<c>・<c#ff6eff40>{K}<c>・<c#ff6eff40>{K}<c>・<c#ff6eff40>{K}<c>・<c#ffe63dff>{S}<c>・<c#ffe63dff>{S}<c>・<c#ffe63dff>{S}<c>"
+  },
+  {
+   "id": 14,
+   "pt": "Combo 9 <c#ff6eff40>{K}<c>・<c#ff6eff40>{K}<c>・<c#ff6eff40>{K}<c>・<c#ff6eff40>{K}<c>・<c#ffe63dff>{S}<c>・<c#ffe63dff>{S}<c>・<c#ffe63dff>{S}<c>"
+  }
+ ],
+ "scene/gallery/profiledata.pac#YUNV2_PROFILE_JP.BTX": [
+  {
+   "id": 0,
+   "pt": "Yuna com a Escama de Tritão. Vento. Melhorou em tudo, mas a Escama é frágil na defesa. (Voz: Satsuki Yukino)"
+  }
+ ],
+ "scene/gallery/profiledata.pac#YUN_COMBOLIST_JP.BTX": [
+  {
+   "id": 0,
+   "pt": "~ Normal ~"
+  },
+  {
+   "id": 1,
+   "pt": "Ataque Meteoro ↑+<c#ffe63dff>{S}<c>"
+  },
+  {
+   "id": 2,
+   "pt": "Tornado Divino {L}+<c#ff1f75ff>{P}<c>"
+  },
+  {
+   "id": 3,
+   "pt": "Furacão de Águia {L}+<c#ff6eff40>{K}<c>"
+  },
+  {
+   "id": 4,
+   "pt": "Combo 1 <c#ff1f75ff>{P}<c>・<c#ff1f75ff>{P}<c>・<c#ff1f75ff>{P}<c>・<c#ff1f75ff>{P}<c>・<c#ff1f75ff>{P}<c>・<c#ff1f75ff>{P}<c>・<c#ff1f75ff>{P}<c>・<c#ff1f75ff>{P}<c>"
+  },
+  {
+   "id": 5,
+   "pt": "Combo 2 <c#ff1f75ff>{P}<c>・<c#ff6eff40>{K}<c>・<c#ff6eff40>{K}<c>・<c#ff6eff40>{K}<c>・<c#ff6eff40>{K}<c>"
+  },
+  {
+   "id": 6,
+   "pt": "Combo 3 <c#ff1f75ff>{P}<c>・<c#ff6eff40>{K}<c>・<c#ffe63dff>{S}<c>"
+  },
+  {
+   "id": 7,
+   "pt": "Combo 4 <c#ff1f75ff>{P}<c>・<c#ffe63dff>{S}<c>・<c#ffe63dff>{S}<c>・<c#ffe63dff>{S}<c>"
+  },
+  {
+   "id": 8,
+   "pt": "Combo 5 <c#ff6eff40>{K}<c>・<c#ff6eff40>{K}<c>・<c#ff6eff40>{K}<c>・<c#ff6eff40>{K}<c>・<c#ff6eff40>{K}<c>"
+  },
+  {
+   "id": 9,
+   "pt": "Combo 6 <c#ff6eff40>{K}<c>・<c#ff6eff40>{K}<c>・<c#ff1f75ff>{P}<c>・<c#ff1f75ff>{P}<c>・<c#ff6eff40>{K}<c>"
+  },
+  {
+   "id": 10,
+   "pt": "Combo 7 <c#ff6eff40>{K}<c>・<c#ff1f75ff>{P}<c>・<c#ff1f75ff>{P}<c>・<c#ff6eff40>{K}<c>・<c#ffe63dff>{S}<c>"
+  },
+  {
+   "id": 11,
+   "pt": "~ Explosão de Cosmo ~"
+  },
+  {
+   "id": 12,
+   "pt": "Rapina Giratória {L}+<c#ffe63dff>{S}<c>"
+  },
+  {
+   "id": 13,
+   "pt": "Combo 8 <c#ff1f75ff>{P}<c>・<c#ff6eff40>{K}<c>・<c#ff6eff40>{K}<c>・<c#ff6eff40>{K}<c>・<c#ffe63dff>{S}<c>・<c#ffe63dff>{S}<c>・<c#ffe63dff>{S}<c>"
+  },
+  {
+   "id": 14,
+   "pt": "Combo 9 <c#ff6eff40>{K}<c>・<c#ff6eff40>{K}<c>・<c#ff6eff40>{K}<c>・<c#ff6eff40>{K}<c>・<c#ffe63dff>{S}<c>・<c#ffe63dff>{S}<c>・<c#ffe63dff>{S}<c>"
+  }
+ ],
+ "scene/gallery/profiledata.pac#YUN_PROFILE_JP.BTX": [
+  {
+   "id": 0,
+   "pt": "Bronze de Águia. Vento. Órfã da guerra, treinada por Pavlin. Ótima em chutes rápidos. (Voz: S. Yukino)"
+  }
+ ]
+}

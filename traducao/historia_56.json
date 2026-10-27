@@ -1,0 +1,526 @@
+{
+ "event/script/56_01.pac#56_01_JP.BTX": [
+  {
+   "id": 600010,
+   "pt": "...Aonde vai, Seiya de Pégaso?"
+  },
+  {
+   "id": 600020,
+   "pt": "Ionia..."
+  },
+  {
+   "id": 600030,
+   "pt": "O que você carrega é uma Gota d'Água."
+  },
+  {
+   "id": 600040,
+   "pt": "É do Imperador Poseidon e fica guardada no Santuário. O que vai fazer com ela?"
+  },
+  {
+   "id": 600050,
+   "pt": "...Desculpe, mas não posso contar."
+  },
+  {
+   "id": 600060,
+   "pt": "...Não vai responder? Então, mesmo sendo você, não posso deixá-lo ir. Vou detê-lo!"
+  },
+  {
+   "id": 600070,
+   "pt": "...Então terei que te derrotar para seguir!"
+  }
+ ],
+ "event/script/56_02.pac#56_02_JP.BTX": [
+  {
+   "id": 600140,
+   "pt": "Seiya!"
+  },
+  {
+   "id": 600150,
+   "pt": "Shaina..."
+  },
+  {
+   "id": 600160,
+   "pt": "Há boatos correndo, Seiya."
+  },
+  {
+   "id": 600170,
+   "pt": "Dizem que vai deixar o Santuário... e falam de Poseidon. O que houve...?"
+  },
+  {
+   "id": 600180,
+   "pt": "...Você também veio me impedir, Shaina?"
+  },
+  {
+   "id": 600190,
+   "pt": "Dependendo do que disser, vou te impedir nem que custe a minha vida...!"
+  },
+  {
+   "id": 600200,
+   "pt": "Shaina..."
+  },
+  {
+   "id": 600210,
+   "pt": "...Vamos, me conte o que houve!"
+  },
+  {
+   "id": 600220,
+   "pt": "Na verdade, quero te pedir uma coisa."
+  },
+  {
+   "id": 600230,
+   "pt": "...O quê?"
+  },
+  {
+   "id": 600240,
+   "pt": "...Logo posso sumir do Santuário. Se acontecer, fique ao lado da Saori..."
+  },
+  {
+   "id": 600250,
+   "pt": "...Seiya, o que significa isso?!"
+  },
+  {
+   "id": 600260,
+   "pt": "Shaina..."
+  },
+  {
+   "id": 600270,
+   "pt": "Cuidar de Atena se você sumir?! Acha que vou aceitar essa despedida calada?!"
+  },
+  {
+   "id": 600280,
+   "pt": "Eu... eu, por você..."
+  },
+  {
+   "id": 600290,
+   "pt": "Shaina, por favor..."
+  },
+  {
+   "id": 600300,
+   "pt": "...Seiya, eu vou te impedir. Se quer mesmo seguir, terá que me derrotar!"
+  }
+ ],
+ "event/script/56_03.pac#56_03_JP.BTX": [
+  {
+   "id": 600450,
+   "pt": "Ilha Thalassa... Poseidon está aqui..."
+  },
+  {
+   "id": 600460,
+   "pt": "...Alto."
+  },
+  {
+   "id": 600470,
+   "pt": "Você é... Sorento!"
+  },
+  {
+   "id": 600480,
+   "pt": "Há quanto tempo, Seiya. O que quer nesta ilha?"
+  },
+  {
+   "id": 600490,
+   "pt": "Vim falar com Poseidon... Pode me levar até ele?"
+  },
+  {
+   "id": 600500,
+   "pt": "Hmph... que absurdo... Foram os Cavaleiros de Atena que selaram Poseidon."
+  },
+  {
+   "id": 600510,
+   "pt": "O senhor Julian não tem memórias de Poseidon. E querem despertá-lo de novo?"
+  },
+  {
+   "id": 600520,
+   "pt": "...Não, Poseidon já está quase despertando."
+  },
+  {
+   "id": 600530,
+   "pt": "..."
+  },
+  {
+   "id": 600540,
+   "pt": "Um novo invasor surgiu na Terra. Naquele momento, Atena sentiu."
+  },
+  {
+   "id": 600550,
+   "pt": "O Cosmo de Poseidon, que surgiu como resposta ao invasor."
+  },
+  {
+   "id": 600560,
+   "pt": "..."
+  },
+  {
+   "id": 600570,
+   "pt": "Agora deve ser possível conversar com Poseidon."
+  },
+  {
+   "id": 600580,
+   "pt": "Hum... Mais um motivo para não levá-lo."
+  },
+  {
+   "id": 600590,
+   "pt": "Por quê?!"
+  },
+  {
+   "id": 600600,
+   "pt": "Você sabe... Eu quero proteger o senhor Julian."
+  },
+  {
+   "id": 600610,
+   "pt": "Eu entendo. Mas mesmo assim, preciso fazer um pedido a Poseidon!"
+  },
+  {
+   "id": 600620,
+   "pt": "Não vou mais tolerar egoísmo. Vou detê-lo com todas as forças!"
+  },
+  {
+   "id": 600630,
+   "pt": "Também tenho uma missão da qual não abro mão. Desculpe, mas você vai me guiar!"
+  }
+ ],
+ "event/script/56_04.pac#56_04_JP.BTX": [
+  {
+   "id": 600860,
+   "pt": "...Chegamos. O senhor Poseidon deve estar lá dentro."
+  },
+  {
+   "id": 600870,
+   "pt": "Obrigada, Sorento. Daqui seguimos sozinhos. ...Vamos, Seiya."
+  },
+  {
+   "id": 600880,
+   "pt": "Seja bem-vinda, Atena!"
+  },
+  {
+   "id": 600890,
+   "pt": "...Poseidon! Vim fazer-lhe um pedido."
+  },
+  {
+   "id": 600900,
+   "pt": "Um pedido? Somos inimigos desde a Era Mitológica. Por que pedir algo a mim?"
+  },
+  {
+   "id": 600910,
+   "pt": "Você também deve ter percebido as ações de Marte."
+  },
+  {
+   "id": 600920,
+   "pt": "..."
+  },
+  {
+   "id": 600930,
+   "pt": "A Terra é o alvo de Marte. Nós o repelimos uma vez, mas ele vai voltar."
+  },
+  {
+   "id": 600940,
+   "pt": "Mas muitos Cavaleiros perderam a vida em sucessivas batalhas."
+  },
+  {
+   "id": 600950,
+   "pt": "...Assim, será difícil proteger a Terra."
+  },
+  {
+   "id": 600960,
+   "pt": "...E então?"
+  },
+  {
+   "id": 600970,
+   "pt": "Estamos formando uma nova geração de Cavaleiros."
+  },
+  {
+   "id": 600980,
+   "pt": "No futuro, eles serão os guerreiros que protegerão a Terra."
+  },
+  {
+   "id": 600990,
+   "pt": "...Mas quando eles crescerem, não sei se poderei guiá-los."
+  },
+  {
+   "id": 601000,
+   "pt": "Oh... E por quê?"
+  },
+  {
+   "id": 601010,
+   "pt": "Sinto que esta guerra não vai acabar tão cedo. Eu mesma posso correr perigo..."
+  },
+  {
+   "id": 601020,
+   "pt": "Hum..."
+  },
+  {
+   "id": 601030,
+   "pt": "Por isso quero lhe pedir uma coisa."
+  },
+  {
+   "id": 601040,
+   "pt": "Se algo me acontecer, seja um obstáculo para que os jovens elevem o Cosmo."
+  },
+  {
+   "id": 601050,
+   "pt": "Eles ainda são jovens. Contra inimigos fortes, precisam de um mestre."
+  }
+ ],
+ "event/script/56_11.pac#56_11_JP.BTX": [
+  {
+   "id": 600080,
+   "pt": "Ugh... Digno de você, Seiya... Não é à toa que o chamam de Cavaleiro lendário..."
+  },
+  {
+   "id": 600090,
+   "pt": "...Não me diga que alguém como você vai até Poseidon."
+  },
+  {
+   "id": 600100,
+   "pt": "...Ionia, não posso responder."
+  },
+  {
+   "id": 600110,
+   "pt": "Por quê?!"
+  },
+  {
+   "id": 600120,
+   "pt": "..."
+  },
+  {
+   "id": 600130,
+   "pt": "Seiya... o que você pretende..."
+  }
+ ],
+ "event/script/56_12.pac#56_12_JP.BTX": [
+  {
+   "id": 600310,
+   "pt": "Ugh... Vai mesmo, então."
+  },
+  {
+   "id": 600320,
+   "pt": "...Desculpe, Shaina. Mas eu quero mesmo pedir isso a você."
+  },
+  {
+   "id": 600330,
+   "pt": "Por que a mim? Proteger Atena é o seu papel!"
+  },
+  {
+   "id": 600340,
+   "pt": "A Saori é indispensável para a paz da Terra."
+  },
+  {
+   "id": 600350,
+   "pt": "Por isso quero alguém de confiança ao lado dela..."
+  },
+  {
+   "id": 600360,
+   "pt": "Seiya..."
+  },
+  {
+   "id": 600370,
+   "pt": "...Entendi. Quando você não estiver, eu protejo Atena. Prometo."
+  },
+  {
+   "id": 600380,
+   "pt": "Shaina!"
+  },
+  {
+   "id": 600390,
+   "pt": "Mas prometa também. Não sei o que pretende, mas volte vivo... Prometa."
+  },
+  {
+   "id": 600400,
+   "pt": "...Sim. Prometo."
+  },
+  {
+   "id": 600410,
+   "pt": "Este planeta... corre perigo, não é?"
+  },
+  {
+   "id": 600420,
+   "pt": "...Não sei quando. Mas Marte vai aparecer de novo, com certeza...!"
+  },
+  {
+   "id": 600430,
+   "pt": "Seiya..."
+  },
+  {
+   "id": 600440,
+   "pt": "...Bom, já vou indo."
+  }
+ ],
+ "event/script/56_13.pac#56_13_JP.BTX": [
+  {
+   "id": 600640,
+   "pt": "Ugh... Digno de Seiya. Mas não posso deixá-lo passar!"
+  },
+  {
+   "id": 600650,
+   "pt": "Sorento, a luta já acabou."
+  },
+  {
+   "id": 600660,
+   "pt": "E daí?! Sou Sorento de Sirene, general do senhor Poseidon!"
+  },
+  {
+   "id": 600670,
+   "pt": "Não posso perder duas vezes para os Cavaleiros de Atena!"
+  },
+  {
+   "id": 600680,
+   "pt": "Ugh, que cabeça-dura!"
+  },
+  {
+   "id": 600690,
+   "pt": "Parem com isso, os dois!"
+  },
+  {
+   "id": 600700,
+   "pt": "O quê?!"
+  },
+  {
+   "id": 600710,
+   "pt": "Saori!"
+  },
+  {
+   "id": 600720,
+   "pt": "Atena...!"
+  },
+  {
+   "id": 600730,
+   "pt": "Não há necessidade de lutar. Só quero conversar com Poseidon."
+  },
+  {
+   "id": 600740,
+   "pt": "Saori, é perigoso! Espere no Santuário!"
+  },
+  {
+   "id": 600750,
+   "pt": "Não, Seiya. Eu mesma preciso ir. É uma conversa entre deuses."
+  },
+  {
+   "id": 600760,
+   "pt": "Mas...!"
+  },
+  {
+   "id": 600770,
+   "pt": "...Seiya, quero cumprir meu papel. Não volto ao Santuário por ser perigoso."
+  },
+  {
+   "id": 600780,
+   "pt": "Agora, deixe-me passar. Tenho um assunto importante com Poseidon."
+  },
+  {
+   "id": 600790,
+   "pt": "Ugh... Quem diria que a própria Atena viria até aqui..."
+  },
+  {
+   "id": 600800,
+   "pt": "...Mas só o senhor Poseidon pode me dar ordens. Nem mesmo Atena passará daqui..."
+  },
+  {
+   "id": 600810,
+   "pt": "...Basta, Sorento!"
+  },
+  {
+   "id": 600820,
+   "pt": "...! Essa voz... Não pode ser, senhor Poseidon?!"
+  },
+  {
+   "id": 600830,
+   "pt": "Deixe Atena passar. Ela quer falar comigo. Vou ouvi-la..."
+  },
+  {
+   "id": 600840,
+   "pt": "...Sim, senhor!"
+  },
+  {
+   "id": 600850,
+   "pt": "...O senhor Poseidon deu a ordem. Vou guiá-los."
+  }
+ ],
+ "event/script/56_14.pac#56_14_JP.BTX": [
+  {
+   "id": 601060,
+   "pt": "Ugh... Perder duas vezes para um simples Cavaleiro..."
+  },
+  {
+   "id": 601070,
+   "pt": "Poseidon... por favor, atenda ao pedido."
+  },
+  {
+   "id": 601080,
+   "pt": "...Poseidon, tenho algo para lhe entregar. ...Seiya!"
+  },
+  {
+   "id": 601090,
+   "pt": "Isto é...!"
+  },
+  {
+   "id": 601100,
+   "pt": "Uma Gota d'Água. É sua, não é?"
+  },
+  {
+   "id": 601110,
+   "pt": "Não conseguimos reunir todas, mas trouxemos para devolvê-las a você."
+  },
+  {
+   "id": 601120,
+   "pt": "Entendo..."
+  },
+  {
+   "id": 601130,
+   "pt": "Eu as criei há muito tempo... Achei que tinham se perdido na guerra com Atena..."
+  },
+  {
+   "id": 601140,
+   "pt": "Não imaginei que as teria nas mãos de novo..."
+  },
+  {
+   "id": 601150,
+   "pt": "...Peço mais uma vez. Ajude-nos."
+  },
+  {
+   "id": 601160,
+   "pt": "..."
+  },
+  {
+   "id": 601170,
+   "pt": "...Muito bem. Entendi o pedido. Eu, Poseidon, serei o palhaço só uma vez."
+  },
+  {
+   "id": 601180,
+   "pt": "...! Obrigada, Poseidon."
+  },
+  {
+   "id": 601190,
+   "pt": "Não precisa agradecer."
+  },
+  {
+   "id": 601200,
+   "pt": "Não é por você. Marte dominar a Terra também não me convém."
+  },
+  {
+   "id": 601210,
+   "pt": "Não importa... Agradeço a sua decisão."
+  },
+  {
+   "id": 601220,
+   "pt": "Hmph... Então voltarei a dormir. Adeus, Atena! E seus Cavaleiros!"
+  },
+  {
+   "id": 601230,
+   "pt": "Quando eu despertar de novo, quero encontrar inimigos tão bons quanto vocês!"
+  },
+  {
+   "id": 601240,
+   "pt": "...Ei, Seiya?"
+  },
+  {
+   "id": 601250,
+   "pt": "...?"
+  },
+  {
+   "id": 601260,
+   "pt": "Como serão os Cavaleiros do futuro... Vão aceitar um destino de lutas tão duras?"
+  },
+  {
+   "id": 601270,
+   "pt": "Não se preocupe, Saori. A alma dos Cavaleiros não se apaga. Eles vão nos suceder..."
+  }
+ ]
+}

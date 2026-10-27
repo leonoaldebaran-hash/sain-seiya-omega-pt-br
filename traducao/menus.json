@@ -1,0 +1,308 @@
+{
+ "btx/character_name/character_name_jp.btx": [
+  {
+   "id": 0,
+   "pt": "Kouga"
+  },
+  {
+   "id": 1,
+   "pt": "Yuna"
+  },
+  {
+   "id": 2,
+   "pt": "Ryuho"
+  },
+  {
+   "id": 3,
+   "pt": "Souma"
+  },
+  {
+   "id": 4,
+   "pt": "Éden"
+  },
+  {
+   "id": 5,
+   "pt": "Haruto"
+  },
+  {
+   "id": 6,
+   "pt": "Seiya"
+  },
+  {
+   "id": 7,
+   "pt": "Shaina"
+  },
+  {
+   "id": 8,
+   "pt": "Ionia"
+  }
+ ],
+ "common/systemwindow.pac#SYSTEMWINDOW_JP.BTX": [
+  {
+   "id": 0,
+   "pt": "Sim"
+  },
+  {
+   "id": 1,
+   "pt": "Não"
+  },
+  {
+   "id": 2,
+   "pt": "OK"
+  },
+  {
+   "id": 3,
+   "pt": "<Mito:mito>"
+  }
+ ],
+ "scene/characterselect/chara_select_main.pac#SELECT_JP.BTX": [
+  {
+   "id": 0,
+   "pt": "Selecione um personagem."
+  },
+  {
+   "id": 1,
+   "pt": "Selecione o adversário."
+  },
+  {
+   "id": 2,
+   "pt": "Selecione o cenário."
+  },
+  {
+   "id": 3,
+   "pt": "Selecione as regras."
+  },
+  {
+   "id": 4,
+   "pt": "Aguardando o adversário."
+  },
+  {
+   "id": 5,
+   "pt": "Aguardando o adversário.."
+  },
+  {
+   "id": 6,
+   "pt": "Aguardando o adversário..."
+  }
+ ],
+ "scene/config/graphics.pac#CONFIG_JP.BTX": [
+  {
+   "id": 0,
+   "pt": "Volume da música"
+  },
+  {
+   "id": 1,
+   "pt": "Volume dos efeitos"
+  },
+  {
+   "id": 2,
+   "pt": "Volume das vozes"
+  },
+  {
+   "id": 3,
+   "pt": "Velocidade do texto"
+  },
+  {
+   "id": 4,
+   "pt": "Configurar botões"
+  },
+  {
+   "id": 5,
+   "pt": "Concluir"
+  },
+  {
+   "id": 6,
+   "pt": "Baixo"
+  },
+  {
+   "id": 7,
+   "pt": "Alto"
+  },
+  {
+   "id": 8,
+   "pt": "Lento"
+  },
+  {
+   "id": 9,
+   "pt": "Rápido"
+  },
+  {
+   "id": 10,
+   "pt": "Ajusta o volume da música."
+  },
+  {
+   "id": 11,
+   "pt": "Ajusta o volume dos efeitos sonoros."
+  },
+  {
+   "id": 12,
+   "pt": "Ajusta o volume das vozes."
+  },
+  {
+   "id": 13,
+   "pt": "Ajusta a velocidade das mensagens."
+  },
+  {
+   "id": 14,
+   "pt": "Configura os botões."
+  },
+  {
+   "id": 15,
+   "pt": "Liga ou desliga a instalação de dados."
+  },
+  {
+   "id": 16,
+   "pt": "Ligado"
+  },
+  {
+   "id": 17,
+   "pt": "Desligado"
+  },
+  {
+   "id": 18,
+   "pt": "Instalação de dados"
+  }
+ ],
+ "scene/key/graphics.pac#KEY_JP.BTX": [
+  {
+   "id": 0,
+   "pt": "Soco (P)"
+  },
+  {
+   "id": 1,
+   "pt": "Chute (K)"
+  },
+  {
+   "id": 2,
+   "pt": "Ataque especial (S)"
+  },
+  {
+   "id": 3,
+   "pt": "Pulo"
+  },
+  {
+   "id": 4,
+   "pt": "Carregar Cosmo"
+  },
+  {
+   "id": 5,
+   "pt": "Arremesso"
+  },
+  {
+   "id": 6,
+   "pt": "Controles"
+  },
+  {
+   "id": 100,
+   "pt": "Altere os botões como preferir."
+  },
+  {
+   "id": 101,
+   "pt": "Altere os botões como preferir."
+  },
+  {
+   "id": 102,
+   "pt": "Altere os botões como preferir."
+  },
+  {
+   "id": 103,
+   "pt": "Altere os botões como preferir."
+  },
+  {
+   "id": 104,
+   "pt": "Altere os botões como preferir."
+  },
+  {
+   "id": 105,
+   "pt": "Altere os botões como preferir."
+  },
+  {
+   "id": 106,
+   "pt": "Altere os botões como preferir."
+  }
+ ],
+ "scene/mainmenu/mainmenudata.pac#MAINMENU_JP.BTX": [
+  {
+   "id": 0,
+   "pt": "Avance na história vencendo inimigos."
+  },
+  {
+   "id": 1,
+   "pt": "Derrote inimigos em sequência até o fim."
+  },
+  {
+   "id": 2,
+   "pt": "Lute contra a CPU ou contra amigos."
+  },
+  {
+   "id": 3,
+   "pt": "Pratique as batalhas."
+  },
+  {
+   "id": 4,
+   "pt": "Veja as ilustrações e vídeos coletados."
+  },
+  {
+   "id": 5,
+   "pt": "Ajuste as configurações do jogo."
+  },
+  {
+   "id": 6,
+   "pt": "Instale os dados do jogo."
+  },
+  {
+   "id": 7,
+   "pt": "Lute contra a CPU."
+  },
+  {
+   "id": 8,
+   "pt": "Lute contra amigos usando o modo Ad Hoc."
+  },
+  {
+   "id": 9,
+   "pt": "Pratique batalhas contra a CPU."
+  },
+  {
+   "id": 10,
+   "pt": "Pratique os comandos básicos de luta."
+  },
+  {
+   "id": 11,
+   "pt": "Veja o perfil e o modelo dos lutadores."
+  },
+  {
+   "id": 12,
+   "pt": "Veja as imagens de evento coletadas."
+  },
+  {
+   "id": 13,
+   "pt": "Veja os vídeos coletados."
+  },
+  {
+   "id": 14,
+   "pt": "Assista aos replays salvos."
+  },
+  {
+   "id": 15,
+   "pt": "Veja o seu histórico de batalhas."
+  },
+  {
+   "id": 16,
+   "pt": "Aguardando o adversário."
+  },
+  {
+   "id": 17,
+   "pt": "Aguardando o adversário.."
+  },
+  {
+   "id": 18,
+   "pt": "Aguardando o adversário..."
+  }
+ ],
+ "scene/storyselect/storyselectdata.pac#STORYSELECT_JP.BTX": [
+  {
+   "id": 0,
+   "pt": "Escolha o personagem para começar."
+  }
+ ]
+}

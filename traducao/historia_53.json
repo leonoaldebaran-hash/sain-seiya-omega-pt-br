@@ -1,0 +1,1174 @@
+{
+ "event/script/53_01.pac#53_01_JP.BTX": [
+  {
+   "id": 200000,
+   "pt": "Hum... Lugar mais animado do que eu pensava. Por onde começo a procurar?"
+  },
+  {
+   "id": 200010,
+   "pt": "Ei!"
+  },
+  {
+   "id": 200020,
+   "pt": "Hã?! Essa voz..."
+  },
+  {
+   "id": 200030,
+   "pt": "Ufa, finalmente alcancei, zansu..."
+  },
+  {
+   "id": 200040,
+   "pt": "Ichi?! O que faz aqui..."
+  },
+  {
+   "id": 200050,
+   "pt": "A Armadura foi consertada...! ...Não vai me dizer que veio nos atacar de novo?"
+  },
+  {
+   "id": 200060,
+   "pt": "Ei, ei, claro que não!"
+  },
+  {
+   "id": 200070,
+   "pt": "Soube que Poseidon vai reviver e vim ajudar vocês, zansu!!"
+  },
+  {
+   "id": 200080,
+   "pt": "Poseidon... Ichi, onde você soube disso?"
+  },
+  {
+   "id": 200090,
+   "pt": "Souma... Não subestime meus informantes, zansu. Sou Cavaleiro há muito tempo."
+  },
+  {
+   "id": 200100,
+   "pt": "Hum, sei não. Isso está muito suspeito."
+  },
+  {
+   "id": 200110,
+   "pt": "Que chato, zansu! Vim ajudar, confie um pouco em mim, zansu!"
+  },
+  {
+   "id": 200120,
+   "pt": "Tá bom, tá bom. Se vai ajudar, fico contente."
+  },
+  {
+   "id": 200130,
+   "pt": "O Kouga estava preocupado com você de verdade."
+  },
+  {
+   "id": 200140,
+   "pt": "Ah, é? Logo ele... Então eu também tenho que dar o meu melhor. ...Souma!"
+  },
+  {
+   "id": 200150,
+   "pt": "Hã?"
+  },
+  {
+   "id": 200160,
+   "pt": "Para vencer Poseidon, precisa juntar essas tais Gotas d'Água, zansu?"
+  },
+  {
+   "id": 200170,
+   "pt": "É, parece que sim."
+  },
+  {
+   "id": 200180,
+   "pt": "E você também tem uma Gota d'Água, não tem?"
+  },
+  {
+   "id": 200190,
+   "pt": "Tenho, sim."
+  },
+  {
+   "id": 200200,
+   "pt": "Então me entrega, zansu. Eu me responsabilizo e derroto Poseidon, zansu!"
+  },
+  {
+   "id": 200210,
+   "pt": "Pfff...! Sério? Querer vencer Poseidon assim de cara não é empolgação demais?"
+  },
+  {
+   "id": 200220,
+   "pt": "Claro que é sério! O inimigo é Poseidon. Não posso pôr meus calouros em perigo."
+  },
+  {
+   "id": 200230,
+   "pt": "Eu derroto ele, então me entrega logo!"
+  },
+  {
+   "id": 200240,
+   "pt": "Ichi..."
+  },
+  {
+   "id": 200250,
+   "pt": "Mesmo eu falando tudo isso, não vai entregar..."
+  },
+  {
+   "id": 200260,
+   "pt": "Tudo bem, entendi. Se não vai entregar, eu tomo à força!"
+  },
+  {
+   "id": 200270,
+   "pt": "À força... Então veio nos atacar mesmo!"
+  }
+ ],
+ "event/script/53_02.pac#53_02_JP.BTX": [
+  {
+   "id": 200440,
+   "pt": "Puxa, um dia inteiro procurando e nada. ...Hã? Aquele é..."
+  },
+  {
+   "id": 100720,
+   "pt": "E aí, Kouga."
+  },
+  {
+   "id": 100730,
+   "pt": "Souma! Você também estava por aqui."
+  },
+  {
+   "id": 200450,
+   "pt": "Hã, e você é... Aquele que nos contou da volta de Poseidon..."
+  },
+  {
+   "id": 200460,
+   "pt": "Sorento."
+  },
+  {
+   "id": 200470,
+   "pt": "Sorento, prazer! ...Então, e você? Achou alguma Gota d'Água?"
+  },
+  {
+   "id": 100750,
+   "pt": "Uma, que recebi do Ryuho. Por enquanto, só essa."
+  },
+  {
+   "id": 100760,
+   "pt": "Do Ryuho, é? Então você venceu o Ryuho?"
+  },
+  {
+   "id": 100770,
+   "pt": "Pois é. Hehe, ficou surpreso?"
+  },
+  {
+   "id": 100780,
+   "pt": "Nem tanto. Você cresceu muito desde a Palestra. Não me espanta."
+  },
+  {
+   "id": 100790,
+   "pt": "Mas eu também fiquei mais forte que você, sabia? Que tal lutar valendo a Gota?"
+  },
+  {
+   "id": 100800,
+   "pt": "Hehe, é a sua cara. Então vamos lutar como nos velhos tempos!"
+  },
+  {
+   "id": 100810,
+   "pt": "Isso aí! Vou te devolver aquela de antes!"
+  }
+ ],
+ "event/script/53_03.pac#53_03_JP.BTX": [
+  {
+   "id": 100960,
+   "pt": "Shaina... Ela é a sua mestra, não é?"
+  },
+  {
+   "id": 100970,
+   "pt": "É, mas... o que será que aconteceu...?"
+  },
+  {
+   "id": 200531,
+   "pt": "...Esse homem é minha presa. Vocês, me deem suas Gotas d'Água e saiam desta ilha."
+  },
+  {
+   "id": 200520,
+   "pt": "E-espera aí. Não dá para falar uma coisa dessas do nada. O que aconteceu?"
+  },
+  {
+   "id": 200530,
+   "pt": "Não ouviu, moleque do Leão Menor? Então eu mesma te expulso."
+  },
+  {
+   "id": 200540,
+   "pt": "Vamos ver quem tem o Cosmo maior: você ou o dono anterior dessa Armadura!"
+  },
+  {
+   "id": 200550,
+   "pt": "Droga... Nem quer conversar. Kouga! Foi mal, mas vou lutar com a sua mestra!"
+  }
+ ],
+ "event/script/53_04.pac#53_04_JP.BTX": [
+  {
+   "id": 200810,
+   "pt": "Uau, que enorme! Esta é a casa de veraneio do Julian Solo."
+  },
+  {
+   "id": 200820,
+   "pt": "Sim. A mansão do rei do comércio marítimo. Muito bem cuidada."
+  },
+  {
+   "id": 200830,
+   "pt": "...Hã?"
+  },
+  {
+   "id": 200840,
+   "pt": "...!"
+  },
+  {
+   "id": 200850,
+   "pt": "Você também percebeu. Este Cosmo...!"
+  },
+  {
+   "id": 200860,
+   "pt": "...!"
+  },
+  {
+   "id": 200870,
+   "pt": "Você é...?!"
+  },
+  {
+   "id": 200880,
+   "pt": "...Sonia!"
+  },
+  {
+   "id": 200890,
+   "pt": "...Que lugar estranho para nos encontrarmos, Leão Menor."
+  },
+  {
+   "id": 200900,
+   "pt": "Eu é que digo, Sonia! Não sei por que está aqui, mas desta vez não escapa!"
+  },
+  {
+   "id": 200910,
+   "pt": "Hmph, insolente... ...Você também tem uma Gota d'Água?"
+  },
+  {
+   "id": 200920,
+   "pt": "E daí?!"
+  },
+  {
+   "id": 200930,
+   "pt": "...Então tem, não é? Nesse caso, eu luto com você!"
+  },
+  {
+   "id": 200940,
+   "pt": "Ótimo! Hoje eu vingo o meu pai!"
+  }
+ ],
+ "event/script/53_05.pac#53_05_JP.BTX": [
+  {
+   "id": 201170,
+   "pt": "...!"
+  },
+  {
+   "id": 201180,
+   "pt": "Isso nem chegou a ser uma luta. Agora, Águia, entregue a Gota d'Água."
+  },
+  {
+   "id": 201190,
+   "pt": "Nunca! Vocês querem usar as Gotas para o mal, não é?"
+  },
+  {
+   "id": 201200,
+   "pt": "Não é para o mal. É pelo ideal do senhor Marte."
+  },
+  {
+   "id": 201210,
+   "pt": "Isso é usar para o mal! Por que o diretor, que era tão digno..."
+  },
+  {
+   "id": 201220,
+   "pt": "Tola. O ideal do senhor Marte é a justiça. E nem isso você entende..."
+  },
+  {
+   "id": 201230,
+   "pt": "Investida do Chifre!"
+  },
+  {
+   "id": 201240,
+   "pt": "O quê? Você é..."
+  },
+  {
+   "id": 201250,
+   "pt": "Hehe... Cheguei na hora certa!"
+  },
+  {
+   "id": 201260,
+   "pt": "Souma?! O que faz aqui?!"
+  },
+  {
+   "id": 201270,
+   "pt": "Depois a gente conversa! Agora temos que derrotar o diretor...!"
+  },
+  {
+   "id": 201280,
+   "pt": "Que piada! Se querem tanto morrer, eu atendo o pedido!"
+  }
+ ],
+ "event/script/53_06.pac#53_06_JP.BTX": [
+  {
+   "id": 201490,
+   "pt": "Esta ilha tem de tudo, hein. Aquela ruína também era bem grande."
+  },
+  {
+   "id": 201500,
+   "pt": "É mesmo. Da próxima vez quero vir de férias."
+  },
+  {
+   "id": 201510,
+   "pt": "Quando a paz voltar à Terra, seria bom. Por isso temos que vencer Poseidon logo."
+  },
+  {
+   "id": 201520,
+   "pt": "Com certeza. ...Aliás, Yuna, percebeu?"
+  },
+  {
+   "id": 201530,
+   "pt": "Sim... Eu me lembro deste Cosmo imenso."
+  },
+  {
+   "id": 201540,
+   "pt": "Que lugar e companhia estranhos para um encontro."
+  },
+  {
+   "id": 201550,
+   "pt": "Eu sabia... Mycenae de Leão!"
+  },
+  {
+   "id": 201560,
+   "pt": "Sou Mycenae de Leão! As presas do rei dos animais e o orgulho do Ouro!"
+  },
+  {
+   "id": 201570,
+   "pt": "Haaaaaah!"
+  },
+  {
+   "id": 201580,
+   "pt": "Ugh...!"
+  },
+  {
+   "id": 201590,
+   "pt": "O que fazem aqui, traidores?"
+  },
+  {
+   "id": 201600,
+   "pt": "...Viemos selar Poseidon."
+  },
+  {
+   "id": 201610,
+   "pt": "Vocês, contra Poseidon? Nem são páreo para mim e querem vencer um deus. Que piada."
+  },
+  {
+   "id": 201620,
+   "pt": "...Não é questão de ganhar ou perder. Um Cavaleiro tem que fazer isso!"
+  },
+  {
+   "id": 201630,
+   "pt": "...Muito bem. Vou testar a sua determinação. Venha, Leão Menor!"
+  },
+  {
+   "id": 201640,
+   "pt": "Vamos! Desta vez não vai ser como antes!"
+  }
+ ],
+ "event/script/53_07.pac#53_07_JP.BTX": [
+  {
+   "id": 201730,
+   "pt": "Este é o templo de Poseidon. A barreira deve estar lá dentro..."
+  },
+  {
+   "id": 201740,
+   "pt": "A barreira... Finalmente a encontrei."
+  },
+  {
+   "id": 201750,
+   "pt": "Então Poseidon está do outro lado. Chegou a hora da batalha final, zansu!"
+  },
+  {
+   "id": 201760,
+   "pt": "Que nada, ainda não temos todas as Gotas. Assim não dá para passar."
+  },
+  {
+   "id": 201770,
+   "pt": "Por que não quebramos essa barreira, zansu? Aí nós quatro vamos até Poseidon."
+  },
+  {
+   "id": 201780,
+   "pt": "Hã...? ...Bom, talvez você tenha razão..."
+  },
+  {
+   "id": 201790,
+   "pt": "Agora nem sei se o que o Sorento disse era verdade..."
+  },
+  {
+   "id": 201800,
+   "pt": "...Beleza! Haaaaaah!"
+  },
+  {
+   "id": 201810,
+   "pt": "Droga, que dura..."
+  },
+  {
+   "id": 201820,
+   "pt": "Ai! Ufa... Não dá mesmo."
+  },
+  {
+   "id": 201830,
+   "pt": "Hmph... Deixa comigo."
+  },
+  {
+   "id": 201840,
+   "pt": "Arda, meu Cosmo! Haaaaaah! Toma essa!! Onda de Hydra!!"
+  },
+  {
+   "id": 201850,
+   "pt": "Ai!! Droga, nem se mexeu..."
+  },
+  {
+   "id": 201860,
+   "pt": "Ah, são vocês. Que tolice..."
+  },
+  {
+   "id": 201870,
+   "pt": "...! Você!"
+  },
+  {
+   "id": 201880,
+   "pt": "Só passa por essa barreira quem tem o Cosmo do senhor Poseidon. Use as Gotas."
+  },
+  {
+   "id": 201890,
+   "pt": "Bem que eu queria. Mas só temos seis."
+  },
+  {
+   "id": 201900,
+   "pt": "Então não se preocupe. A última está comigo. Se a quiser, lute comigo."
+  },
+  {
+   "id": 201910,
+   "pt": "Você...?! O que está tramando?"
+  },
+  {
+   "id": 201920,
+   "pt": "O retorno completo do senhor Poseidon e a morte dos Cavaleiros."
+  },
+  {
+   "id": 201930,
+   "pt": "...!"
+  },
+  {
+   "id": 201940,
+   "pt": "Naturalmente. O senhor Poseidon é quem merece governar a Terra."
+  },
+  {
+   "id": 201950,
+   "pt": "Para isso, vocês, Cavaleiros, que atrapalham, precisam ser eliminados."
+  },
+  {
+   "id": 201960,
+   "pt": "Você..."
+  },
+  {
+   "id": 201970,
+   "pt": "Falou bonito! Então vou mostrar a vocês o poder de um Cavaleiro!"
+  },
+  {
+   "id": 201980,
+   "pt": "Hmph... Então eu vou mostrar a tolice de quem desafia o senhor Poseidon!"
+  }
+ ],
+ "event/script/53_08.pac#53_08_JP.BTX": [
+  {
+   "id": 202160,
+   "pt": "Uau, que lugar enorme. Poseidon está aqui? Isso está cheirando a encrenca..."
+  },
+  {
+   "id": 102370,
+   "pt": "...Eu estava à sua espera, Cavaleiro de Atena."
+  },
+  {
+   "id": 202170,
+   "pt": "...! Apareceu, Poseidon!"
+  },
+  {
+   "id": 102390,
+   "pt": "Desde a Era Mitológica vocês enfrentaram os deuses inúmeras vezes."
+  },
+  {
+   "id": 102400,
+   "pt": "E com o poder de Atena, venceram essas batalhas."
+  },
+  {
+   "id": 102410,
+   "pt": "...Mas agora Atena não está aqui."
+  },
+  {
+   "id": 102420,
+   "pt": "Por mais tolos que sejam, não esperam me vencer sem a proteção de Atena."
+  },
+  {
+   "id": 102430,
+   "pt": "Por que lutar uma batalha perdida? Por que jogar a vida fora em vão?"
+  },
+  {
+   "id": 202180,
+   "pt": "Não pretendo morrer. Da outra vez você queria acabar com a humanidade, não é?"
+  },
+  {
+   "id": 202190,
+   "pt": "...Vocês humanos sujam o mundo e nunca se arrependem. A Terra não precisa de vocês."
+  },
+  {
+   "id": 202200,
+   "pt": "Então não dá mesmo para deixar você à solta."
+  },
+  {
+   "id": 202210,
+   "pt": "Há gente má, mas também muita gente boa. Não vão nos destruir por capricho!"
+  },
+  {
+   "id": 202220,
+   "pt": "Insolente! Foram vocês, humanos, que sujaram este mundo!"
+  },
+  {
+   "id": 202230,
+   "pt": "Pode ser."
+  },
+  {
+   "id": 202240,
+   "pt": "Mas mesmo assim, não posso deixar você à solta!"
+  },
+  {
+   "id": 202250,
+   "pt": "Porque na Terra também vive muita gente inocente!"
+  }
+ ],
+ "event/script/53_11.pac#53_11_JP.BTX": [
+  {
+   "id": 200280,
+   "pt": "Tudo bem, Ichi?"
+  },
+  {
+   "id": 200290,
+   "pt": "Droga! Foi por um triz, mas perder logo para você!"
+  },
+  {
+   "id": 200300,
+   "pt": "Lá se vai meu plano de vencer Poseidon e virar herói, zansu!"
+  },
+  {
+   "id": 200310,
+   "pt": "...Parece que está bem."
+  },
+  {
+   "id": 200320,
+   "pt": "Vim até aqui... Eu ia arrasar como o Seiya e os outros... zansu..."
+  },
+  {
+   "id": 200330,
+   "pt": "B-bom, não fica assim. Uma hora as coisas melhoram!"
+  },
+  {
+   "id": 200340,
+   "pt": "Cala a boca! O que você sabe?! Ryuho e Haruto, vá lá, mas até para você..."
+  },
+  {
+   "id": 200350,
+   "pt": "Ué, Ichi. Lutou com o Ryuho e o Haruto também?"
+  },
+  {
+   "id": 200360,
+   "pt": "É. Perdi por uma diferença mínima..."
+  },
+  {
+   "id": 200370,
+   "pt": "...Ah, o Kouga e a Yuna também têm Gotas. Se ainda não lutou, vá atrás deles."
+  },
+  {
+   "id": 200380,
+   "pt": "Kouga e Yuna...?"
+  },
+  {
+   "id": 200390,
+   "pt": "Eles também querem disputar as Gotas como treino. Dá um aperto neles, Ichi!"
+  },
+  {
+   "id": 200400,
+   "pt": "Eles vão ficar felizes em te ver!"
+  },
+  {
+   "id": 200410,
+   "pt": "Ah, é? Então tá! Deve ser o destino. Eu vou treinar aqueles dois, zansu!"
+  },
+  {
+   "id": 200420,
+   "pt": "Assim que se fala, Ichi. Boa sorte!"
+  },
+  {
+   "id": 200430,
+   "pt": "Pode deixar, zansu!!"
+  }
+ ],
+ "event/script/53_12.pac#53_12_JP.BTX": [
+  {
+   "id": 200480,
+   "pt": "Hehe. Parece que devolvi aquela da Palestra."
+  },
+  {
+   "id": 200490,
+   "pt": "Você me pegou, Souma. Não tem jeito, toma."
+  },
+  {
+   "id": 100860,
+   "pt": "Que bela luta. O famoso Pégaso e o Leão Menor, que não recua um passo."
+  },
+  {
+   "id": 100870,
+   "pt": "Competindo assim, o Cosmo de vocês vai ficar cada vez mais forte."
+  },
+  {
+   "id": 200500,
+   "pt": "Hehe, será?"
+  },
+  {
+   "id": 200510,
+   "pt": "Sim, sem dúvida."
+  },
+  {
+   "id": 100880,
+   "pt": "...Mas o problema começa agora. Há muitos Cavaleiros aqui, até de Prata e Ouro."
+  },
+  {
+   "id": 100890,
+   "pt": "Alguns devem ser inimigos de vocês."
+  },
+  {
+   "id": 100900,
+   "pt": "...Cavaleiros de Ouro?!"
+  },
+  {
+   "id": 100910,
+   "pt": "Sim. Vocês conhecem o poder deles. Não pensem que vai ser fácil como antes."
+  },
+  {
+   "id": 100920,
+   "pt": "...Afaste-se dele, Kouga!"
+  },
+  {
+   "id": 100930,
+   "pt": "...?"
+  },
+  {
+   "id": 100940,
+   "pt": "Eu mandei se afastar!"
+  },
+  {
+   "id": 100950,
+   "pt": "Shaina?! O que faz aqui..."
+  }
+ ],
+ "event/script/53_13.pac#53_13_JP.BTX": [
+  {
+   "id": 200560,
+   "pt": "Ugh... Quem diria que eu ficaria para trás..."
+  },
+  {
+   "id": 101020,
+   "pt": "Shaina... Por que fez isso..."
+  },
+  {
+   "id": 101030,
+   "pt": "...Escute bem, Kouga. Afaste-se agora daquele homem que está com você."
+  },
+  {
+   "id": 101040,
+   "pt": "Já lutei contra eles no passado. ...Aquele homem era um servo de Poseidon!"
+  },
+  {
+   "id": 101050,
+   "pt": "...?!"
+  },
+  {
+   "id": 101060,
+   "pt": "Shaina?! Shaina!"
+  },
+  {
+   "id": 101070,
+   "pt": "...Que pena. Se não falasse demais, teria vivido mais."
+  },
+  {
+   "id": 101080,
+   "pt": "Você...! O que significa isso?!"
+  },
+  {
+   "id": 101090,
+   "pt": "Não preciso explicar. Adeus."
+  },
+  {
+   "id": 101100,
+   "pt": "Ugh... Shaina?!"
+  },
+  {
+   "id": 101110,
+   "pt": "Deixa a Shaina comigo! Vai atrás dele!"
+  },
+  {
+   "id": 101120,
+   "pt": "Souma... Entendido!"
+  },
+  {
+   "id": 101160,
+   "pt": "Entendido... Souma, cuide da Shaina!"
+  },
+  {
+   "id": 101170,
+   "pt": "Pode deixar, vai logo!"
+  },
+  {
+   "id": 200570,
+   "pt": "...Ugh... Onde estou...?"
+  },
+  {
+   "id": 200580,
+   "pt": "Acordou, Shaina?"
+  },
+  {
+   "id": 200590,
+   "pt": "Você é..."
+  },
+  {
+   "id": 200600,
+   "pt": "Souma. Souma de Leão Menor."
+  },
+  {
+   "id": 200610,
+   "pt": "E ele... o que houve com o Sorento?"
+  },
+  {
+   "id": 200620,
+   "pt": "O Kouga foi atrás dele."
+  },
+  {
+   "id": 200630,
+   "pt": "Entendo..."
+  },
+  {
+   "id": 200640,
+   "pt": "...Pode me contar sobre ele? Você disse que ele era servo de Poseidon."
+  },
+  {
+   "id": 200650,
+   "pt": "...Sim. É Sorento, servo de Poseidon. Lutou contra Seiya e sobreviveu."
+  },
+  {
+   "id": 200660,
+   "pt": "Se Poseidon reviveu, ele só pode estar agindo nas sombras."
+  },
+  {
+   "id": 200670,
+   "pt": "...Souma. Onde você conheceu aquele homem?"
+  },
+  {
+   "id": 200680,
+   "pt": "Foi ele quem veio nos avisar da volta de Poseidon."
+  },
+  {
+   "id": 200690,
+   "pt": "...Mas, se ele é servo de Poseidon, para que reuniu os Cavaleiros nesta ilha?"
+  },
+  {
+   "id": 200700,
+   "pt": "Não sei. Mas com certeza tem a ver com a ambição de Poseidon..."
+  },
+  {
+   "id": 200710,
+   "pt": "Hum... Somos caçados como traidores. Talvez ele queira que lutemos entre nós."
+  },
+  {
+   "id": 200720,
+   "pt": "Ele disse mesmo para disputarmos as Gotas d'Água."
+  },
+  {
+   "id": 200730,
+   "pt": "Pode ser..."
+  },
+  {
+   "id": 200740,
+   "pt": "Isto é uma Gota d'Água! Obrigado, Shaina."
+  },
+  {
+   "id": 200750,
+   "pt": "E você, Shaina, o que vai fazer agora?"
+  },
+  {
+   "id": 200760,
+   "pt": "Há um lugar aonde preciso ir. Souma, vem comigo?"
+  },
+  {
+   "id": 200770,
+   "pt": "Claro! Para onde vamos?"
+  },
+  {
+   "id": 200780,
+   "pt": "Nesta ilha fica a casa de veraneio de Julian Solo. Vamos para lá."
+  },
+  {
+   "id": 200790,
+   "pt": "Julian Solo?"
+  },
+  {
+   "id": 200800,
+   "pt": "Sim. O rei do comércio marítimo. Poseidon revive usando o corpo dele..."
+  }
+ ],
+ "event/script/53_14.pac#53_14_JP.BTX": [
+  {
+   "id": 200950,
+   "pt": "Maldito Leão Menor...!"
+  },
+  {
+   "id": 200960,
+   "pt": "Sonia. Prepare-se, vou vingar meu pai...!"
+  },
+  {
+   "id": 200970,
+   "pt": "...Souma! Ei, Souma!!"
+  },
+  {
+   "id": 200980,
+   "pt": "...O que foi?!"
+  },
+  {
+   "id": 200990,
+   "pt": "Ufa... ufa... Ainda bem que te achei, zansu. A Yuna está em perigo, me ajude, zansu!"
+  },
+  {
+   "id": 201000,
+   "pt": "A Yuna?! O que aconteceu?!"
+  },
+  {
+   "id": 201010,
+   "pt": "Você conhece o Ionia, né? O que era diretor da Palestra, zansu..."
+  },
+  {
+   "id": 201020,
+   "pt": "Sim. O Cavaleiro de Ouro de Capricórnio."
+  },
+  {
+   "id": 201030,
+   "pt": "A Yuna deu de cara com ele, zansu!"
+  },
+  {
+   "id": 201040,
+   "pt": "Sozinha ela não tem chance contra um Cavaleiro de Ouro, zansu. Vem comigo!"
+  },
+  {
+   "id": 201050,
+   "pt": "Mas eu..."
+  },
+  {
+   "id": 201060,
+   "pt": "Pai, eu..."
+  },
+  {
+   "id": 201070,
+   "pt": "...Ela é a assassina do seu pai, pelo visto."
+  },
+  {
+   "id": 201080,
+   "pt": "Mas para você, o mais importante é a vingança?"
+  },
+  {
+   "id": 201090,
+   "pt": "...!"
+  },
+  {
+   "id": 201100,
+   "pt": "Se não for agora, sua amiga pode morrer. Vai seguir o caminho da vingança de novo?"
+  },
+  {
+   "id": 201110,
+   "pt": "..."
+  },
+  {
+   "id": 201120,
+   "pt": "...Entendi, Shaina. Agora não é hora de vingança. É hora de salvar minha amiga!"
+  },
+  {
+   "id": 201130,
+   "pt": "Sonia, você teve sorte! Mas da próxima vez não escapa!"
+  },
+  {
+   "id": 201140,
+   "pt": "..."
+  },
+  {
+   "id": 201150,
+   "pt": "Ichi! Vou salvar a Yuna. Me mostra o caminho!"
+  },
+  {
+   "id": 201160,
+   "pt": "Certo, é por aqui, zansu!"
+  }
+ ],
+ "event/script/53_15.pac#53_15_JP.BTX": [
+  {
+   "id": 201290,
+   "pt": "Ugh... Ser encurralado assim por um Cavaleiro de Bronze tão jovem..."
+  },
+  {
+   "id": 201300,
+   "pt": "Por nossos amigos, sempre lutamos arriscando a vida...! Aprendi isso na Palestra..."
+  },
+  {
+   "id": 201310,
+   "pt": "Hmm..."
+  },
+  {
+   "id": 201320,
+   "pt": "Leve isto."
+  },
+  {
+   "id": 201330,
+   "pt": "Isto é...?"
+  },
+  {
+   "id": 201340,
+   "pt": "Se dizem que vão derrotar Poseidon, façam isso."
+  },
+  {
+   "id": 201350,
+   "pt": "Para o senhor Marte, Poseidon também é um inimigo a ser vencido..."
+  },
+  {
+   "id": 201360,
+   "pt": "Diretor..."
+  },
+  {
+   "id": 201370,
+   "pt": "Ufa... Graças ao Souma. Obrigada."
+  },
+  {
+   "id": 201380,
+   "pt": "...Agradeça ao Ichi também."
+  },
+  {
+   "id": 201390,
+   "pt": "Hã?"
+  },
+  {
+   "id": 201400,
+   "pt": "Hã?"
+  },
+  {
+   "id": 201410,
+   "pt": "Sem o Ichi, eu não saberia que você estava em apuros. Ele ajudou muito."
+  },
+  {
+   "id": 201420,
+   "pt": "Obrigada, Ichi."
+  },
+  {
+   "id": 201430,
+   "pt": "N-Não foi nada! Por vocês eu faço qualquer coisa, zansu!"
+  },
+  {
+   "id": 201440,
+   "pt": "Vamos lá, pessoal! Agora é derrotar Poseidon, zansu! Nada de vacilar, zansu!"
+  },
+  {
+   "id": 201450,
+   "pt": "Haha, que animação..."
+  },
+  {
+   "id": 201460,
+   "pt": "Hã? Disse alguma coisa, Souma?"
+  },
+  {
+   "id": 201470,
+   "pt": "Nada, não. Vamos, Ichi!"
+  },
+  {
+   "id": 201480,
+   "pt": "Hihi, vamos!"
+  }
+ ],
+ "event/script/53_16.pac#53_16_JP.BTX": [
+  {
+   "id": 201650,
+   "pt": "Hmm... Magnífico. Já consegue aguentar o punho do leão."
+  },
+  {
+   "id": 201660,
+   "pt": "Ainda tenho que derrotar Poseidon. Não posso perder aqui!"
+  },
+  {
+   "id": 201670,
+   "pt": "Hmph... O filhote virou leão... Muito bem, Souma de Leão Menor. Leve isto."
+  },
+  {
+   "id": 201680,
+   "pt": "Uma Gota d'Água? ...O que significa isso, Mycenae?"
+  },
+  {
+   "id": 201690,
+   "pt": "Vai derrotar Poseidon, não vai? Então leve isto."
+  },
+  {
+   "id": 201700,
+   "pt": "Mas você, me entregando assim, sem mais nem menos..."
+  },
+  {
+   "id": 201710,
+   "pt": "Se vão vencer Poseidon, não vou impedir. Vá, antes que eu mude de ideia."
+  },
+  {
+   "id": 201720,
+   "pt": "Se é assim, eu aceito. Vou derrotar Poseidon por você. Até mais, Mycenae!"
+  }
+ ],
+ "event/script/53_17.pac#53_17_JP.BTX": [
+  {
+   "id": 201990,
+   "pt": "Ugh... Quem diria que eu sofreria tanto... ...Muito bem. Leve isto."
+  },
+  {
+   "id": 202000,
+   "pt": "Hã, que obediente."
+  },
+  {
+   "id": 202010,
+   "pt": "Eu disse, não disse? Mesmo me vencendo, não é páreo para o senhor Poseidon."
+  },
+  {
+   "id": 202020,
+   "pt": "Nós também não vamos cair tão fácil... ...Hã, o que é isso...?"
+  },
+  {
+   "id": 202030,
+   "pt": "...!"
+  },
+  {
+   "id": 202040,
+   "pt": "O-o que é isso...?!"
+  },
+  {
+   "id": 202050,
+   "pt": "Hmph... É a Escama de Tritão, com o Cosmo do senhor Poseidon. Com ela, passará."
+  },
+  {
+   "id": 202060,
+   "pt": "Isto é..."
+  },
+  {
+   "id": 202070,
+   "pt": "Vá, Leão Menor. Só você, com a Escama, pode seguir. Lute o quanto puder."
+  },
+  {
+   "id": 202080,
+   "pt": "Cuidado, Souma. Não esqueça: a paz da Terra está nos seus ombros."
+  },
+  {
+   "id": 202090,
+   "pt": "Sim, eu sei. Vou derrotar Poseidon com certeza, deixa comigo."
+  },
+  {
+   "id": 202100,
+   "pt": "Na verdade eu queria ir, zansu..."
+  },
+  {
+   "id": 202110,
+   "pt": "Tudo bem, zansu. Só desta vez, deixo o papel de herói para você."
+  },
+  {
+   "id": 202120,
+   "pt": "Haha, valeu, Ichi. Vou lutar por você também!"
+  },
+  {
+   "id": 202130,
+   "pt": "Souma. Eu acredito que você vence Poseidon. Então volte inteiro, tá?"
+  },
+  {
+   "id": 202140,
+   "pt": "Pode deixar! Quando eu voltar, vamos fazer uma festa!"
+  },
+  {
+   "id": 202150,
+   "pt": "Bom, pessoal. Lá vou eu!"
+  }
+ ],
+ "event/script/53_18.pac#53_18_JP.BTX": [
+  {
+   "id": 102460,
+   "pt": "Ugh... Quem diria que eu ficaria para trás..."
+  },
+  {
+   "id": 202260,
+   "pt": "...É mesmo um deus. E o selo nem foi rompido por completo..."
+  },
+  {
+   "id": 202270,
+   "pt": "Se o selo se romper, ele vai ser fortíssimo..."
+  },
+  {
+   "id": 102480,
+   "pt": "...Não precisa se preocupar."
+  },
+  {
+   "id": 202280,
+   "pt": "O quê?!"
+  },
+  {
+   "id": 202290,
+   "pt": "Eu disse que não precisa se preocupar."
+  },
+  {
+   "id": 202300,
+   "pt": "..."
+  },
+  {
+   "id": 202310,
+   "pt": "Cavaleiro, vou dormir novamente."
+  },
+  {
+   "id": 102520,
+   "pt": "Mesmo sem meu verdadeiro poder, me derrotar foi admirável."
+  },
+  {
+   "id": 102530,
+   "pt": "Mas lembre-se: ao contrário de vocês, humanos, o tempo dos deuses é infinito."
+  },
+  {
+   "id": 102540,
+   "pt": "Por mais que lutem, um dia a derrota virá."
+  },
+  {
+   "id": 202320,
+   "pt": "Não vai, não! Quantas vezes você voltar, os Cavaleiros vão proteger a Terra!"
+  },
+  {
+   "id": 202330,
+   "pt": "Hmph... Então aguardarei meu próximo despertar."
+  },
+  {
+   "id": 202340,
+   "pt": "Até lá, não entreguem a Terra a mais ninguém... Adeus, Cavaleiros de Atena..."
+  },
+  {
+   "id": 202350,
+   "pt": "Poseidon... ...?!"
+  },
+  {
+   "id": 202360,
+   "pt": "O quê? A Escama de Tritão..."
+  },
+  {
+   "id": 202370,
+   "pt": "O Cosmo de Poseidon sumiu... Então ele voltou a dormir..."
+  },
+  {
+   "id": 202380,
+   "pt": "...Hehe... Caso encerrado. Acho que eu também protegi a Terra. Consegui, pai..."
+  }
+ ]
+}
